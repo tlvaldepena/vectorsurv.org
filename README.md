@@ -1,8 +1,9 @@
 # CalSurv.org
 
 The site is broken down in to 2 main sections: 
-    1. Documentation
-    2. News posts
+
+1. Documentation
+2. News posts
 
 ## Documentation
 Documentation goes in the `_docs/` folder.  Documentation needs to have **Front Matter** at the top of the page to work.  **Front Matter** looks like this:
