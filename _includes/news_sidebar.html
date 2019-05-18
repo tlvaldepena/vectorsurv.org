@@ -1,0 +1,15 @@
+<div class="sidebar">
+  <div class="wrap-outer">
+    <div class="wrap-inner">
+      <nav>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url }}">{% if post.url == page.url %}<span class="current"></span>{% endif %}{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
