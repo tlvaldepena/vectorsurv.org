@@ -1,22 +1,27 @@
 <div class="sidebar">
-  <div class="wrap-outer">
-    <div class="wrap-inner">
+  <div> 
+    <div class="sidebar-wrap-outer">
+      <div class="sidebar-wrap-inner">
         <nav>
-        {% for section in site.data.docs_nav %}
-        <h4 class="container">{{ section.title }}</h4>
-        <ul>
-          {% for item in section.docs %}
-            {% assign p = site.documents | where: "url", item.link | first %}
-            <li {%- if page.url == p.url %} class="current" {%- endif %}>
-              <a class="item" href="{{ p.url }}">
-                {%- if page.url == p.url %}<span class="current"></span>{%- endif %}
-                {{ p.menu_name | default: p.title }}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-        {% endfor %}
-      </nav>
+          <div>
+            {% for section in site.data.docs_nav %}
+            <h4 class="container">{{ section.title }}</h4>
+            <ul>
+              {% for item in section.docs %}
+                {% assign p = site.documents | where: "url", item.link | first %}
+                <li {%- if page.url == p.url %} class="current" {%- endif %}>
+                  <a class="item" href="{{ p.url }}">
+                    {%- if page.url == p.url %}<span class="current"></span>{%- endif %}
+                    {{ p.menu_name | default: p.title }}
+                  </a>
+                </li>
+              {% endfor %}
+            </ul>
+            {% endfor %}
+          </div>
+        </nav>
+      </div>
     </div>
+    {% include menu_button.html %}
   </div>
 </div>

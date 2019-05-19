@@ -5,6 +5,6 @@
   docs:
     - link: /docs/arthropod/config/
     - link: /docs/arthropod/collection/
-    - link: /docs/arthropod/pools/
+    - link: /docs/arthropod/pool/
     - link: /docs/arthropod/submission/
     - link: /docs/arthropod/test-results/

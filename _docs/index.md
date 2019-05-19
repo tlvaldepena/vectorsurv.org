@@ -2,4 +2,4 @@
 title: Documentation
 permalink: /docs/
 ---
-# This is an index
+Here are the documents
