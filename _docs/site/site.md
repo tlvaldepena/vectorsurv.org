@@ -1,6 +1,7 @@
 ---
 title: Site
 permalink: /docs/site/
+gateway-url: https://gateway.calsurv.org/site/ppf/site
 ---
 Sites are essentially bookmarks for trap locations.  They will help you quickly record and collection events and pool tests without having to locate them on a map or type in coordinates each time.
 

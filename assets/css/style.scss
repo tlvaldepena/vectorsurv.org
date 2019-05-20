@@ -315,13 +315,13 @@ section.content .gatsby-highlight {
   padding-right: 15px;
 }
 
-section.content a:not(.anchor):not(.gatsby-resp-image-link) {
+section.content a:not(.anchor):not(.gatsby-resp-image-link), .gateway-url a {
   background-color: rgba(187,239,253,0.3);
   border-bottom: 1px solid rgba(0,0,0,0.2);
   color: #1a1a1a;
 }
 
-section.content a:not(.anchor):not(.gatsby-resp-image-link):hover {
+section.content a:not(.anchor):not(.gatsby-resp-image-link):hover, .gateway-url a {
   background-color: #bbeffd;
   border-bottom-color: #1a1a1a;
 }
@@ -827,6 +827,7 @@ section.content .gatsby-highlight + h4::before{
   -webkit-justify-content: flex-start;
   -webkit-box-align: stretch;
   -webkit-align-items: stretch;
+  padding-bottom: 20px;
 }
 
 .main article h1{
@@ -1356,4 +1357,8 @@ section.content .gatsby-highlight + h4::before{
 .css-cf8c4v {
   transform: translate(2px, 8px) rotate(180deg);
   transition: -webkit-transform 0.2s ease 0s, transform 0.2s ease 0s;
+}
+
+.gateway-url {
+  margin: 20px 0px;
 }

@@ -3,8 +3,14 @@
     - link: /docs/site/
 - title: Arthropod
   docs:
-    - link: /docs/arthropod/config/
     - link: /docs/arthropod/collection/
     - link: /docs/arthropod/pool/
     - link: /docs/arthropod/submission/
     - link: /docs/arthropod/test-results/
+    - link: /docs/arthropod/trap-types/
+- title: Resistance
+  docs:
+    - link: /docs/resistance/kdr-tube-submission/
+- title: Settings
+  docs:
+    - link: /docs/settings/account-preferences/

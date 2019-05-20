@@ -8,6 +8,12 @@ layout: default
       <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+  {% if page.gateway-url %}
+  <div class="gateway-url">
+    <h4>Gateway URL: <a href="{{ page.gateway-url }}">{{ page.gateway-url }}</a></h4>
+  </div>
+  {% endif %}
+
   <section class="content">
       {{ content }}
   </section>
