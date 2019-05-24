@@ -11,9 +11,9 @@ Sites are essentially bookmarks for trap locations. They will help you quickly r
   * Type in Latitude/Longitude as Decimal Degrees, Degrees Minutes Seconds, or Degrees Minutes in one of the first three tabs. The point will appear on the Map tab.
   * Click on the location on the Map tab. The resulting marker can be moved if necessary.
   * Geocode the address either on the Map tab or by filling the address fields below.
-* **Coordinate Precision**: Used to specify whether or not a site is marked exactly. Should be kept as **Exact** for most data, this is to specify historical data that might not be as accurate as modern data.
+* **Coordinate Precision**: Used to specify whether or not a site is marked exactly. Should be kept as *Exact* for most data, this is to specify historical data that might not be as accurate as modern data.
 * **Elevation**: The elevation of the site, can be calculated via Google Maps once a location is specified.
 * **Address**: The address of the site.
-* **Surroundings**: The surroundings of the site. More than one can be chosen by holding down the Ctrl/Cmd key while making selections. If **Other** is specified, a text field will appear to clarify.
+* **Surroundings**: The surroundings of the site. More than one can be chosen by using the *CTRL/CMD/SHIFT* keys while making selections. If *Other* is specified, a text field will appear to clarify.
 * **Population Classification**: Whether the site is Urban, Suburban, or Rural. Can be calculated via census data after a location is specified.
 * **Comments**: Any additional notes that should be recorded with this site.
