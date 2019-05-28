@@ -2,7 +2,7 @@
 title: Account Preferences
 gateway-url: https://gateway.calsurv.org/core/ppf/preference
 ---
-Use this page to customize the CalSurv Gateway display and export products.
+Use this page to customize the CalSurv Gateway displays and exports products.
 
 ## Data Format
 * **Date**: Change how the date is displayed. Default is Y-M-D, example: 2019-05-24
