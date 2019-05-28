@@ -1,5 +1,5 @@
 ---
-title: Arthropod Config
+title: Config
 gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/39
 ---
 Configure settings for arthropod abundance pages to fit your agency's specifications.
