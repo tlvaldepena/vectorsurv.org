@@ -36,7 +36,7 @@ If a collection is made at a location that is not a normal trapping location, th
 Optionally, a pool for arbovirus testing can be entered through the collection page. This links the pool to the collection that the pool originated from.
 
 * **Pool #**: A numeric identifier for the pool. Pool numbers have to be unique per agency per year. Normally you would start at 1 and increment throughout the year but your exact numbering scheme is up to you. Available numbers for your agency are shown in the **Open 20xx Pool #s** box on the righthand side of the page.
-![Open Pool #s box]({{ site.baseurl }}/assets/images/docs/open_pools.png) 
+![Open Pool #s box]({{ site.baseurl }}/assets/images/docs/open_pools.PNG) 
 * **Other Sites**: List other Site Codes separated by commas. Ex: 001001,001002,001003.  
 To specify the number of specimens contributed by a site, place the quantity after the site code wrapped by parentheses. Ex: 001001(12),001002,001003(2).
 * **Species**: The species that make up this pool.
