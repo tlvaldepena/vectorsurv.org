@@ -16,7 +16,7 @@ This page serves the same purpose as the optional pool entry form on the [new co
 To specify the number of specimens contributed by a site, place the quantity after the site code wrapped by parentheses. Ex: 001001(12),001002,001003(2).
 * **Trap Type**: The type of trap that was used for the collection. The list of traps in the dropdown can be adjusted through the [trap types configuration]({{ site.baseurl }}/docs/arthropod/trap-types) page.
 * **Lure(s)**: The types of lure(s) used with the trap if any. Multiple values can be selected by using *CTRL/CMD/SHIFT* keys while selecting values. *Unspecified* and *None* can only be selected individually.
-* **Collection Date**: The date the trap was picked up. If a trap was left for multiple nights, enter the last day the trap was in the field. Date format is based on the settings under [Account Preferences]({{ site.baseurl }}/docs/settings/account-preferences).
+* **Collection Date**: The date the trap was picked up. If a trap was left for multiple nights, enter the last day the trap was in the field. Date format is based on the settings under [Account Preferences]({{ site.baseurl }}/docs/settings/account-preferences). If the *Enable calendar for dates* box is checked below the table, clicking the **Collection Date** field will pull up a calendar; if unchecked, the date will need to be entered manually.
 * **Species**: The species that make up this pool.
 * **Sex/Condition**: The sex/condition of this mosquito
 * **# in Pool**: The total number of specimens in this pool. If this pool has specimen from more than one site (denoted in the Other Sites column), the number of specimens from the primary site (Site Code column) will be determined from this value.
