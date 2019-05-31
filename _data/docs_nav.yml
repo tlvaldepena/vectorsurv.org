@@ -11,6 +11,11 @@
 - title: Resistance
   docs:
     - link: /docs/resistance/kdr-tube-submission/
+- title: Tools
+  docs:
+    - link: /docs/tools/data-tools/
+    title: Calculators
+      - link: /docs/tools/calculators/anomaly/
 - title: Settings
   docs:
     - link: /docs/settings/account-preferences/
