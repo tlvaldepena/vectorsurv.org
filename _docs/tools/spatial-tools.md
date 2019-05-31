@@ -3,7 +3,8 @@ title: Spatial Tools
 gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/82
 ---
 ## ArcGIS Surveillance Map
-This is a link to [CalSurv Maps]: https://maps.calsurv.org
+This is a link to [CalSurv Maps]
+[CalSurv Maps]: https://maps.calsurv.org
 
 ## Geocode
 This tool will extract long/lat coordinates from an address typed into the **Location** field or uploaded in a file, which is advantageous for geocoding multiple addresses at once. Note that the geocode file must follow a specific format for the import to be successful, which can be found at the box to the righthand side of the screen.
