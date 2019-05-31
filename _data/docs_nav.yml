@@ -1,6 +1,7 @@
 - title: Sites
   docs:
     - link: /docs/site/
+    - link: /docs/site/site-group
 - title: Arthropod
   docs:
     - link: /docs/arthropod/collection/
