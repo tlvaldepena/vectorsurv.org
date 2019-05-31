@@ -15,6 +15,7 @@
   docs:
     - link: /docs/tools/data-tools/
     - link: /docs/tools/calculators/anomaly/
+    - link: /docs/tools/spatial-tools/
 - title: Settings
   docs:
     - link: /docs/settings/account-preferences/
