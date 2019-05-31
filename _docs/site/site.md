@@ -1,5 +1,5 @@
 ---
-title: Site
+title: New Site
 permalink: /docs/site/
 gateway-url: https://gateway.calsurv.org/site/ppf/site
 ---
