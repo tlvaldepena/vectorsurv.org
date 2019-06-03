@@ -11,11 +11,12 @@ The pool infection rate calculator estimates the arbovirus infection rate based 
 * **# of Date Periods**: Must be at least 1 to make a calculation. If this number is larger than 1, the infection rate is calculated for the selected date period and the same period immediately preceding. Ex: You are using a manual date range of 4 days. If the number of date periods is 2, the calculator will estimate the infection rate separately for the selected 4 days and for the 4-day period ending right before the start date of your range.
 * **Spatial Filter**: This feature allows you to filter results within the agency or agencies. You can draw a polygon on the map using the feature tab, or include a previously saved feature from the [Spatial Features]({{ site.baseurl }}/docs/tools/spatial-tools) page. ![Polygon example]({{ site.baseur1 }}/assets/images/docs/spatial-feature-tools.PNG) Alternatively, you can filter by [site group]({{ site.baseur1 }}/docs/site/site-group), region (determined when creating a [new site]({{ site.baseur1 }}/docs/site)), or specific site. For these filters, multiple values can be selected by using the *CTRL/CMD/SHIFT* keys while selecting values. If the *Treat each selected filter independently* box is checked, the infection rate will be stratified by spatial filter, otherwise the rate will be aggregated for the selection.
 * **Target/Virus**: The pathogen for which you wish to estimate the pool infection rate.
-* **Species**:
-* **Sex/Condition**:
-* **Trap Type**:
-* **Point Estimate**:
-* **Confidence Interval**:
-* **Scale**:
+* **Species**: Here you can choose whether to look at the infection rate for all species or selected species of interest. Multiple species can be selected by using the *CTRL/CMD/SHIFT* keys while selecting values. If the *Treat each selected species independently* box is checked, the infection rate will be stratified by species, otherwise the rate will be aggregated for all selected species.
+* **Sex/Condition**: Typically, the females of various conditions are of interest when calculating the infection rate, but you could also examine males, unknown sex, eggs, larvae, and pupae. Multiple values can be selected by using the *CTRL/CMD/SHIFT* keys while selecting values, and checking the *Treat each selected sex/condition individually* box will stratify the infection rate by the selected values.
+* **Trap Type**: Filter the results by the trap type used for the collection. This is helpful to ensure that results are comparable over time and/or across agencies. Similar to **Sex/Condition**, multiple trap types can be selected by using the *CTRL/CMD/SHIFT* keys while selecting values, and checking the *Treat each selected trap type individually* box will stratify the abundance anomaly by the selected traps.
+* **Point Estimate**: The type of infection rate to calculate. The bias-corrected MLE will be appropriate for most situations, but you can also choose to calculate the MLE or MIR.
+* **Confidence Interval**: Select the confidence level for the estimate. This is generally left at 95%.
+* **Scale**: The value by which to scale the infection rate and confidence interval. The estimated infection rate per 1000 (default) female mosquitoes.
 
 ## Results
+The # of Calculations indicator shows how many calculations will be performed based on the stratifications (checkboxes) that have been selected. If none of the boxes were checked, the infection rate at the desired time interval will be aggregated to a single calculation. The resulting table is downloadable, and you also have the option to view a time series graph (one graph per stratification) comparing the infection rate over the date periods (if more than 1).
