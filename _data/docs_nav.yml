@@ -18,6 +18,12 @@
   docs:
   - link: /docs/carcass/reports/
   - link: /docs/carcass/testing/
+- title: Application
+  docs:
+  - link: /docs/application/application/
+  - link: /docs/application/source/
+  - link: /docs/application/config/
+  - link: /docs/application/pur/
 - title: Resistance
   docs:
     - link: /docs/resistance/kdr-tube-submission/
