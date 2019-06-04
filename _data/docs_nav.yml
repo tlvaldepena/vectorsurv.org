@@ -18,6 +18,7 @@
     - link: /docs/tools/calculators/anomaly/
     - link: /docs/tools/calculators/infection-rate/
     - link: /docs/tools/calculators/risk-assessment/
+    - link: /docs/tools/calculators/vector-index/
     - link: /docs/tools/spatial-tools/
 - title: Settings
   docs:
