@@ -2,7 +2,7 @@
 title: New Source
 gateway-url: https://gateway.calsurv.org/source/ppf/source
 ---
-Sources are a way to bookmark locations that are regularly treated with pesticides without re-entering information.
+Sources are a way to bookmark locations that are regularly treated with pesticides without re-entering information each time a [new application]({{ site.baseur1 }}/docs/application/application) is added.
 
 * **Source Code**: A 10-digit numeric identifier for the source. Must be unique to the agency, but not throughout the system. Each agency can assign codes however they want. Codes that have not yet been assigned for sources in your current agency will be listed in the **Available Ranges** box on the righthand side of the screen.
 ![Available ranges]({{ site.baseur1 }}/assets/images/docs/available-ranges-source.PNG)
