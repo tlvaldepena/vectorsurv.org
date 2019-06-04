@@ -10,5 +10,5 @@ Sources are a way to bookmark locations that are regularly treated with pesticid
 * **Address**: The address of or nearest intersection to the source.
 * **Waters of the US**: Is the source classifed as a Waters of the US location? Check if yes.
 * **Comments**: Any additional notes that should be recorded with this source.
-* **Coordinates**: The spatial location for the source. This can be determined by geocoding the address through the address fields above or the box below the map or by using one of the geographical features icons on the map to draw a point, polygon, or line.
+* **Coordinates**: The spatial location for the source. This can be determined by geocoding the address through the address fields above or the box below the map, or by using one of the geographical features icons on the map to draw a point, polygon, or line.
 ![Geographical features]({{ site.baseur1 }}/assets/images/docs/geo-features.PNG)
