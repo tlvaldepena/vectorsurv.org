@@ -2,7 +2,7 @@
 title: Spatial Tools
 gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/82
 ---
-Use these tools to help you manage spatial aspects of your data.
+Use these tools to help manage spatial aspects of your data.
 
 ## ArcGIS Surveillance Map
 This is a link to [CalSurv Maps](<https://maps.calsurv.org>)
