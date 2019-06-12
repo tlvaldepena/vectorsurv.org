@@ -14,7 +14,7 @@ Additionally, a one-time source can be added manually using one of the geographi
 * **Mix**: The pesticide mix used for this application. The list of mixes in the dropdown can be adjusted throught he [mix configuration]({{ site.baseur1 }}/docs/application/config) page.
 * **Quantity**: How much pesticide was used? The first field is used to type in a value and the second field indicates the units.
 ![Application amount]({{ site.baseur1 }}/assets/images/docs/application-amt.PNG)
-* **Area**: If the application occured over a polygon location, how big was the area? Similarly to *Quantity*, the first field is used to type in a vlaue and the second field indicates the units.
+* **Area**: If the application occured over a polygon location, how big was the area? Similarly to **Quantity**, the first field is used to type in a vlaue and the second field indicates the units.
 * **Start/End Date**: The date on which the application began/ended. Typically, the start and end dates will be the same. Date format is based on the settings under [Account Preferences]({{ site.baseur1 }}/docs/settings/account-preferences).
 * **Start/End Time**: The time at which the application began/ended. You can use the dropdown to select the time in 15-minute increments or type in the exact time manually. Time format is based on the settings under [Account Preferences]({{ site.baseur1 }}/docs/settings/account-preferences).
 * **Description**: Use this section to describe the application, such as weather conditions, for example.
