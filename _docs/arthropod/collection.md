@@ -40,7 +40,7 @@ Optionally, a pool for arbovirus testing can be entered through the collection p
 * **Other Sites**: List other Site Codes that contributed arthropods to this pool separated by commas. Ex: 001001,001002,001003.  
 To specify the number of specimens contributed by a site, place the quantity after the site code wrapped by parentheses. Ex: 001001(12),001002,001003(2).
 * **Species**: The species that make up this pool.
-* **Sex/Condition**: The sex/condition of this mosquito
+* **Sex/Condition**: The sex/condition of the arthropods in this pool.
 * **# in Pool**: The total number of specimens in this pool. If this pool has specimen from more than one site (denoted in the Other Sites column), the number of specimens from the primary site (Site Code column) will be determined from this value.
 * **Comments**: Any accompanying comments.
 
