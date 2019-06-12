@@ -13,7 +13,7 @@ Mosquito control and public health agencies who use the CalSurv system do so thr
 
 Surveillance reports and other information are available available through partner websites in each state, and national maps of arbovirus surveillance results are available from CDC’s ArboNet system. To access this information, select from the links below.
 
-To request CalSurv data for California, please review the policy and complete the request form [here](https://calsurv.org/wp-content/uploads/2019/03/CalSurv_Data_Policy_20190301.pdf). Got questions? Send them to [help@calsurv.org](mailto:help@calsurv.org).
+To request CalSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/calsurv_data_policy.pdf). Got questions? Send them to [help@calsurv.org](mailto:help@calsurv.org).
 
 USA
 
