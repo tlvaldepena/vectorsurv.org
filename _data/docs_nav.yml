@@ -8,9 +8,6 @@
     - link: /docs/arthropod/pool/
     - link: /docs/arthropod/submission/
     - link: /docs/arthropod/trap-types/
-- title: Carcass
-  docs:
-  - link: /docs/carcass/reports/
 - title: Application
   docs:
   - link: /docs/application/application/
