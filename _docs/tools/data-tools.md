@@ -1,6 +1,6 @@
 ---
 title: Data Tools
-gateway-url: https://gateway.calsurv.org/core/pff/menu/path/81
+gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/81
 ---
 Quickly import and export data.
 
