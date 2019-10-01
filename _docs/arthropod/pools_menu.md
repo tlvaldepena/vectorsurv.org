@@ -9,3 +9,8 @@ Arthopod menu
 ### [Pool Management]({{ site.baseurl }}/docs/arthropod/pool_manage)
 
 ### Testing
+* [New Submission]({{ site.baseur1 }}/docs/arthropod/submission)
+* Submission Management
+* New Test Results
+* [Test Result Management]({{ site.baseur1 }}/docs/arthropod/test-results)
+* [Infection Rate Calculator]({{ site.baseur1 }}/docs/tools/calculators/infection-rate)
