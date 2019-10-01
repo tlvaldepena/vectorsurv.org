@@ -4,11 +4,9 @@
     - link: /docs/site/site-group/
 - title: Arthropod
   docs:
-    - link: /docs/arthropod/collection/
-    - link: /docs/arthropod/pool/
-    - link: /docs/arthropod/pool_manage/
-    - link: /docs/arthropod/submission/
     - link: /docs/arthropod/trap-types/
+    - link: /docs/arthropod/abundance/
+    - link: /docs/arthropod/pools_menu/
 - title: Application
   docs:
   - link: /docs/application/application/
