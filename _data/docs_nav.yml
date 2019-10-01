@@ -6,6 +6,7 @@
   docs:
     - link: /docs/arthropod/collection/
     - link: /docs/arthropod/pool/
+    - link: /docs/arthropod/pool_manage/
     - link: /docs/arthropod/submission/
     - link: /docs/arthropod/trap-types/
 - title: Application
