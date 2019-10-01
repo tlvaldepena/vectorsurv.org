@@ -1,8 +1,8 @@
 ---
 title: Abundance
-gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/38
+gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/42
 ---
-Arthopod menu
+Abundance menu
 
 ### [New Collection]({{ site.baseurl }}/docs/arthropod/collection)
 
