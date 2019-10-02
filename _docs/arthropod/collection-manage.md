@@ -3,7 +3,7 @@ title: Collection Management
 gateway-url: https://gateway.calsurv.org/arthro/ppf/collection_manage
 ---
 
-View and edit saved abundance collections.
+View and edit saved abundance records.
 
 ## Collection Management Table
 
