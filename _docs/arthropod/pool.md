@@ -1,13 +1,13 @@
 ---
-title: Pool
+title: New Pools
 gateway-url: https://gateway.calsurv.org/arthro/ppf/pool
 ---
 
 Pool submissions are records of groups of mosquitoes sent to be tested for arboviruses.
 
-## New Pools
-
 This page serves the same purpose as the optional pool entry form on the [new collection]({{ site.baseurl }}/docs/arthropod/collection) page. One or the other should be used to submit a single pool.
+
+## Fields
 
 * **Pool #**: A numeric identifier for the pool. Pool numbers have to be unique per agency per year. Normally you would start at 1 and increment throughout the year but the exact numbering scheme is up to you. Available numbers for your agency are shown in the **Open 20xx Pool #s** box on the righthand side of the page.
 ![Open Pool #s box]({{ site.baseurl }}/assets/images/docs/open_pools.PNG) 
