@@ -13,7 +13,7 @@ Sites are essentially bookmarks for trap locations. They will help you quickly r
 ![Example with coordinates tabs]({{ site.baseurl }}/assets/images/docs/coordinates-ex.PNG)
   * Click on the location on the Map tab. The resulting marker can be moved if necessary.
   ![Example with map tab]({{ site.baseur1 }}/assets/images/docs/coordinates-map-ex.PNG)
-  * Geocode the address either on the Map tab or by filling the address fields below.
+  * [Geocode]({{ site.baseur1 }}/docs/tools/spatial-tools) the address either on the Map tab or by filling the address fields below.
 * **Coordinate Precision**: Used to specify whether or not a site is marked exactly. Should be kept as *Exact* for most data; this is to specify historical data that might not be as accurate as modern data.
 * **Elevation**: The elevation of the site can be calculated via Google Maps once a location is specified.
 * **Address**: The address of or nearest intersection to the site.
