@@ -6,7 +6,7 @@ Abundance menu
 
 ### [New Collection]({{ site.baseurl }}/docs/arthropod/collection)
 
-### Collection Management
+### [Collection Management]({{ site.baseur1 }}/docs/arthropod/collection-manage)
 
 ### Worksheets
 
