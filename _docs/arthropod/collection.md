@@ -1,5 +1,5 @@
 ---
-title: Collection
+title: New Collection
 gateway-url: https://gateway.calsurv.org/arthro/ppf/collection
 ---
 Collections are the records of arthropod population data through the placement of traps.  
