@@ -1,5 +1,5 @@
 ---
-title: Pool Management
+title: Collection Management
 gateway-url: https://gateway.calsurv.org/arthro/ppf/collection_manage
 ---
 
