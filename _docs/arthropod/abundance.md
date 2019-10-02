@@ -5,11 +5,10 @@ gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/42
 Abundance menu
 
 ### [New Collection]({{ site.baseurl }}/docs/arthropod/collection)
+Record arthropod population data through the placement of traps.
 
 ### [Collection Management]({{ site.baseur1 }}/docs/arthropod/collection-manage)
-
-### Worksheets
+View and edit saved abundance records.
 
 ### [Abundance Anomaly Calculator]({{ site.baseur1 }}/docs/tools/calculators/anomaly)
-
-### Collection Reports
+This calculator estimates the percent change in arthropod abundance for a target year compared to the previous 5-year average abundance for the same time period.
