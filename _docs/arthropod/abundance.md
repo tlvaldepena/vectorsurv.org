@@ -15,3 +15,6 @@ Automatically generate sheets to fill in arthropod counts.
 
 ### [Abundance Anomaly Calculator]({{ site.baseur1 }}/docs/tools/calculators/anomaly)
 This calculator estimates the percent change in arthropod abundance for a target year compared to the previous 5-year average abundance for the same time period.
+
+### [Collection Reports]({{ site.baseur1 }}/docs/arthropod/collection-reports)
+Quickly generate Arthropod Collection and Arthropod Occurrence Reports.
