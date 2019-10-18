@@ -7,6 +7,7 @@ Collection reports automatically generate Arthropod Collection and/or Arthropod 
 * **Agency**: Choose the agency for which you wish to generate the report(s). You can select multiple agencies by using the *CTRL/CMD/SHIFT* keys while selecting values. If more than one agency or the **All Available Agencies** option is selected, a report is generated for each agency.
 * **Disease Week**: Use the drop-down arrows to select the epi-week and year for which to generate the report. This autofills the **Date Range** field.
 * **Date Range**: This field is autofilled from the **Disease Week** selection. You can also enter dates manually into the boxes for date ranges longer or shorter than one week. Date format is based on the settings under [Account Preferences]({{ site.baseur1 }}/docs/settings/account-preferences).
+
 ![Date Range]({{ site.baseur1 }}/assets/images/docs/disease-week.PNG)
 * **Trap Type**: Check the boxes next to the trap types to generate reports for. If more than one trap type is selected, a report is generated for each trap type.
 * **Report**: Choose the type of report to generate from **Arthropod Collection Report** and **Arthropod Occurrence Report** by checking the box next to the report type.
