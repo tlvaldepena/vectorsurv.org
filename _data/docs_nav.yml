@@ -3,7 +3,7 @@
     - link: /docs/site/
     - link: /docs/site/site_manage/
     - link: /docs/site/site-group/
-- title: Arthropod
+- link: /docs/arthropod/arthro_menu
   docs:
     - link: /docs/arthropod/trap-types/
     - link: /docs/arthropod/abundance/
