@@ -11,6 +11,7 @@
 - title: Sentinel
   docs:
     - link: /docs/sentinel/flocks-bands/
+    - link: /docs/sentinel/coll-menu/
 - title: Application
   docs:
   - link: /docs/application/application/
