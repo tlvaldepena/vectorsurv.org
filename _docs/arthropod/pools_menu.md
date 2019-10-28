@@ -12,5 +12,6 @@ View and edit saved pools.
 
 ### Testing
 * [New Submission]({{ site.baseur1 }}/docs/arthropod/submission)
+* [Submission Management]({{ site.baseur1 }}/docs/arthropod/submission-manage)
 * [Test Result Management]({{ site.baseur1 }}/docs/arthropod/test-results)
 * [Infection Rate Calculator]({{ site.baseur1 }}/docs/tools/calculators/infection-rate)
