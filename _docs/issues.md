@@ -15,3 +15,6 @@ The **Manage Issues** table displays information about each record flagged with 
 ![Issues box]({{ site.baseur1 }}/assets/images/docs/issues-box.PNG)
 * **Comments**: Click the ellipses to add any comments about this issue. It is highly recommended to include comments if the record will be submitted as resolved (see below) to explain why the record is correct.
 * **Actions**: Clicking the Submit as Resolved link will remove the record from the **Manage Issues** table. It will also prevent records with the same issue from being flagged in the future.
+
+Records in the table can be filtered by type of issue, name, date, etc. using the search box below the table.
+![Filter issues]({{ site.baseur1 }}/assets/images/docs/filter-issues.PNG)
