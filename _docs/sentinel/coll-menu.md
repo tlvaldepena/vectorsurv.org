@@ -6,3 +6,6 @@ Sentinel collections menu
 
 ### [New Collection]({{ site.baseur1 }}/docs/sentinel/collection)
 Records of sentinel flock bleeding events.
+
+### [Collection Management]({{ site.baseur1 }}/docs/sentinel/collection-manage)
+View and edit sentinel chicken flock collections.
