@@ -12,6 +12,7 @@
   docs:
     - link: /docs/sentinel/flocks-bands/
     - link: /docs/sentinel/coll-menu/
+    - link: /docs/sentinel/testing_menu/
 - title: Application
   docs:
   - link: /docs/application/application/
