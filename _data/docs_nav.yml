@@ -25,6 +25,9 @@
     - link: /docs/tools/calculators/risk-assessment/
     - link: /docs/tools/calculators/vector-index/
     - link: /docs/tools/spatial-tools/
+- title: Issues
+  docs:
+    - link: /docs/issues/
 - title: Settings
   docs:
     - link: /docs/settings/account-preferences/
