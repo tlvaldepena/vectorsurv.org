@@ -7,4 +7,5 @@ Testing menu
 ### [New Test Results]({{ site.baseur1 }}/docs/sentinel/results)
 Enter sentinel flock test results
 
-### Test Result Management
+### [Test Result Management]({{ site.baseur1 }}/docs/sentinel/test-manage)
+View and edit sentinel flock test results
