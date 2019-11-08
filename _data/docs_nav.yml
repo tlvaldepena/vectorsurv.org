@@ -4,9 +4,12 @@
     - link: /docs/site/site_manage/
     - link: /docs/site/site-group/
 - title: Arthropod
+  link: /docs/arthropod/arthro_menu/
   docs:
     - link: /docs/arthropod/trap-types/
     - link: /docs/arthropod/abundance/
+      docs:
+        - link: /docs/arthropod/collection/
     - link: /docs/arthropod/pools_menu/
 - title: Sentinel
   docs:
@@ -15,9 +18,9 @@
     - link: /docs/sentinel/testing_menu/
 - title: Application
   docs:
-  - link: /docs/application/application/
-  - link: /docs/application/source/
-  - link: /docs/application/config/
+    - link: /docs/application/application/
+    - link: /docs/application/source/
+    - link: /docs/application/config/
 - title: Tools
   docs:
     - link: /docs/tools/data-tools/
