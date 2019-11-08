@@ -1,5 +1,5 @@
 ---
-title: Pool Infection Rate Calculator
+title: Pool Infection Rate
 gateway-url: https://gateway.calsurv.org/arthro/ppf/pool_infection_calc
 ---
 The pool infection rate calculator estimates the arbovirus infection rate based on testing pools of mosquitoes. This calculator is based on the [CDC/DVBID MLE/MIR Microsoft Excel add-in](<https://www.cdc.gov/westnile/resourcepages/mosqSurvSoft.html>).
