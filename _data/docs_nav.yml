@@ -16,22 +16,25 @@
         - link: /docs/tools/calculators/anomaly/
         - link: /docs/arthropod/collection-reports/
     - link: /docs/arthropod/pools_menu/
+      docs:
         - link: /docs/arthropod/pool/
         - link: /docs/arthropod/pool-manage/
         - link: /docs/arthropod/testing/
 - title: Sentinel 
+  link: /docs/sentinel/sentinel/sentinel-menu/
   docs:
     - link: /docs/sentinel/flocks-bands/
-    docs:
-      - link: /docs/sentinel/new-flock/
-      - link: /docs/sentinel/flock-manage/
+      docs:
+        - link: /docs/sentinel/new-flock/
+        - link: /docs/sentinel/flock-manage/
     - link: /docs/sentinel/coll-menu/
-    docs:
-      - link: /docs/sentinel/collection/
-      - link: /docs/sentinel/collection-manage/
-    docs:
-    - link: /docs/sentinel/testing_menu/results/
-    - link: /docs/sentinel/test-manage/
+      docs:
+        - link: /docs/sentinel/collection/
+        - link: /docs/sentinel/collection-manage/
+    - link: /docs/sentinel/testing_menu/
+      docs:
+        - link: /docs/sentinel/testing_menu/results/
+        - link: /docs/sentinel/test-manage/
 - title: Application
   docs:
     - link: /docs/application/application/
