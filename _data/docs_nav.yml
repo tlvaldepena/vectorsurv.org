@@ -1,4 +1,5 @@
 - title: Sites
+  link: /docs/site/site-menu/
   docs:
     - link: /docs/site/
     - link: /docs/site/site_manage/
@@ -10,12 +11,27 @@
     - link: /docs/arthropod/abundance/
       docs:
         - link: /docs/arthropod/collection/
+        - link: /docs/arthropod/collection-manage/
+        - link: /docs/arthropod/worksheets/
+        - link: /docs/tools/calculators/anomaly/
+        - link: /docs/arthropod/collection-reports/
     - link: /docs/arthropod/pools_menu/
-- title: Sentinel
+        - link: /docs/arthropod/pool/
+        - link: /docs/arthropod/pool-manage/
+        - link: /docs/arthropod/testing/
+- title: Sentinel 
   docs:
     - link: /docs/sentinel/flocks-bands/
+    docs:
+      - link: /docs/sentinel/new-flock/
+      - link: /docs/sentinel/flock-manage/
     - link: /docs/sentinel/coll-menu/
-    - link: /docs/sentinel/testing_menu/
+    docs:
+      - link: /docs/sentinel/collection/
+      - link: /docs/sentinel/collection-manage/
+    docs:
+    - link: /docs/sentinel/testing_menu/results/
+    - link: /docs/sentinel/test-manage/
 - title: Application
   docs:
     - link: /docs/application/application/
@@ -30,8 +46,7 @@
     - link: /docs/tools/calculators/vector-index/
     - link: /docs/tools/spatial-tools/
 - title: Issues
-  docs:
-    - link: /docs/issues/
+  link: /docs/issues/
 - title: Settings
   docs:
     - link: /docs/settings/account-preferences/
