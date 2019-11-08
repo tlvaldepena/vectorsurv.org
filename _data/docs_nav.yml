@@ -41,12 +41,10 @@
     - link: /docs/application/source/
     - link: /docs/application/config/
 - title: Tools
+  link: /docs/tools/tools-menu/
   docs:
     - link: /docs/tools/data-tools/
-    - link: /docs/tools/calculators/anomaly/
-    - link: /docs/tools/calculators/infection-rate/
-    - link: /docs/tools/calculators/risk-assessment/
-    - link: /docs/tools/calculators/vector-index/
+    - link: /docs/tools/calculator/menu/
     - link: /docs/tools/spatial-tools/
 - title: Issues
   link: /docs/issues/
