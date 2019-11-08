@@ -21,7 +21,7 @@
         - link: /docs/arthropod/pool_manage/
         - link: /docs/arthropod/testing/
 - title: Sentinel 
-  link: /docs/sentinel/sentinel/sentinel-menu/
+  link: /docs/sentinel/sentinel-menu/
   docs:
     - link: /docs/sentinel/flocks-bands/
       docs:
@@ -33,7 +33,7 @@
         - link: /docs/sentinel/collection-manage/
     - link: /docs/sentinel/testing_menu/
       docs:
-        - link: /docs/sentinel/testing_menu/results/
+        - link: /docs/sentinel/results/
         - link: /docs/sentinel/test-manage/
 - title: Application
   docs:
