@@ -18,7 +18,7 @@
     - link: /docs/arthropod/pools_menu/
       docs:
         - link: /docs/arthropod/pool/
-        - link: /docs/arthropod/pool-manage/
+        - link: /docs/arthropod/pool_manage/
         - link: /docs/arthropod/testing/
 - title: Sentinel 
   link: /docs/sentinel/sentinel/sentinel-menu/
