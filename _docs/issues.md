@@ -16,7 +16,7 @@ The **Manage Issues** table displays information about each record flagged with 
 * **View/Edit**: Use this link to view and/or edit the collection. Clicking the link will bring you to a filled-in page for the type of record that was flagged, similiar to editing a record from the [Collection Management]({{ site.baseur1 }}/docs/arthropod/collection-manage) page, for example. A box at the top of the page will identify the issue(s) with this record and suggest possible actions. You can either click within the box to return to the **Manage Issues** page or click the **Update** button at the bottom of the page to save any changes.
 ![Issues box]({{ site.baseur1 }}/assets/images/docs/issues-box.PNG)
 * **Comments**: Click the ellipses to add any comments about this issue. It is highly recommended to include comments if the record will be submitted as resolved (see below) to explain why the record is correct.
-* **Actions**: Clicking the Submit as Resolved link will remove the record from the **Manage Issues** table. It will also prevent the record from being flagged for the same issue in the future.
+* **Actions**: Clicking the *Submit as Resolved* link will remove the record from the **Manage Issues** table. It will also prevent the record from being flagged for the same issue in the future.
 
 Records in the table can be filtered by type of issue, name, date, etc. using the search box below the table.
 ![Filter issues]({{ site.baseur1 }}/assets/images/docs/filter-issues.PNG)
