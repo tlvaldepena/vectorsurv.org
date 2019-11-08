@@ -49,5 +49,7 @@
 - title: Issues
   link: /docs/issues/
 - title: Settings
+  link: /docs/settings/settings-menu/
   docs:
-    - link: /docs/settings/account-preferences/
+    - link: /docs/settings/account/
+    - link: /docs/settings/agency/
