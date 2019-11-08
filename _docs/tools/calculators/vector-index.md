@@ -1,5 +1,5 @@
 ---
-title: Vector Index Calculator
+title: Vector Index
 gateway-url: https://gateway.calsurv.org/arthro/ppf/vector_index_calc
 ---
 The vector index is the relative abundance of infected mosquitoes and is a way to quickly estimate the risk of arbovirus transmission in an area.
