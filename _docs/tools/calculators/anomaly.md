@@ -1,5 +1,5 @@
 ---
-title: Abundance Anomaly Calculator
+title: Abundance Anomaly
 gateway-url: https://gateway.calsurv.org/arthro/ppf/collection_calc
 ---
 The abundance anomaly calculator estimates the percent change in arthropod abundance for a target year compared to the previous 5-year average abundance for the same time period. This can help track arthropod activity in an area over time and between agencies.
