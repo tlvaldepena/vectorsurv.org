@@ -9,6 +9,3 @@ Manage information unique to your Gateway account.
 
 ### My Agency
 Manage information about your agency.
-
-### Admin
-Manage agency groups and database settings.
