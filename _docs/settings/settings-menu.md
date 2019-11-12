@@ -7,5 +7,5 @@ Settings menu
 ### [My Account]({{ site.baseur1 }}/docs/settings/account)
 Manage information unique to your Gateway account.
 
-### My Agency
+### [My Agency]({{ site.baseur1 }}/docs/settings/agency)
 Manage information about your agency.
