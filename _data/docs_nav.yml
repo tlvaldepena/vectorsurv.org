@@ -52,10 +52,10 @@
   link: /docs/settings/settings-menu/
   docs:
     - link: /docs/settings/account/
-    docs:
-      - link: /docs/settings/personal-info/
-      - link: /docs/settings/security/
-      - link: /docs/settings/account-preferences/
-      - link: /docs/settings/messaging/
-      - link: /docs/settings/other-agency/
+      docs:
+        - link: /docs/settings/personal-info/
+        - link: /docs/settings/security/
+        - link: /docs/settings/account-preferences/
+        - link: /docs/settings/messaging/
+        - link: /docs/settings/other-agency/
     - link: /docs/settings/agency/
