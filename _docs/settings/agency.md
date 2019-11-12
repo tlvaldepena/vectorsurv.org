@@ -7,7 +7,7 @@ Agency menu
 ### [User Management]({{ site.baseur1 }}/docs/settings/user-manage)
 Manage active users of this agency
 
-### Agency Information
+### [Agency Information]({{ site.baseur1 }}/docs/settings/agency-info)
 Edit agency details
 
 ### Agency Tokens
