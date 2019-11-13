@@ -19,6 +19,7 @@ Functions related to KDR testing
 ### [New Bottle Bioassay]({{ site.baseur1 }}/docs/resistance/bottle-bioassay)
 Import new bottle biassay results
 
-### Manage Bottle Bioassays
+### [Manage Bottle Bioassays]({{ site.baseur1 }}/docs/resistance/bioassay-manage)
+View and edit saved bottle bioassays
 
 ### Bottle Bioassay Calculator
