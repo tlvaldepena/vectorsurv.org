@@ -23,4 +23,5 @@ Import new bottle biassay results
 ### [Manage Bottle Bioassays]({{ site.baseur1 }}/docs/resistance/bioassay-manage)
 View and edit saved bottle bioassays
 
-### Bottle Bioassay Calculator
+### [Bottle Bioassay Calculator]({{ site.baseur1 }}/docs/resisitance/bioassay-calculator)
+Estimate survival curves from bottle bioassay results
