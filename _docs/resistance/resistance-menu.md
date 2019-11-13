@@ -15,7 +15,8 @@ Functions related to KDR testing
 ### [New Larval Test]({{ site.baseur1 }}/docs/resistance/larval)
 Add larval resistance test results
 
-### Manage Larval Tests
+### [Manage Larval Tests]({{ site.baseur1 }}/docs/resistance/larval-manage)
+View and edit saved larval resistance tests
 
 ### [New Bottle Bioassay]({{ site.baseur1 }}/docs/resistance/bottle-bioassay)
 Import new bottle biassay results
