@@ -16,7 +16,8 @@ Functions related to KDR testing
 
 ### Manage Larval Tests
 
-### New Bottle Bioassay
+### [New Bottle Bioassay]({{ site.baseur1 }}/docs/resistance/bottle-bioassay)
+Import new bottle biassay results
 
 ### Manage Bottle Bioassays
 
