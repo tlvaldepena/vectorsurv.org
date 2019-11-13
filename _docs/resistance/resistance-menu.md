@@ -12,7 +12,8 @@ Functions related to KDR testing
 * KDR Tube Receipt
 * KDR Tube Groups
 
-### New Larval Test
+### [New Larval Test]({{ site.baseur1 }}/docs/resistance/larval)
+Add larval resistance test results
 
 ### Manage Larval Tests
 
