@@ -1,5 +1,5 @@
 ---
-title: Abundance Anomaly Calculator
+title: Abundance Anomaly
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/collection_calc
 ---
 

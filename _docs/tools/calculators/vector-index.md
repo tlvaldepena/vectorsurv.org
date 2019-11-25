@@ -1,5 +1,5 @@
 ---
-title: Vector Index Calculator
+title: Vector Index
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/vector_index_calc
 ---
 

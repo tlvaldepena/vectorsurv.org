@@ -1,5 +1,5 @@
 ---
-title: Pool Infection Rate Calculator
+title: Pool Infection Rate
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool_infection_calc
 ---
 

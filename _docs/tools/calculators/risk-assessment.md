@@ -1,5 +1,5 @@
 ---
-title: Risk Assessment Calculator
+title: Risk Assessment
 gateway-url: https://gateway.vectorsurv.org/core/ppf/risk_assessment_calc
 ---
 

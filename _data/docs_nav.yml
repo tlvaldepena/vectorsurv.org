@@ -1,4 +1,5 @@
 - title: Sites
+  link: /docs/site/site-menu/
   docs:
     - link: /docs/site/
     - link: /docs/site/site_manage/
@@ -10,28 +11,62 @@
     - link: /docs/arthropod/abundance/
       docs:
         - link: /docs/arthropod/collection/
+        - link: /docs/arthropod/collection-manage/
+        - link: /docs/arthropod/worksheets/
+        - link: /docs/tools/calculators/anomaly/
+        - link: /docs/arthropod/collection-reports/
     - link: /docs/arthropod/pools_menu/
-- title: Sentinel
+      docs:
+        - link: /docs/arthropod/pool/
+        - link: /docs/arthropod/pool_manage/
+        - link: /docs/arthropod/testing/
+- title: Sentinel 
+  link: /docs/sentinel/sentinel-menu/
   docs:
     - link: /docs/sentinel/flocks-bands/
+      docs:
+        - link: /docs/sentinel/new-flock/
+        - link: /docs/sentinel/flock-manage/
     - link: /docs/sentinel/coll-menu/
+      docs:
+        - link: /docs/sentinel/collection/
+        - link: /docs/sentinel/collection-manage/
     - link: /docs/sentinel/testing_menu/
+      docs:
+        - link: /docs/sentinel/results/
+        - link: /docs/sentinel/test-manage/
 - title: Application
   docs:
     - link: /docs/application/application/
     - link: /docs/application/source/
     - link: /docs/application/config/
 - title: Tools
+  link: /docs/tools/tools-menu/
   docs:
     - link: /docs/tools/data-tools/
-    - link: /docs/tools/calculators/anomaly/
-    - link: /docs/tools/calculators/infection-rate/
-    - link: /docs/tools/calculators/risk-assessment/
-    - link: /docs/tools/calculators/vector-index/
+    - link: /docs/tools/calculators/menu/
     - link: /docs/tools/spatial-tools/
 - title: Issues
-  docs:
-    - link: /docs/issues/
+  link: /docs/issues/
 - title: Settings
+  link: /docs/settings/settings-menu/
   docs:
-    - link: /docs/settings/account-preferences/
+    - link: /docs/settings/account/
+      docs:
+        - link: /docs/settings/personal-info/
+        - link: /docs/settings/security/
+        - link: /docs/settings/account-preferences/
+        - link: /docs/settings/messaging/
+        - link: /docs/settings/other-agency/
+    - link: /docs/settings/agency/
+      docs:
+        - link: /docs/settings/user-manage/
+        - link: /docs/settings/agency-info/
+        - link: /docs/settings/tokens/
+
+
+
+
+
+
+

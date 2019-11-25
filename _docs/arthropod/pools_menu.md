@@ -13,10 +13,6 @@ Pool submissions are records of groups of mosquitoes sent to be tested for arbov
 
 View and edit saved pools.
 
-### Testing
+### [Testing]({{ site.baseur1 }}/docs/arthropod/testing)
 
-- [New Submission]({{ site.baseur1 }}/docs/arthropod/submission)
-- [Submission Management]({{ site.baseur1 }}/docs/arthropod/submission-manage)
-- [New Test Results]({{ site.baseur1 }}/docs/arthropod/test-results)
-- [Test Result Management]({{ site.baseur1 }}/docs/arthropod/results-manage)
-- [Infection Rate Calculator]({{ site.baseur1 }}/docs/tools/calculators/infection-rate)
+Create and manage new pool test results.
