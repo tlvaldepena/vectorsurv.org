@@ -1,6 +1,6 @@
 ---
 title: Pool Submission Management
-gateway-url: https://gateway.calsurv.org/arthro/ppf/pool_submission_manage
+gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool_submission_manage
 ---
 Manage mosquito pools that have been submitted for arbovirus testing.
 

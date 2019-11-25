@@ -1,10 +1,12 @@
 ---
 title: Site Management
-gateway-url: https://gateway.calsurv.org/site/ppf/manage
+gateway-url: https://gateway.vectorsurv.org/site/ppf/manage
 ---
+
 View and edit saved sites.
 
 ## Manage Sites table
+
 Each newly saved [site]({{ site.baseurl }}/docs/site/) will appear as a row in the table. The all 0s site code refers to the agency headquarters. The table is sorted by increasing site code by default, but you can sort the table by any field by clicking on the column name.
 
 You can search for specific sites by typing the site code or other key words in the search box below the table and clicking the **Search** button. Clicking the **Clear** button will remove the search filter and display the entire table.

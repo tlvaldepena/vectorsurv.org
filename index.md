@@ -7,13 +7,13 @@ CalSurv was formed as a partnership of the Mosquito and Vector Control Associati
 
 In recent years, CalSurv has expanded to include other states, and the system now serves California, Utah, New Jersey, and the U.S. territory of Guam.
 
-Much of the data in CalSurv can be visualized on our mapping website, **CalSurv Maps** ([https://maps.calsurv.org](https://maps.calsurv.org)). This website shows past and present results of surveillance for arboviruses, including West Nile virus and St. Louis encephalitis virus, and the spread of the invasive mosquitoes, Aedes aegypti, Aedes albopictus, and Aedes notoscriptus.
+Much of the data in CalSurv can be visualized on our mapping website, **CalSurv Maps** ([https://maps.vectorsurv.org](https://maps.vectorsurv.org)). This website shows past and present results of surveillance for arboviruses, including West Nile virus and St. Louis encephalitis virus, and the spread of the invasive mosquitoes, Aedes aegypti, Aedes albopictus, and Aedes notoscriptus.
 
-Mosquito control and public health agencies who use the CalSurv system do so through the **CalSurv Gateway** ([https://gateway.calsurv.org](https://gateway.calsurv.org), which is an online interface for managing, and analyzing surveillance and control data related to mosquitoes and arboviruses. The Gateway requires login credentials for each user, who must belong to an identified agency. Each agency maintains all privileges to manage its own data and user accounts, and higher-level aggregate reporting functions are managed by state.
+Mosquito control and public health agencies who use the CalSurv system do so through the **CalSurv Gateway** ([https://gateway.vectorsurv.org](https://gateway.vectorsurv.org), which is an online interface for managing, and analyzing surveillance and control data related to mosquitoes and arboviruses. The Gateway requires login credentials for each user, who must belong to an identified agency. Each agency maintains all privileges to manage its own data and user accounts, and higher-level aggregate reporting functions are managed by state.
 
 Surveillance reports and other information are available available through partner websites in each state, and national maps of arbovirus surveillance results are available from CDC’s ArboNet system. To access this information, select from the links below.
 
-To request CalSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/calsurv_data_policy.pdf). Got questions? Send them to [help@calsurv.org](mailto:help@calsurv.org).
+To request CalSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/calsurv_data_policy.pdf). Got questions? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org).
 
 USA
 

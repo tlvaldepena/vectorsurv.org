@@ -1,6 +1,6 @@
 ---
 title: Pool Submission
-gateway-url: https://gateway.calsurv.org/arthro/ppf/pool_submission
+gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool_submission
 ---
 Submit saved pools to be tested for the presence of arboviruses.
 

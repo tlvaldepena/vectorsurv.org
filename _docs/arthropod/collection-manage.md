@@ -1,6 +1,6 @@
 ---
 title: Collection Management
-gateway-url: https://gateway.calsurv.org/arthro/ppf/collection_manage
+gateway-url: https://gateway.vectorsurv.org/arthro/ppf/collection_manage
 ---
 
 View and edit saved abundance records.

@@ -1,6 +1,6 @@
 ---
 title: New Results
-gateway-url: https://gateway.calsurv.org/arthro/ppf/pool_test_add
+gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool_test_add
 ---
 The form for submitting both positive and negative pool test results.
 

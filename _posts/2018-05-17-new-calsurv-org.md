@@ -1,6 +1,7 @@
 ---
-title: New Calsurv.org Website
+title: New vectorsurv.org Website
 ---
-Welcome to the new CalSurv.org
+
+Welcome to the new vectorsurv.org
 
 The goal of this new site is to provide a documentation and updates on what is happening with CalSurv and the Gateway.

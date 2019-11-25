@@ -1,4 +1,4 @@
 ---
 title: Pesticide Use Reports
-gateway-url: https://gateway.calsurv.org/core/ppf/menu/path/114
+gateway-url: https://gateway.vectorsurv.org/core/ppf/menu/path/114
 ---

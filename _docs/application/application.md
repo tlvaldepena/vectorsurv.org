@@ -1,6 +1,6 @@
 ---
 title: New Application
-gateway-url: https://gateway.calsurv.org/application/ppf/application
+gateway-url: https://gateway.vectorsurv.org/application/ppf/application
 ---
 Use this page to keep track of pesticide applications conducted by your agency.
 

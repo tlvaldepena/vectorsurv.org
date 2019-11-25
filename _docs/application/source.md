@@ -1,6 +1,6 @@
 ---
 title: New Source
-gateway-url: https://gateway.calsurv.org/source/ppf/source
+gateway-url: https://gateway.vectorsurv.org/source/ppf/source
 ---
 Sources are a way to bookmark locations that are regularly treated with pesticides without re-entering information each time a [new application]({{ site.baseur1 }}/docs/application/application) is added.
 

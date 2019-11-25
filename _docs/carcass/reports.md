@@ -1,6 +1,6 @@
 ---
 title: New Report
-gateway-url: https://gateway.calsurv.org/carcass/ppf/report
+gateway-url: https://gateway.vectorsurv.org/carcass/ppf/report
 ---
 If your agency conducts a dead bird testing program, you can enter reported birds here.
 

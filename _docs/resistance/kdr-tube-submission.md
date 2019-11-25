@@ -1,4 +1,4 @@
 ---
 title: KDR Tube Submission
-gateway-url: https://gateway.calsurv.org/resistance/ppf/tube_submission
+gateway-url: https://gateway.vectorsurv.org/resistance/ppf/tube_submission
 ---
