@@ -1,7 +1,6 @@
-title: CalSurv
-description:  California Vectorborne Disease Surveillance System
+title: VectorSurv
+description: California Vectorborne Disease Surveillance System
 google_analytics: UA-112879359-3
-
 
 collections:
   docs:
@@ -12,19 +11,16 @@ collections:
     output: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: page
-  -
-    scope:
+  - scope:
       path: _docs
       type: docs
     values:
       layout: docs
-  - 
-    scope:
+  - scope:
       path: _posts
       type: posts
     values:

@@ -3,7 +3,7 @@ title: Account Preferences
 gateway-url: https://gateway.vectorsurv.org/core/ppf/preference
 ---
 
-Use this page to customize the CalSurv Gateway displays and exports data.
+Use this page to customize the VectorSurv Gateway displays and exports data.
 
 ## Data Format
 

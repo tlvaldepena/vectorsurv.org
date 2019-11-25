@@ -7,7 +7,7 @@ Use these tools to help manage spatial aspects of your data.
 
 ## ArcGIS Surveillance Map
 
-This is a link to [CalSurv Maps](https://maps.vectorsurv.org)
+This is a link to [VectorSurv Maps](https://maps.vectorsurv.org)
 
 ## Geocode
 

@@ -1,19 +1,20 @@
 ---
-title: What is CalSurv?
+title: What is VectorSurv?
 ---
-Welcome to the California Vectorborne Disease Surveillance System, known as CalSurv. 
 
-CalSurv was formed as a partnership of the Mosquito and Vector Control Association of California, representing more than 60 local mosquito and vector control agencies in California; the California Department of Public Health; and the Davis Arbovirus Research and Training (DART) Lab at the University of California, Davis.
+Welcome to the Vectorborne Disease Surveillance System, known as VectorSurv.
 
-In recent years, CalSurv has expanded to include other states, and the system now serves California, Utah, New Jersey, and the U.S. territory of Guam.
+VectorSurv was formed as a partnership of the Mosquito and Vector Control Association of California, representing more than 60 local mosquito and vector control agencies in California; the California Department of Public Health; and the Davis Arbovirus Research and Training (DART) Lab at the University of California, Davis.
 
-Much of the data in CalSurv can be visualized on our mapping website, **CalSurv Maps** ([https://maps.vectorsurv.org](https://maps.vectorsurv.org)). This website shows past and present results of surveillance for arboviruses, including West Nile virus and St. Louis encephalitis virus, and the spread of the invasive mosquitoes, Aedes aegypti, Aedes albopictus, and Aedes notoscriptus.
+In recent years, VectorSurv has expanded to include other states, and the system now serves California, Utah, New Jersey, and the U.S. territory of Guam.
 
-Mosquito control and public health agencies who use the CalSurv system do so through the **CalSurv Gateway** ([https://gateway.vectorsurv.org](https://gateway.vectorsurv.org), which is an online interface for managing, and analyzing surveillance and control data related to mosquitoes and arboviruses. The Gateway requires login credentials for each user, who must belong to an identified agency. Each agency maintains all privileges to manage its own data and user accounts, and higher-level aggregate reporting functions are managed by state.
+Much of the data in VectorSurv can be visualized on our mapping website, **VectorSurv Maps** ([https://maps.vectorsurv.org](https://maps.vectorsurv.org)). This website shows past and present results of surveillance for arboviruses, including West Nile virus and St. Louis encephalitis virus, and the spread of the invasive mosquitoes, Aedes aegypti, Aedes albopictus, and Aedes notoscriptus.
+
+Mosquito control and public health agencies who use the VectorSurv system do so through the **VectorSurv Gateway** ([https://gateway.vectorsurv.org](https://gateway.vectorsurv.org), which is an online interface for managing, and analyzing surveillance and control data related to mosquitoes and arboviruses. The Gateway requires login credentials for each user, who must belong to an identified agency. Each agency maintains all privileges to manage its own data and user accounts, and higher-level aggregate reporting functions are managed by state.
 
 Surveillance reports and other information are available available through partner websites in each state, and national maps of arbovirus surveillance results are available from CDC’s ArboNet system. To access this information, select from the links below.
 
-To request CalSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/calsurv_data_policy.pdf). Got questions? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org).
+To request VectorSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/VectorSurv_data_policy.pdf). Got questions? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org).
 
 USA
 

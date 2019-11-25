@@ -7,7 +7,7 @@ Configure settings for arthropod abundance pages to fit your agency's specificat
 
 ## Available Species
 
-Lists arthropod species by class, order, and family that may be [recorded]({{ site.baseurl }}/docs/arthropod/collection). If a desired class, order, family, and/or species is not found in this list, contact the CalSurv Gateway administrator.
+Lists arthropod species by class, order, and family that may be [recorded]({{ site.baseurl }}/docs/arthropod/collection). If a desired class, order, family, and/or species is not found in this list, contact the VectorSurv Gateway administrator.
 
 ## Trap Types
 
