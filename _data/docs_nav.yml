@@ -40,6 +40,18 @@
     - link: /docs/application/application/
     - link: /docs/application/source/
     - link: /docs/application/config/
+- title: Resistance
+  link: /docs/resistance/resistance-menu/
+  docs:
+    - link: /docs/resistance/larval-menu/
+      docs:
+        - link: /docs/resistance/larval/
+        - link: /docs/resistance/larval-manage/
+    - link: /docs/resistance/bioassay-menu/
+      docs:
+        - link: /docs/resistance/bottle-bioassay/
+        - link: /docs/resistance/bioassay-manage/
+        - link: /docs/resistance/bioassay-calculator/
 - title: Tools
   link: /docs/tools/tools-menu/
   docs:
