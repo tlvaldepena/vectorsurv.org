@@ -45,6 +45,11 @@
   docs:
     - link: /docs/tools/data-tools/
     - link: /docs/tools/calculators/menu/
+      docs:
+        - link: /docs/tools/calculators/anomaly/
+        - link: /docs/tools/calculators/infection-rate/
+        - link: /docs/tools/calculators/risk-assessment/
+        - link: /docs/tools/calculators/vector-index/
     - link: /docs/tools/spatial-tools/
 - title: Issues
   link: /docs/issues/
