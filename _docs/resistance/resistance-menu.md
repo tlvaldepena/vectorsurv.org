@@ -2,35 +2,16 @@
 title: Resistance
 gateway-url: https://gateway.vectorsurv.org/core/ppf/menu/path/106
 ---
-
 Resistance menu
 
-### KDR/Microplate
+### [KDR/Microplate]({{ site.baseur1 }}/docs/resistance/kdr-menu)
 
-Functions related to KDR testing
+Enter and manage KDR/Microplate test results.
 
-- KDR Tube Manage
-- [KDR Tube Submission]({{ site.baseur1 }}/docs/resistance/kdr-tube-submission)
-- KDR Tube Submission Manage
-- KDR Tube Receipt
-- KDR Tube Groups
+### [Larval Tests]({{ site.baseur1 }}/docs/resistance/larval-menu)
 
-### [New Larval Test]({{ site.baseur1 }}/docs/resistance/larval)
+Enter and manage larval test results.
 
-Add larval resistance test results
+### [Bottle Bioassay]({{ site.baseur1 }}/docs/resistance/bioassay-menu)
 
-### [Manage Larval Tests]({{ site.baseur1 }}/docs/resistance/larval-manage)
-
-View and edit saved larval resistance tests
-
-### [New Bottle Bioassay]({{ site.baseur1 }}/docs/resistance/bottle-bioassay)
-
-Import new bottle biassay results
-
-### [Manage Bottle Bioassays]({{ site.baseur1 }}/docs/resistance/bioassay-manage)
-
-View and edit saved bottle bioassays
-
-### [Bottle Bioassay Calculator]({{ site.baseur1 }}/docs/resisitance/bioassay-calculator)
-
-Estimate survival curves from bottle bioassay results
+Enter and manage bottle bioassay results.
