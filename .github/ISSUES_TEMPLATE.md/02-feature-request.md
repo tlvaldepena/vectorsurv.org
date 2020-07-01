@@ -1,7 +1,7 @@
 ---
 name: "💡 Feature request"
 about: "If you have a feature request"
-title: "[FEATURE]"
+title: "[FEATURE] "
 labels: feature
 assignees: ""
 ---
