@@ -1,5 +1,5 @@
 ---
-name: "🐜  Bug report"
+name: "🐜 Bug report"
 about: "If something isn't working"
 title: "[BUG] "
 labels: bug
