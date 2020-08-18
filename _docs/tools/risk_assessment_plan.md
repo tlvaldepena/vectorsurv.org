@@ -16,7 +16,7 @@ There are five surveillance factors that comprise the risk surface: **Environmen
 
 ### Environmental Conditions
 
-The **Environmental Conditions** component of the risk assessment is based on the average daily temperature during the previous two weeks.
+The **Environmental Conditions** component of the risk assessment is based on the average daily temperature during the previous two weeks. These data come from the NASA [North American Land Data Assimilation System](https://ldas.gsfc.nasa.gov/nldas), which generates temperature surfaces on a 1/8th-degree grid. To convert to the smaller grid used for the risk assessment surfaces, the temperature from the larger pixel is applied to all smaller pixels within.
 
 The *Assessment Values* are assigned for the following benchmarks:
 
@@ -76,13 +76,13 @@ The *Assessment Values* are assigned for the following benchmarks:
 
 ## Risk Surfaces
 
-The final response level is derived from the average of the five *Assessment Values* for a given pixel. The response levels fall into three categories:
+The final *Response level* is derived from the average of the five *Assessment Values* for a given pixel. The response levels fall into three categories:
 
 1. Normal Season (Average rating 1.0-2.5)
 2. Emergency Planning (Average rating 2.6-4.0)
 3. Epidemic (4.1-5.0)
 
-These values are averaged separately for *Cx tarsalis* and the *Cx pipiens* complex. For example, in a pixel where the average temperature during the previous two weeks was 83 F (5), the *Cx tarsalis* abundance anomaly was 200% (4), the MIR was 1.5 (3), no seroconversions were detected (1), and one positive bird was found (2), the response level would be the average of these values or 3, which is considered Emergency Planning. 
+These values are averaged separately for *Cx tarsalis* and the *Cx pipiens* complex. For example, in a pixel where the average temperature during the previous two weeks was 83 F (5), the *Cx tarsalis* abundance anomaly was 200% (4), the MIR was 2.5 (4), no seroconversions were detected (1), and one positive bird was found (2), the response level would be the average of these values, 3.2, which is considered Emergency Planning. 
 
 
 
