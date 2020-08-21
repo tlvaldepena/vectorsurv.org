@@ -20,10 +20,10 @@ The **Environmental Conditions** component of the risk assessment is based on th
 
 The *Assessment Values* are assigned for the following benchmarks:
 
-1. Average daily temperature $\leq$ 56 F
-2. Average daily temperature > 56 and $\leq$ 65 F
-3. Average daily temperature > 65 and $\leq$ 72 F
-4. Average daily temperature > 72 and $\leq$ 79 F
+1. Average daily temperature &le; 56 F
+2. Average daily temperature > 56 and &le; 65 F
+3. Average daily temperature > 65 and &le; 72 F
+4. Average daily temperature > 72 and &le; 79 F
 5. Average daily temperature > 79 F
 
 ### Arthropod Abundance Anomaly
@@ -32,10 +32,10 @@ The **Arthropod Abundance Anomaly** component of the risk assessment is derived 
 
 The *Assessment Values* are assigned for the following benchmarks:
 
-1. Vector abundance well below average ($\leq$ 50%)
-2. Vector abundance below average (> 50% and $\leq$ 90%)
-3. Vector abundance average (> 90% and $\leq$ 150%)
-4. Vector abundance above average (> 150% and $\leq$ 300%)
+1. Vector abundance well below average (&le; 50%)
+2. Vector abundance below average (> 50% and &le; 90%)
+3. Vector abundance average (> 90% and &le; 150%)
+4. Vector abundance above average (> 150% and &le; 300%)
 5. Vector abundance well above average (> 300%)
 
 ### Viral Infection Rate
@@ -45,9 +45,9 @@ The **Viral Infection Rate** component of the risk assessment is also derived se
 The *Assessment Values* are assigned for the following benchmarks:
 
 1. MIR = 0
-2. MIR = > 0 and $\leq$ 1.0
-3. MIR = > 1.0 and $\leq$ 2.0
-4. MIR = > 2.0 and $\leq$ 5.0
+2. MIR = > 0 and &le; 1.0
+3. MIR = > 1.0 and &le; 2.0
+4. MIR = > 2.0 and &le; 5.0
 5. MIR > 5.0
 
 ### Sentinel Chicken Seroconversions
