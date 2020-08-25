@@ -40,7 +40,7 @@ The *Assessment Values* are assigned for the following benchmarks:
 
 ### Viral Infection Rate
 
-The **Viral Infection Rate** component of the risk assessment is also derived separately for the two primary WNV vectors, *Cx. tarsalis* and the *Cx pipiens* complex, and for four trap types, New Jersey light traps, CO<sub>2</sub>-baited traps, gravid traps, and resting box traps. For each species and trap type, the infection rate per 1000 mosquitoes is calculated for each pixel by dividing the number of positive pools by the number of mosquitoes tested. This value is interpolated using an inverse-distance weighting process in the same manner as the abundance anomaly to the pixels within an 8 km zone of the initial pixel and the final surface is chosen in the same manner as described above. 
+The **Viral Infection Rate** component of the risk assessment is also derived separately for the two primary WNV vectors, *Cx. tarsalis* and the *Cx pipiens* complex, and for three trap types, CO<sub>2</sub>-baited traps, gravid traps, and resting box traps. For each species and trap type, the infection rate per 1000 mosquitoes is calculated for each pixel by dividing the number of positive pools by the number of mosquitoes tested. This value is interpolated using an inverse-distance weighting process in the same manner as the abundance anomaly to the pixels within an 8 km zone of the initial pixel and the final surface is chosen in the same manner as described above. 
 
 The *Assessment Values* are assigned for the following benchmarks:
 
