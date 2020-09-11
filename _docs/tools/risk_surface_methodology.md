@@ -1,5 +1,5 @@
 ---
-Title: Risk Assessment Surface Methodology
+title: Risk Assessment Surface Methodology
 gateway-url: https://maps.vectorsurv.org/risk
 ---
 
