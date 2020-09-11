@@ -28,7 +28,7 @@ The *Assessment Values* are assigned for the following benchmarks:
 
 ### Arthropod Abundance Anomaly
 
-The **Arthropod Abundance Anomaly** component of the risk assessment is derived separately for the two primary WNV vectors, *Cx tarsalis* and the *Cx pipiens* complex, and for four trap types, New Jersey light traps, CO<sub>2</sub>-baited traps, gravid traps, and resting box traps. For each species and trap type, the total number collected within a pixel is summed and compared to the 5-year average total for the same period. This 5-year average is calculated if the site has at least 2 nonconsecutive years of data in the previous 5 years for the corresponding surveillance week. The pixel's anomaly value is then interpolated using an inverse-distance weighting process to the pixels that are fully or partially within an 8 km zone of the initial pixel. This results in four surfaces for each species, one surface per trap type. For each final pixel, the set of four corresponding pixels are examined and the value that is closest to the original pixel is chosen to create the final surface for each species. In the case of a tie, the larger abundance anomaly is chosen.
+The **Arthropod Abundance Anomaly** component of the risk assessment is derived separately for the two primary WNV vectors, *Cx tarsalis* and the *Cx pipiens* complex, and for four trap types, New Jersey light traps, CO<sub>2</sub>-baited traps, gravid traps, and resting box traps. For each species and trap type, the total number collected within a pixel is summed and compared to the 5-year average total for the same period. This 5-year average is calculated if the site has at least 2 nonconsecutive years of data in the previous 5 years for the corresponding surveillance week. The pixel's anomaly value is then interpolated using an inverse-distance weighting process to the pixels that are fully or partially within an 8 km zone of the initial pixel, as long as the pixels centroid point is within the 8 km zone. This results in four surfaces for each species, one surface per trap type. For each final pixel, the set of four corresponding pixels are examined and the value that is closest to the original pixel is chosen to create the final surface for each species. In the case of a tie, the larger abundance anomaly is chosen.
 
 The *Assessment Values* are assigned for the following benchmarks:
 
@@ -37,6 +37,11 @@ The *Assessment Values* are assigned for the following benchmarks:
 3. Vector abundance average (> 90% and &le; 150%)
 4. Vector abundance above average (> 150% and &le; 300%)
 5. Vector abundance well above average (> 300%)
+
+***
+> The inverse-distance weighting process means that the abundance (or infection rate) value from the original pixel (here reperesented in green) is applied to the surrounding pixels in the buffer zone (represented in gray). If there is only one surface, as in the image below, that value is taken to represent the value for each pixel. If two surfaces overlap - i.e. two pixels with abundance observations in the same week are within 8 km of each other, which is common during peak WNV seasons - the value for the pixel that is closest to its original point is taken as the value for that pixel. For example, if a pixel lies within two buffer zones and is 1 unit away from one observation but 2 units away from another observation, the value from the observation 1 unit away is chosen. The maximum value is taken if a pixel is equidistant from two points. 
+
+***
 
 ### Viral Infection Rate
 
