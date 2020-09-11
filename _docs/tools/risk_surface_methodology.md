@@ -39,8 +39,10 @@ The *Assessment Values* are assigned for the following benchmarks:
 5. Vector abundance well above average (> 300%)
 
 ***
-The inverse-distance weighting process means that the abundance (or infection rate) value from the original pixel (here reperesented in green) is applied to the surrounding pixels in the buffer zone (represented in gray). If there is only one surface, as in the image below, that value is taken to represent the value for each pixel. If two surfaces overlap - i.e. two pixels with abundance observations in the same week are within 8 km of each other, which is common during peak WNV seasons - the value for the pixel that is closest to its original point is taken as the value for that pixel. For example, if a pixel lies within two buffer zones and is 1 unit away from one observation but 2 units away from another observation, the value from the observation 1 unit away is chosen. The maximum value is taken if a pixel is equidistant from two points. ![IDW example]({{ site.baseurl }}/assets/images/docs/IDW_map_redding.PNG)
+#### Inverse-distance weighting
+The inverse-distance weighting process means that the abundance (or infection rate) value from the original pixel (here reperesented in green) is applied to the surrounding pixels in the buffer zone (represented in gray). If there is only one surface, as in the image below, that value is taken to represent the value for each pixel. If two surfaces overlap - i.e. two pixels with abundance observations in the same week are within 8 km of each other, which is common during peak WNV seasons - the value for the pixel that is closest to its original point is taken as the value for that pixel. For example, if a pixel lies within two buffer zones and is 1 unit away from one observation but 2 units away from another observation, the value from the observation 1 unit away is chosen. The maximum value is taken if a pixel is equidistant from two points.
 
+![IDW example]({{ site.baseurl }}/assets/images/docs/IDW_map_redding.PNG)
 ***
 
 ### Viral Infection Rate
