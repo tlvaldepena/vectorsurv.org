@@ -14,7 +14,7 @@ Mosquito control and public health agencies who use the VectorSurv system do so 
 
 Surveillance reports and other information are available available through partner websites in each state, and national maps of arbovirus surveillance results are available from CDC’s ArboNet system. To access this information, select from the links below.
 
-To request VectorSurv data for California, please review the policy and complete the request form [here]({{ site.baseurl }}/assets/files/calsurv_data_policy.pdf). Got questions? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org).
+To request VectorSurv data for California, please review the policy and complete the request form [here](https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit). Got questions? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org).
 
 USA
 
