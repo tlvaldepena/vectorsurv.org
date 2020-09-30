@@ -12,7 +12,7 @@ This page provides documentation to accompany the webpages found on the VectorSu
 
 [Sentinel]({{ site.baseur1 }}/docs/sentinel/sentinel-menu/)
 
-Application
+[Application]({{ site.baseur1 }}/docs/application/application-menu/)
 
 [Resistance]({{ site.baseur1 }}/docs/resistance/resistance-menu/)
 
