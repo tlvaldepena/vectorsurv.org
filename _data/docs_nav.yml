@@ -36,6 +36,7 @@
         - link: /docs/sentinel/results/
         - link: /docs/sentinel/test-manage/
 - title: Application
+  link: /docs/application/application-menu/
   docs:
     - link: /docs/application/application/
     - link: /docs/application/source/
