@@ -22,3 +22,5 @@ The **Manage Issues** table displays information about each record flagged with 
 
 Records in the table can be filtered by type of issue, name, date, etc. using the search box below the table.
 ![Filter issues]({{ site.baseur1 }}/assets/images/docs/filter-issues.PNG)
+
+Note: It is recommended to handle site issues before collection issues. This is because collections may inherit site spatial issues, such that fixing or resolving a site's issues will remove its dependent collections from the **Manage Issues** table.
