@@ -71,7 +71,7 @@ VectorSurv Partners:
 **US-Affiliated Pacific Islands**
 
 - [Pacific Island Health Officers Association](https://www.pihoa.org/)
-- Guam Department of Public Health and Social Services
+- Guam
 - Republic of Palau
 - Commonwealth of the Northern Mariana Islands
 - Republic of Palau
