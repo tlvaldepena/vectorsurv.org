@@ -76,7 +76,6 @@ VectorSurv Partners:
 - Guam
 - Republic of Palau
 - Commonwealth of the Northern Mariana Islands
-- Republic of Palau
 - Federated States of Micronesia
 - Republic of the Marshall Islands
 
