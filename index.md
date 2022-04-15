@@ -1,3 +1,5 @@
+![VectorSurv Logo](vectorsurv_logo.png)
+
 ---
 title: What is VectorSurv?
 ---
