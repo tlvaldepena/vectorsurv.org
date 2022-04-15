@@ -89,3 +89,11 @@ VectorSurv Partners:
 - Federated States of Micronesia
 - Republic of the Marshall Islands
 
+# Thanks to our funders!
+
+VectorSurv is made possible by the collaboration and input of our partner agencies above and by financial support from the following since we first launched the system in 2006:
+
+- <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">U.S. Centers for Disease Control and Prevention</a>
+- <a href="https://www.ca.gov/" target="_blank">State of California</a>
+- <a href="https://www.mvcac.org/" target="_blank">Mosquito and Vector Control Association of California</a>
+- <a href="https://appliedsciences.nasa.gov/what-we-do/health-air-quality" target="_blank">NASA Applied Sciences, Health & Air Quality Program</a>
