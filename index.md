@@ -14,7 +14,7 @@ Surveillance reports and other information are available available through partn
 
 Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org) anytime.
 
-National Data from CDC:
+**National Data from CDC:**
 
 ArboNet Disease Maps ([https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html](https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html))
 
