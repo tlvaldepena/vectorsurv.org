@@ -22,51 +22,51 @@ VectorSurv Partners:
 
 **California**
 
-[California West Nile virus Website](https://westnile.ca.gov)
+- [California West Nile virus Website](https://westnile.ca.gov)
 
-[Locations of mosquito control agencies](http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862)
+- [Locations of mosquito control agencies](http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862)
 
-[California surveillance data request form](https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit)
+- [California surveillance data request form](https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit)
 
 **Utah**
 
-[Utah West Nile virus Website](http://health.utah.gov/epi/diseases/WNV/)
+- [Utah West Nile virus Website](http://health.utah.gov/epi/diseases/WNV/)
 
 **New Jersey**
 
-[New Jersey Adult Mosquito Surveillance Reports](https://vectorbio.rutgers.edu/reports/mosquito/)
+- [New Jersey Adult Mosquito Surveillance Reports](https://vectorbio.rutgers.edu/reports/mosquito/)
 
 **Arizona**
 
-[Arizona Department of Health Services](https://www.azdhs.gov/preparedness/epidemiology-disease-control/mosquito-borne/)
+- [Arizona Department of Health Services](https://www.azdhs.gov/preparedness/epidemiology-disease-control/mosquito-borne/)
 
 **Hawaii**
 
-[Hawaii State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
+- [Hawaii State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
 
 **Washington**
 
-[Washington State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
+- [Washington State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
 
 **Tennessee**
 
-[Tennessee Department of Health](https://www.tn.gov/health/cedep/vector-borne-diseases.html)
+- [Tennessee Department of Health](https://www.tn.gov/health/cedep/vector-borne-diseases.html)
 
 **North Carolina**
 
-[North Carolina Department of Health and Human Services](https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html)
+- [North Carolina Department of Health and Human Services](https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html)
 
 **Nebraska**
 
-[Nebraska Department of Health and Human Services](https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx)
+- [Nebraska Department of Health and Human Services](https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx)
 
 **South Dakota**
 
-[South Dakota Department of Health](https://doh.sd.gov/diseases/infectious/wnv/)
+- [South Dakota Department of Health](https://doh.sd.gov/diseases/infectious/wnv/)
 
 **North Dakota**
 
-[North Dakota Department of Health](https://www.health.nd.gov/wnv/west-nile-virus-about)
+- [North Dakota Department of Health](https://www.health.nd.gov/wnv/west-nile-virus-about)
 
 **US-Affiliated Pacific Islands**
 
