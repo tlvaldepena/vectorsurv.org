@@ -1,7 +1,7 @@
 ![VectorSurv Logo](vectorsurv_logo.png)
 
 ---
-title: What is VectorSurv?
+What is VectorSurv?
 ---
 
 Welcome to the Vectorborne Disease Surveillance System, known as VectorSurv.
