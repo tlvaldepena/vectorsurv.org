@@ -22,6 +22,8 @@ VectorSurv Partners:
 
 **California**
 
+- <a href="https://westnile.ca.gov" target="_blank">California West Nile virus Website</a>
+
 - [California West Nile virus Website](https://westnile.ca.gov)
 
 - [Locations of mosquito control agencies](http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862)
