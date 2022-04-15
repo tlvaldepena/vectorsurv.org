@@ -27,7 +27,9 @@ VectorSurv Partners:
 **California**
 
 [California West Nile virus Website](https://westnile.ca.gov)
+
 [Locations of mosquito control agencies](http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862)
+
 [California surveillance data request form](https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit)
 
 **Utah**
