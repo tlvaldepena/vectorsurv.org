@@ -14,13 +14,15 @@ Surveillance reports and other information are available available through partn
 
 Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org) anytime.
 
-**National Data from CDC:**
-
-ArboNet Disease Maps ([https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html](https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html))
-
 VectorSurv Partners:
 
-**California**
+# U.S. Centers for Disease Control and Prevention
+
+- <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">CDC, Division of Vector-Borne Diseases</a>
+
+- <a href="https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html" target="_blank">ArboNet Disease Maps</a>
+ 
+## California
 
 - <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/VBDS.aspx" target="_blank">California Department of Public Health, Vector-Borne Disease Section</a>
 
@@ -30,13 +32,13 @@ VectorSurv Partners:
 
 - <a href="https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit" target="_blank">California surveillance data request form</a>
 
-**Utah**
+## Utah
 
 - <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank">Utah Department of Health</a>
 
 - <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
 
-**New Jersey**
+## New Jersey
 
 - <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a>
 
@@ -44,39 +46,39 @@ VectorSurv Partners:
 
 - <a href="https://www.njmca.org/" target="_blank">New Jersey Mosquito Control Association</a>
 
-**Arizona**
+## Arizona
 
 - <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
 
-**Hawaii**
+## Hawaii
 
 - <a href="https://health.hawaii.gov/docd/disease_listing/arboviral-disease/" target="_blank">Hawaii State Department of Health</a>
 
-**Washington**
+## Washington
 
 - <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
 
-**Tennessee**
+## Tennessee
 
 - <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
 
-**North Carolina**
+## North Carolina
 
 - <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
 
-**Nebraska**
+## Nebraska
 
 - <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
 
-**South Dakota**
+## South Dakota
 
 - <a href="https://doh.sd.gov/diseases/infectious/wnv/" target="_blank">South Dakota Department of Health</a>
 
-**North Dakota**
+## North Dakota
 
 - <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
 
-**US-Affiliated Pacific Islands**
+## US-Affiliated Pacific Islands
 
 - <a href="https://www.pihoa.org/" target="_blank">Pacific Island Health Officers Association</a>
 - Guam
