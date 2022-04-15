@@ -14,7 +14,7 @@ Surveillance reports and other information are available available through partn
 
 Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vectorsurv.org) anytime.
 
-VectorSurv Partners:
+# VectorSurv Partners:
 
 ## U.S. Centers for Disease Control and Prevention
 
