@@ -1,9 +1,5 @@
 ![VectorSurv Logo](vectorsurv_logo.png)
 
----
-What is VectorSurv?
----
-
 Welcome to the Vectorborne Disease Surveillance System, known as VectorSurv.
 
 VectorSurv is a web-based platform for data managemeent and analysis that is used by vector control and public health agencies in the U.S. The system was initiated in 2006 as a partnership of the Mosquito and Vector Control Association of California, representing more than 60 local mosquito and vector control agencies in California; the California Department of Public Health; and the Davis Arbovirus Research and Training (DART) Lab at the University of California, Davis.
