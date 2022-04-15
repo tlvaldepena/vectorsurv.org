@@ -26,55 +26,59 @@ VectorSurv Partners:
 
 - [California West Nile virus Website](https://westnile.ca.gov)
 
-- [Locations of mosquito control agencies](http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862)
+- <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862" target="_blank">Locations of mosquito control agencies</a>
 
-- [California surveillance data request form](https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit)
+- <a href="https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit" target="_blank">California surveillance data request form</a>
 
 **Utah**
 
-- [Utah West Nile virus Website](http://health.utah.gov/epi/diseases/WNV/)
+- <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank">Utah Department of Health</a>
+
+- <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
 
 **New Jersey**
 
-- [New Jersey Department of Health Vector-borne Surveillance Reports](https://www.nj.gov/health/cd/statistics/arboviral-stats/)
+- <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a>
 
-- [New Jersey Adult Mosquito Surveillance Reports](https://vectorbio.rutgers.edu/reports/mosquito/)
+- <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
+
+- <a href="https://www.njmca.org/" target="_blank">New Jersey Mosquito Control Association</a>
 
 **Arizona**
 
-- [Arizona Department of Health Services](https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php)
+- <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
 
 **Hawaii**
 
-- [Hawaii State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
+- <a href="https://health.hawaii.gov/docd/disease_listing/arboviral-disease/" target="_blank">Hawaii State Department of Health</a>
 
 **Washington**
 
-- [Washington State Department of Health](https://doh.wa.gov/community-and-environment/pests/mosquitoes#:~:text=Disease%20can%20be%20spread%20to,Louis%20encephalitis.)
+- <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
 
 **Tennessee**
 
-- [Tennessee Department of Health](https://www.tn.gov/health/cedep/vector-borne-diseases.html)
+- <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
 
 **North Carolina**
 
-- [North Carolina Department of Health and Human Services](https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html)
+- <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
 
 **Nebraska**
 
-- [Nebraska Department of Health and Human Services](https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx)
+- <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
 
 **South Dakota**
 
-- [South Dakota Department of Health](https://doh.sd.gov/diseases/infectious/wnv/)
+- <a href="https://doh.sd.gov/diseases/infectious/wnv/" target="_blank">South Dakota Department of Health</a>
 
 **North Dakota**
 
-- [North Dakota Department of Health](https://www.health.nd.gov/wnv/west-nile-virus-about)
+- <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
 
 **US-Affiliated Pacific Islands**
 
-- [Pacific Island Health Officers Association](https://www.pihoa.org/)
+- <a href="https://www.pihoa.org/" target="_blank">Pacific Island Health Officers Association</a>
 - Guam
 - Republic of Palau
 - Commonwealth of the Northern Mariana Islands
