@@ -16,7 +16,7 @@ Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vecto
 
 VectorSurv Partners:
 
-# U.S. Centers for Disease Control and Prevention
+## U.S. Centers for Disease Control and Prevention
 
 - <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">CDC, Division of Vector-Borne Diseases</a>
 
