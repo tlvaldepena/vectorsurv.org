@@ -34,11 +34,13 @@ VectorSurv Partners:
 
 **New Jersey**
 
+- [New Jersey Department of Health Vector-borne Surveillance Reports](https://www.nj.gov/health/cd/statistics/arboviral-stats/)
+
 - [New Jersey Adult Mosquito Surveillance Reports](https://vectorbio.rutgers.edu/reports/mosquito/)
 
 **Arizona**
 
-- [Arizona Department of Health Services](https://www.azdhs.gov/preparedness/epidemiology-disease-control/mosquito-borne/)
+- [Arizona Department of Health Services](https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php)
 
 **Hawaii**
 
