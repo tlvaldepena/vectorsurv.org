@@ -65,7 +65,7 @@ VectorSurv also offers a "playground" environment, known as the Sandbox (<https:
 
 VectorSurv staff have also produced reference materials that may be of assistance to new agencies as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (<https://vectorsurv.org/docs/>). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (<https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g>).
 
-Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if any additional questions or concerns arise during the onboarding process. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
+Lastly, feel free to reach out to ![Help Email]({{ starting}}/assets/images/docs/help_email.png) if any additional questions or concerns arise during the onboarding process. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
 
 [Return to Top](#TableOfContents)
 
@@ -75,7 +75,7 @@ Welcome to VectorSurv! In order to be added to VectorSurv as a new user to an ex
 
 VectorSurv's structure allows for agencies and agency managers to determine who is allowed to have access to their agency's data. Agency managers are able to add and remove users by navigating to Settings > My Agency > Manage Users. If a new individual would like to become a user for an agency, the best path forward is to reach out directly to the agency manager to request access.
 
-In situations where the agency manager is not available to create new users or if identifying the agency manager is not possible, please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to create a new agency manager or to identify the manager for the requested agency.
+In situations where the agency manager is not available to create new users or if identifying the agency manager is not possible, please reach out to VectorSurv at ![Help Email]({{ starting}}/assets/images/docs/help_email.png) to create a new agency manager or to identify the manager for the requested agency.
 
 **Next Steps:** 
 
@@ -85,7 +85,7 @@ VectorSurv also offers a "playground" environment, known as the Sandbox (<https:
 
 VectorSurv staff have also produced reference materials that may be of assistance to new users as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (<https://vectorsurv.org/docs/>). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (<https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g>).
 
-Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if additional questions or concerns arise during the onboarding process as a new user. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
+Lastly, feel free to reach out to ![Help Email]({{ starting}}/assets/images/docs/help_email.png) if additional questions or concerns arise during the onboarding process as a new user. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
 
 [Return to Top](#TableOfContents)
 
@@ -130,7 +130,7 @@ The following types of data are available to be imported through the VectorSurv 
 
 The import process for Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox does not persist as the Sandbox is reset each weekend. If the data import completes successfully in the VectorSurv Sandbox, that provides an indication that the same data can be imported into the live copy of the data on the VectorSurv Gateway if desired.
 
-Assistance with the Excel (.xls) or CSV (.csv) file import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
+Assistance with the Excel (.xls) or CSV (.csv) file import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at ![Help Email]({{ starting}}/assets/images/docs/help_email.png) to request such assistance.
 
 **Web Service Imports:** 
 
@@ -148,7 +148,7 @@ The following types of data are available to be imported through VectorSurv's we
 
 The import process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox do not persist, as the Sandbox is reset each weekend.
 
-Assistance with VectorSurv's web service import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
+Assistance with VectorSurv's web service import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at ![Help Email]({{ starting}}/assets/images/docs/help_email.png) to request such assistance.
 
 [Return to Top](#TableOfContents)
 
@@ -184,7 +184,7 @@ The following types of data are available to be exported to Excel (.xls) or CSV 
 
 The export process to Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>).
 
-Assistance with the Excel (.xls) or CSV (.csv) file export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
+Assistance with the Excel (.xls) or CSV (.csv) file export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at ![Help Email]({{ starting}}/assets/images/docs/help_email.png) to request such assistance.
 
 **Web Service Exports:** 
 
@@ -205,7 +205,7 @@ The following types of data are available to be exported through VectorSurv's we
 
 The export process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>).
 
-Assistance with VectorSurv's web service export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
+Assistance with VectorSurv's web service export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at ![Help Email]({{ starting}}/assets/images/docs/help_email.png) to request such assistance.
 
 [Return to Top](#TableOfContents)
 
