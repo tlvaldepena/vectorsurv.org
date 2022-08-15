@@ -244,7 +244,7 @@ In addition to the data request form found within the data policy statement, an 
 
 [Return to Top](#TableOfContents)
 
-## VectorSurv Citation{#VectorSurvCitation}
+## VectorSurv Citation {#VectorSurvCitation}
 
 It is encouraged that VectorSurv be cited in situations where data stored within VectorSurv are directly used within research papers or journal articles. In general, a citation for the main VectorSurv website is appropriate as it serves as an informational front page for VectorSurv that is more useful for understanding the system. The VectorSurv website is used rather than the VectorSurv Gateway because the Gateway is specifically used by public health and vector control agencies with login credentials. Providing the URL for the VectorSurv Gateway only brings readers to the VectorSurv Gateway login page.
 
