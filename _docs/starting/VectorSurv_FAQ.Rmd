@@ -1,6 +1,6 @@
 ---
 title: "VectorSurv Starting Guide"
-gateway-url: https://gateway.vectorsurv.org/starting
+
 ---
 
 ```{r setup, include=FALSE}
