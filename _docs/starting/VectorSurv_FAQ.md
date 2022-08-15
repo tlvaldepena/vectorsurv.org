@@ -1,9 +1,9 @@
 ---
-title: "VectorSurv Starting Guide"
+title: ""
 permalink: /starting/
 ---
 
-* Table Of Contents {#TableOfContents}
+* VectorSurv Starting Guide {#TableOfContents}
 
 * [Starting with VectorSurv as a New Agency](#StartingOnVectorSurvAgency)
 
