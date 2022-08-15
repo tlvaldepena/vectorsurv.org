@@ -246,11 +246,11 @@ In addition to the data request form found within the data policy statement, an 
 
 It is encouraged that VectorSurv be cited in situations where data stored within VectorSurv are directly used within research papers or journal articles. In general, a citation for the main VectorSurv website is appropriate as it serves as an informational front page for VectorSurv that is more useful for understanding the system. The VectorSurv website is used rather than the VectorSurv Gateway because the Gateway is specifically used by public health and vector control agencies with login credentials. Providing the URL for the VectorSurv Gateway only brings readers to the VectorSurv Gateway login page.
 
+Additionally, for California VectorSurv users, an existing data policy (<https://vectorsurv.org/assets/files/calsurv_data_policy.pdf>) and data request/review process outline the process by which California VectorSurv data can be provided to external researchers or requestees. Therefore, for California-specific research papers or journal articles, an additional statement can be provided as the data availability statement that is frequently required by academic journals.
+
 **VectorSurv Citation:**
 
 VectorSurv Development Team. 20XX. VectorSurv - Vectorborne Disease Surveillance System. URL: https://vectorsurv.org/ [accessed XX Jan-Dec 20XX].
-
-Additionally, for California VectorSurv users, an existing data policy (<https://vectorsurv.org/assets/files/calsurv_data_policy.pdf>) and data request/review process outline the process by which California VectorSurv data can be provided to external researchers or requestees. Therefore, for California-specific research papers or journal articles, an additional statement can be provided as the data availability statement that is frequently required by academic journals.
 
 **Data Availability Statement for California VectorSurv Users:**
 
