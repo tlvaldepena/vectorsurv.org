@@ -59,13 +59,13 @@ Agency boundaries are not required to be unique or avoid overlap. For example, m
 
 **Next Steps:** 
 
-Once the agency and at least one agency manager are added to the system, the VectorSurv Gateway emails the agency manager with a generated link that will allow the manager to create a password. The manager will then have immediate access to log into the VectorSurv Gateway (https://gateway.vectorsurv.org/) and will be able to add additional agency managers and users by navigating to Settings > My Agency > Manage Users > Add New User. Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to Settings > My Account > Account Preferences.
+Once the agency and at least one agency manager are added to the system, the VectorSurv Gateway emails the agency manager with a generated link that will allow the manager to create a password. The manager will then have immediate access to log into the VectorSurv Gateway (<https://gateway.vectorsurv.org/>) and will be able to add additional agency managers and users by navigating to Settings > My Agency > Manage Users > Add New User. Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to Settings > My Account > Account Preferences.
 
-VectorSurv also offers a "playground" environment, known as the Sandbox (https://sandbox.vectorsurv.org/), where users are allowed to experiment with the various website features without any risks to the real data that has been entered into the VectorSurv Gateway. Data entered or features tested within the Sandbox environment do not persist as the Sandbox is reset each weekend to match the data in the Gateway. Once an agency is onboarded, agency users will be able to access the Sandbox the following week after the Sandbox is reset over the weekend.
+VectorSurv also offers a "playground" environment, known as the Sandbox (<https://sandbox.vectorsurv.org/>), where users are allowed to experiment with the various website features without any risks to the real data that has been entered into the VectorSurv Gateway. Data entered or features tested within the Sandbox environment do not persist as the Sandbox is reset each weekend to match the data in the Gateway. Once an agency is onboarded, agency users will be able to access the Sandbox the following week after the Sandbox is reset over the weekend.
 
-VectorSurv staff have also produced reference materials that may be of assistance to new agencies as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (https://vectorsurv.org/docs/). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g).
+VectorSurv staff have also produced reference materials that may be of assistance to new agencies as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (<https://vectorsurv.org/docs/>). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (<https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g>).
 
-Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if any additional questions or concerns arise during the onboarding process. This email address reaches Chris Barker, our programmers, and our administrators, which helps ensure that messages don't get missed.
+Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if any additional questions or concerns arise during the onboarding process. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
 
 [Return to Top](#TableOfContents)
 
@@ -79,13 +79,13 @@ In situations where the agency manager is not available to create new users or i
 
 **Next Steps:** 
 
-Once the new user is added to the agency by the agency manager, the new user will then have immediate access to log into the VectorSurv Gateway (https://gateway.vectorsurv.org/) and will be able to set their own password by navigating to Settings > My Account > Security Details.Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to Settings > My Account > Account Preferences.
+Once the new user is added to the agency by the agency manager, the new user will then have immediate access to log into the VectorSurv Gateway (<https://gateway.vectorsurv.org/>) and will be able to set their own password by navigating to Settings > My Account > Security Details.Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to Settings > My Account > Account Preferences.
 
-VectorSurv also offers a "playground" environment, known as the Sandbox (https://sandbox.vectorsurv.org/), where new users are allowed to experiment with the various website features without any risks to the real data that has been entered into the VectorSurv Gateway. Data entered or features tested within the Sandbox environment do not persist as the Sandbox is reset each weekend to match the data in the Gateway. Once a new user is onboarded, the user will be able to access the Sandbox the following week after the Sandbox is reset over the weekend.
+VectorSurv also offers a "playground" environment, known as the Sandbox (<https://sandbox.vectorsurv.org/>), where new users are allowed to experiment with the various website features without any risks to the real data that has been entered into the VectorSurv Gateway. Data entered or features tested within the Sandbox environment do not persist as the Sandbox is reset each weekend to match the data in the Gateway. Once a new user is onboarded, the user will be able to access the Sandbox the following week after the Sandbox is reset over the weekend.
 
-VectorSurv staff have also produced reference materials that may be of assistance to new users as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (https://vectorsurv.org/docs/). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g).
+VectorSurv staff have also produced reference materials that may be of assistance to new users as they get started on VectorSurv. The first is VectorSurv's documentation website that provides useful information on the VectorSurv Gateway and its various features (<https://vectorsurv.org/docs/>). Additionally, VectorSurv's YouTube channel contains previously recorded training videos on how to use the features of the VectorSurv Gateway (<https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g>).
 
-Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if additional questions or concerns arise during the onboarding process as a new user. This email address reaches Chris Barker, our programmers, and our administrators, which helps ensure that messages don't get missed.
+Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if additional questions or concerns arise during the onboarding process as a new user. This email address reaches our programmers, data analysts, and administrators, which helps ensure that messages don’t get missed.
 
 [Return to Top](#TableOfContents)
 
@@ -93,9 +93,9 @@ Lastly, feel free to reach out to help[AT]vectorsurv[DOT]org if additional quest
 
 VectorSurv offers two separate software environments that may be of use to enrolled agencies, the VectorSurv Gateway and the VectorSurv Sandbox.
 
-The VectorSurv Gateway (https://gateway.vectorsurv.org/) can be considered the "live" VectorSurv environment. Data entered to the VectorSurv Gateway will be stored permanently within the VectorSurv database, and changes made within the VectorSurv Gateway environment will persist to future login sessions. This environment is the main interface for managing and sharing all relevant data that is to be stored within the system. This ensures that users will continually have access to their data for future analysis or for it to be shared with relevant partners as determined by the agency.
+The VectorSurv Gateway (<https://gateway.vectorsurv.org/>) can be considered the "live" VectorSurv environment. Data entered to the VectorSurv Gateway will be stored permanently within the VectorSurv database, and changes made within the VectorSurv Gateway environment will persist to future login sessions. This environment is the main interface for managing and sharing all relevant data that is to be stored within the system. This ensures that users will continually have access to their data for future analysis or for it to be shared with relevant partners as determined by the agency.
 
-The VectorSurv Sandbox (https://sandbox.vectorsurv.org/) is the system's "playground" environment. Data entered to the VectorSurv Sandbox are a copy of the VectorSurv Gateway’s data and settings through the previous week. Data in the Sandbox do not persist, as the Sandbox is reset each weekend to exactly match the data and settings that are found in the VectorSurv Gateway at the time of the reset. This environment aims to be a testing space where users are allowed to experiment with entering or importing data, changing settings, and using the various website features without any risks to the data that has been entered into the live VectorSurv Gateway. This ensures that users are able to try out all of the existing or newly released features of VectorSurv risk-free before using them within the VectorSurv Gateway.
+The VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>) is the system's "playground" environment. Data entered to the VectorSurv Sandbox are a copy of the VectorSurv Gateway’s data and settings through the previous week. Data in the Sandbox do not persist, as the Sandbox is reset each weekend to exactly match the data and settings that are found in the VectorSurv Gateway at the time of the reset. This environment aims to be a testing space where users are allowed to experiment with entering or importing data, changing settings, and using the various website features without any risks to the data that has been entered into the live VectorSurv Gateway. This ensures that users are able to try out all of the existing or newly released features of VectorSurv risk-free before using them within the VectorSurv Gateway.
 
 [Return to Top](#TableOfContents)
 
@@ -105,7 +105,7 @@ In addition to adding data values directly through the VectorSurv Gateway user i
 
 **Excel (.xls) or CSV (.csv) File Imports:** 
 
-Newly collected and historic data not yet entered to VectorSurv can be imported to the VectorSurv Gateway through the use of Excel (.xls) or CSV (.csv) files formatted to match VectorSurv's data structure. The data formats required to import new data using Excel (.xls) or CSV (.csv) files can be found within VectorSurv's data import specifications file (https://gateway.vectorsurv.org/doc/ImportDataSpecification.xlsx). 
+Newly collected and historic data not yet entered to VectorSurv can be imported to the VectorSurv Gateway through the use of Excel (.xls) or CSV (.csv) files formatted to match VectorSurv's data structure. The data formats required to import new data using Excel (.xls) or CSV (.csv) files can be found within VectorSurv's data import specifications file (<https://gateway.vectorsurv.org/doc/ImportDataSpecification.xlsx>). 
 
 Once the Excel (.xls) or CSV (.csv) file is correctly formatted for import, users can import files by navigating to Tools > Data Tools > Data Import.
 
@@ -128,13 +128,13 @@ The following types of data are available to be imported through the VectorSurv 
 * Tick Collections (with species and gender structured in a spreadsheet-style format)
 * Tick Pools
 
-The import process for Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (https://sandbox.vectorsurv.org/). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox does not persist as the Sandbox is reset each weekend. If the data import completes successfully in the VectorSurv Sandbox, that provides an indication that the same data can be imported into the live copy of the data on the VectorSurv Gateway if desired.
+The import process for Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox does not persist as the Sandbox is reset each weekend. If the data import completes successfully in the VectorSurv Sandbox, that provides an indication that the same data can be imported into the live copy of the data on the VectorSurv Gateway if desired.
 
 Assistance with the Excel (.xls) or CSV (.csv) file import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
 
 **Web Service Imports:** 
 
-Newly collected and historical data not yet entered into VectorSurv can also be imported to the VectorSurv Gateway through the use of VectorSurv's web service. This service is primarily intended for agencies with local in-house data applications or for agencies implementing custom code. The specifications for the web service import process can be found on our documentation website (https://trac.vectorsurv.org/gateway/wiki/ImportWebService).
+Newly collected and historical data not yet entered into VectorSurv can also be imported to the VectorSurv Gateway through the use of VectorSurv's web service. This service is primarily intended for agencies with local in-house data applications or for agencies implementing custom code. The specifications for the web service import process can be found on our documentation website (<https://trac.vectorsurv.org/gateway/wiki/ImportWebService>).
 
 To begin using VectorSurv's web service import process, an agency token is required to demonstrate that the import request has the proper authentication. Agency tokens can be generated by navigating to Settings > My Agency > Agency Tokens. Software vendors seeking to connect on behalf of a client agency would need to obtain a token from an agency manager at the client agency.
 
@@ -146,7 +146,7 @@ The following types of data are available to be imported through VectorSurv's we
 * Sentinel Bands
 * Sentinel Band Bleeds
 
-The import process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (https://sandbox.vectorsurv.org/). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox do not persist, as the Sandbox is reset each weekend.
+The import process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>). As with all data entered to the VectorSurv Sandbox, data imported to the VectorSurv Sandbox do not persist, as the Sandbox is reset each weekend.
 
 Assistance with VectorSurv's web service import process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
 
@@ -182,13 +182,13 @@ The following types of data are available to be exported to Excel (.xls) or CSV 
 * Carcass Submissions
 * Carcass Submission Test Results
 
-The export process to Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (https://sandbox.vectorsurv.org/).
+The export process to Excel (.xls) or CSV (.csv) files can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>).
 
 Assistance with the Excel (.xls) or CSV (.csv) file export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
 
 **Web Service Exports:** 
 
-Previously entered data of various types within VectorSurv can also be exported through the use of VectorSurv's web service. This service is primarily intended for agencies with local in-house data applications or for agencies implementing custom code. The specifications for the web service export process can be found on our documentation website (https://trac.vectorsurv.org/gateway/wiki/ExportWebService).
+Previously entered data of various types within VectorSurv can also be exported through the use of VectorSurv's web service. This service is primarily intended for agencies with local in-house data applications or for agencies implementing custom code. The specifications for the web service export process can be found on our documentation website (<https://trac.vectorsurv.org/gateway/wiki/ExportWebService>).
 
 To begin using VectorSurv's web service export process, an agency token is required to demonstrate that the export request has the proper authentication. Agency tokens can be generated by navigating to Settings > My Agency > Agency Tokens. Software vendors seeking to connect on behalf of a client agency would need to obtain a token from an agency manager at the client agency.
 
@@ -203,7 +203,7 @@ The following types of data are available to be exported through VectorSurv's we
 * Carcass Submissions
 * Carcass Submission Test Results
 
-The export process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (https://sandbox.vectorsurv.org/).
+The export process for VectorSurv's web service can also be tested in the VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>).
 
 Assistance with VectorSurv's web service export process can also be provided by VectorSurv's staff when available. Please reach out to VectorSurv at help[AT]vectorsurv[DOT]org to request such assistance.
 
@@ -225,7 +225,7 @@ Aggregate agencies are agencies that are responsible for statewide coordination 
 
 **Public Data Sharing:** 
 
-When and where data are available, VectorSurv publishes a public data visualization website that presents informative but simplified views of the data stored within the VectorSurv Gateway (https://maps.vectorsurv.org/). This website contains pages that are available to all visitors, such as maps showing arbovirus-positive environmental samples, invasive mosquito monitoring, and dengue / Zika virus risk indexes. Also, other beta sites that are available only to visitors who have login privileges for the VectorSurv Gateway. These password-protected maps show vector abundance by agency, pesticide resistance, and West Nile virus risk indexes. These pages serve an important function, as they allow for the timely reporting of relevant data elements to the communities where this data is being collected. 
+When and where data are available, VectorSurv publishes a public data visualization website that presents informative but simplified views of the data stored within the VectorSurv Gateway (<https://maps.vectorsurv.org/>). This website contains pages that are available to all visitors, such as maps showing arbovirus-positive environmental samples, invasive mosquito monitoring, and dengue / Zika virus risk indexes. Also, other beta sites that are available only to visitors who have login privileges for the VectorSurv Gateway. These password-protected maps show vector abundance by agency, pesticide resistance, and West Nile virus risk indexes. These pages serve an important function, as they allow for the timely reporting of relevant data elements to the communities where this data is being collected. 
 
 Publicly shared data elements are geospatially obscured in two different ways to provide data privacy for the agencies that generate the underlying data.
 
@@ -235,10 +235,10 @@ The second obscuring technique is to offset coordinate data values randomly by u
 
 **California Data Policy**
 
-For California VectorSurv users, an existing data policy statement (https://vectorsurv.org/assets/files/calsurv_data_policy.pdf) outlines permission to use electronically-stored vectorborne disease surveillance data for multiple uses and by various organizations. These guidelines are intended for agencies
+For California VectorSurv users, an existing data policy statement (<https://vectorsurv.org/assets/files/calsurv_data_policy.pdf>) outlines permission to use electronically-stored vectorborne disease surveillance data for multiple uses and by various organizations. These guidelines are intended for agencies
 that participate in the California Vectorborne Disease Surveillance Program (CalSurv), a joint activity of the Mosquito and Vector Control Association of California (MVCAC), the California Department of Public Health (CDPH), and the University of California, Davis (UCD). This policy is administered by the CalSurv Steering Committee, composed of members from the three agencies listed above.
 
-In addition to the data request form found within the data policy statement, an online data request form is available from the VectorSurv website (https://vectorsurv.org/).
+In addition to the data request form found within the data policy statement, an online data request form is available from the VectorSurv website (<https://vectorsurv.org/>).
 
 [Return to Top](#TableOfContents)
 
@@ -250,7 +250,7 @@ It is encouraged that VectorSurv be cited in situations where data stored within
 
 VectorSurv Development Team. 20XX. VectorSurv - Vectorborne Disease Surveillance System. URL: https://vectorsurv.org/ [accessed XX Jan-Dec 20XX].
 
-Additionally, for California VectorSurv users, an existing data policy (https://vectorsurv.org/assets/files/calsurv_data_policy.pdf) and data request/review process (https://forms.gle/HiG7qfH4sjU7hMW8A) outline the process by which California VectorSurv data can be provided to external researchers or requestees. Therefore, for California-specific research papers or journal articles, an additional statement can be provided as the data availability statement that is frequently required by academic journals.
+Additionally, for California VectorSurv users, an existing data policy (<https://vectorsurv.org/assets/files/calsurv_data_policy.pdf>) and data request/review process outline the process by which California VectorSurv data can be provided to external researchers or requestees. Therefore, for California-specific research papers or journal articles, an additional statement can be provided as the data availability statement that is frequently required by academic journals.
 
 **Data Availability Statement for California VectorSurv Users:**
 
