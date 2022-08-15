@@ -3,7 +3,7 @@ title: "VectorSurv Starting Guide"
 permalink: /starting/
 ---
 
-{#TableOfContents}
+## * Table Of Contents {#TableOfContents}
 
 * [Starting with VectorSurv as a New Agency](#StartingOnVectorSurvAgency)
 
