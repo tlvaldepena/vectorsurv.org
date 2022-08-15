@@ -1,6 +1,6 @@
 ---
 title: "VectorSurv Starting Guide"
-gateway-url: https://gateway.vectorsurv.org/arthro/ppf/starting
+gateway-url: https://vectorsurv.org/docs/starting
 ---
 
 ```{r setup, include=FALSE}
