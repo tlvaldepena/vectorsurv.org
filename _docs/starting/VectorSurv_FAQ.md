@@ -25,7 +25,7 @@ Welcome to VectorSurv! VectorSurv is web-based software to enable data managemen
 
 In order to start using VectorSurv as a new agency, initial information is required regarding the requesting agency and at least one agency manager of the requesting agency.
 
-Required and optional onboarding information can be sent to help@vectorsurv.org.
+Required and optional onboarding information can be sent to ![Help Email]({{ starting}}/assets/images/docs/help_email.png).
 
 **Agency Information:**
 
