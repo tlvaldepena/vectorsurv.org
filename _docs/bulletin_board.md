@@ -3,6 +3,8 @@ title: Bulletin Board
 gateway-url: https://gateway.vectorsurv.org/
 ---
 
+Agency and statewide messages may be displayed along with the changelog.
+
 After logging into the Vectorsurv Gateway, users will see a bulletin board containing one or more types of notes. Notes will appear on the bulletin board only if they have been created, so some users will see only one or two notes. To return to the bulletin board from any VectorSurv Gateway page, users can click the logo at the top of the screen.
 
 ![Bulletin Board]({{ site.baseurl }}/assets/images/docs/bulletin_board.png)
