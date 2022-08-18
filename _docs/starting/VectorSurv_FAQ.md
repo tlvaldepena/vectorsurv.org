@@ -59,7 +59,7 @@ Agency boundaries are not required to be unique or avoid overlap. For example, m
 
 **Next Steps:**
 
-Once the agency and at least one agency manager are added to the system, the VectorSurv Gateway emails the agency manager with a generated link that will allow the manager to create a password. The manager will then have immediate access to log into the VectorSurv Gateway (<https://gateway.vectorsurv.org/>) and will be able to add additional agency managers and users by navigating to [Settings] > [My Agency] > [Manage Users] > Add New User. Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to [Settings] > [My Account] > [Account Preferences].
+Once the agency and at least one agency manager are added to the system, the VectorSurv Gateway emails the agency manager with a generated link that will allow the manager to create a password. The manager will then have immediate access to log into the VectorSurv Gateway (<https://gateway.vectorsurv.org/>) and will be able to add additional agency managers and users by navigating to [Settings] > [My Agency] > [Manage Users] > [Add New User]. Additionally, once access is granted, a good first step for users is to review their account preferences, including the user's preferred date format, time format, time zone, and latitude / longitude format. Account preferences can be set by navigating to [Settings] > [My Account] > [Account Preferences].
 
 VectorSurv also offers a "playground" environment, known as the Sandbox (<https://sandbox.vectorsurv.org/>), where users are allowed to experiment with the various website features without any risks to the real data that has been entered into the VectorSurv Gateway. Data entered or features tested within the Sandbox environment do not persist as the Sandbox is reset each weekend to match the data in the Gateway. Once an agency is onboarded, agency users will be able to access the Sandbox the following week after the Sandbox is reset over the weekend.
 
@@ -262,6 +262,7 @@ Mosquito surveillance data can be requested for specific research purposes by su
 [My Account]: https://gateway.vectorsurv.org/core/ppf/menu/path/4
 [My Agency]: https://gateway.vectorsurv.org/core/ppf/menu/path/5
 [Manage Users]: https://gateway.vectorsurv.org/core/ppf/users
+[Add New User]: https://gateway.vectorsurv.org/core/ppf/users#new_user_legend
 [Account Preferences]: https://gateway.vectorsurv.org/core/ppf/preference
 [Manage Users]: https://gateway.vectorsurv.org/core/ppf/users
 [Security Details]: https://gateway.vectorsurv.org/core/ppf/password
