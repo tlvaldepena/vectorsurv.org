@@ -20,7 +20,7 @@
         - link: /docs/arthropod/pool/
         - link: /docs/arthropod/pool_manage/
         - link: /docs/arthropod/testing/
-- title: Sentinel 
+- title: Sentinel
   link: /docs/sentinel/sentinel-menu/
   docs:
     - link: /docs/sentinel/flocks-bands/
@@ -82,11 +82,7 @@
         - link: /docs/settings/user-manage/
         - link: /docs/settings/agency-info/
         - link: /docs/settings/tokens/
+- title: Bulletin Board
+  link: /docs/bulletin_board/
 - title: Starting Guide
   link: /starting/
-
-
-
-
-
-
