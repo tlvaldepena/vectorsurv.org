@@ -7,7 +7,7 @@ Agency and statewide messages may be displayed along with the changelog.
 
 After logging into the Vectorsurv Gateway, users will see a bulletin board containing one or more types of notes. Notes will appear on the bulletin board only if they have been created, so some users will see only one or two notes. To return to the bulletin board from any VectorSurv Gateway page, users can click the logo at the top of the screen.
 
-![Bulletin Board]({{ site.baseurl }}/assets/images/docs/bulletin_board.png)
+![Bulletin Board Notes]({{ site.baseurl }}/assets/images/docs/bulletin_board.png)
 
 ## Note Types
 
@@ -25,18 +25,18 @@ Currently, the note for a particular state or agency consists of a single docume
 
 ## Editing Notes
 
-![Bulletin Board]({{ site.baseurl }}/assets/images/docs/bulletin_board_button_edit.png) ![Bulletin Board]({{ site.baseurl }}/assets/images/docs/bulletin_board_button_create.png)
+![Bulletin Board edit button]({{ site.baseurl }}/assets/images/docs/bulletin_board_button_edit.png) ![Bulletin Board create button]({{ site.baseurl }}/assets/images/docs/bulletin_board_button_create.png)
 
 Agency managers within each agency are able to create and edit notes. Other users will be able to view the notes if they have been created.
 
 When an agency manager logs into the Vectorsurv Gateway, they will see either a button for creating notes (if a note has not been created previously) or for editing existing notes (if the note exists already). Clicking on the button will open the notes editing module.
 
-![Bulletin Board]({{ site.baseurl }}/assets/images/docs/bulletin_board_toolbar.png)
+![Bulletin Board Editor]({{ site.baseurl }}/assets/images/docs/bulletin_board_editor.png)
 
 All agency managers can create and edit the note that will be seen by users when logging into their own agency. Additionally, agency managers at statewide agencies (typically state health departments) are able to create notes that are viewable by users throughout their state.
 
 Notes are created using **Markdown**. The Notes module provides both a Markdown editor and a preview pane. Markdown syntax can be created by using the toolbar at the top of the editor pane or by inserting tags by hand.
 
-[image of toolbar]
+![Bulletin Board Toolbar]({{ site.baseurl }}/assets/images/docs/bulletin_board_toolbar.png)
 
 If you are unfamiliar with Markdown syntax the [Markdown Guide](https://www.markdownguide.org/basic-syntax/ "A free and open-source reference guide that explains how to use Markdown") is a helpful resource.
