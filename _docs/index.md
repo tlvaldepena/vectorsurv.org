@@ -7,6 +7,8 @@ This page provides documentation to accompany the webpages found on the VectorSu
 
 ### Table of Contents
 
+[Getting Started]({{ site.baseurl }}/starting/)
+
 [Sites]({{ site.baseurl }}/docs/site/site-menu/)
 
 [Arthropod]({{ site.baseur1 }}/docs/arthropod/arthro_menu/)
