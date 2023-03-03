@@ -72,6 +72,10 @@ Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vecto
 
 - <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
 
+## Oklahoma
+
+- <a href="https://oklahoma.gov/health/health-education/acute-disease-service/disease-information/tickborne-and-mosquitoborne-diseases.html" target="_blank">Oklahoma State Department of Health</a>
+
 ## South Dakota
 
 - <a href="https://doh.sd.gov/diseases/infectious/wnv/" target="_blank">South Dakota Department of Health</a>
@@ -79,6 +83,14 @@ Got questions for our team? Send them to [help@vectorsurv.org](mailto:help@vecto
 ## North Dakota
 
 - <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
+
+## Idaho
+
+- <a href="http://gcmad.org" target="_blank">Gem County Mosquito Abatement District</a>
+
+## Wyoming
+
+- <a href="https://tcweed.org" target="_blank">Teton County Weed and Pest District</a>
 
 ## US-Affiliated Pacific Islands
 
