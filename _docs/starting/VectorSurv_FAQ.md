@@ -3,7 +3,6 @@ title: ""
 permalink: /starting/
 ---
 
-<p></p>
 
 ## VectorSurv Starting Guide {#TableOfContents}
 
