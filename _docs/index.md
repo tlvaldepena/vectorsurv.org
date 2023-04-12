@@ -3,13 +3,6 @@ title: Documentation
 permalink: /docs/
 ---
 
-<div class="grid-container3">
-    <div class= "box3">
-        <h1>  Documentation
-        </h1>
-    </div>
-</div>
-
 <h4>This page provides documentation to accompany the webpages found on the VectorSurv Gateway. The VectorSurv Gateway pages are linked to the corresponding documentation. Users may also browse the information using the links to the right.</h4><br>
 
 <div class="grid-container4">

@@ -188,6 +188,10 @@ header.top{
   left: 0;
 }
 
+body {
+  position: absolute;
+ }
+
 .main-nav a{
   display: -webkit-box;
   display: -moz-box;
@@ -270,7 +274,13 @@ footer.bottom{
   background-color: #004F74;
   color: #ffffff;
   padding-top: 10px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index:1;
+  position: absolute;
+  
 }
 
 @media (min-width: 2000px) {
@@ -772,6 +782,7 @@ section.content .gatsby-highlight + h4::before{
   position: relative;
   z-index: 0;
   -webkit-flex: 1 0 auto;
+  padding-bottom: 10vh;
 }
 
 .inner1 {
@@ -921,6 +932,7 @@ section.content .gatsby-highlight + h4::before{
 
 @media (max-width: 599px) {
   .sidebar .sidebar-wrap-outer{
+      padding-bottom: 10vh;
       top:0;
       left: 0;
       bottom: 0;
@@ -930,13 +942,14 @@ section.content .gatsby-highlight + h4::before{
       z-index: 2;
       height: 100vh;
       overflow-y: auto;
-      -webkit-overflow-scrolling: touch;
+      -webkit-overflow-scrolling: touch; 
       pointer-events: none;
   }
 }
 
 @media (min-width: 780px) {
   .sidebar .sidebar-wrap-outer{
+      padding-bottom: 13vh;
       margin-right:-999px;
       padding-right: 999px;
       background-color: #f7f7f7;
@@ -945,6 +958,7 @@ section.content .gatsby-highlight + h4::before{
 
 @media (min-width: 780px) and (max-width: 1999px) {
   .sidebar .sidebar-wrap-outer{
+      padding-bottom: 13vh;
       position:fixed;
       z-index: 2;
       height: 100%;
@@ -953,9 +967,10 @@ section.content .gatsby-highlight + h4::before{
 
 @media (min-width: 600px) {
   .sidebar .sidebar-wrap-outer{
+      padding-bottom: 13vh;
       position:fixed;
       z-index: 2;
-      height: calc(100vh - 60px);
+      height: 100vh;
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       margin-right: -999px;
@@ -967,18 +982,21 @@ section.content .gatsby-highlight + h4::before{
 
 @media (min-width: 600px) and (max-width: 779px) {
   .sidebar .sidebar-wrap-outer{
-      height:calc(100vh - 40px);
+      padding-bottom: 13vh;
+      height:100vh;
   }
 }
 
 @media (min-width: 780px) and (max-width: 1279px) {
   .sidebar .sidebar-wrap-outer{
-      height:calc(100vh - 50px);
+      padding-bottom: 13vh;
+      height:100vh;
   }
 }
 
 @media (min-width: 2000px) {
   .sidebar .sidebar-wrap-outer{
+      padding-bottom: 13vh;
       border-left:1px solid #ececec;
   }
 }

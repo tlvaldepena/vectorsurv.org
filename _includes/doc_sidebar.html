@@ -1,33 +1,39 @@
 <div class="sidebar">
-  <div> 
+  <div>
     <div class="sidebar-wrap-outer">
       <div class="sidebar-wrap-inner">
         <nav>
           <div>
-            {% for section in site.data.docs_nav %}
-            {% assign p = site.documents | where: "url", section.link | first %}
-            <h4 class="container">{%- if section.link %}<a href="{{ p.url }}">{%- if page.url == p.url %}<span class="current"></span>{%- endif %}
-              {%- endif %}{{ section.title }}{%- if section.link %}</a>{%- endif %}</h4>
+            {% for section in site.data.docs_nav %} {% assign p = site.documents
+            | where: "url", section.link | first %}
+            <h4 class="container">
+              {%- if section.link %}
+              <a href="{{ p.url }}"
+                >{%- if page.url == p.url %} <span class="current"></span> {%-
+                endif %} {%- endif %}{{ section.title }}{%- if section.link %}
+              </a>
+              {%- endif %}
+            </h4>
             <ul>
-              {% for item in section.docs %}
-                {% assign p = site.documents | where: "url", item.link | first %}
-                <li {%- if page.url == p.url %} class="current" {%- endif %}>
-                  <a class="item" href="{{ p.url }}">
-                    {%- if page.url == p.url %}<span class="current"></span>{%- endif %}
-                    {{ p.menu_name | default: p.title }}
-                  </a>
-                  <ul class="innerNav">
-                  {% for item2 in item.docs %}
-                  {% assign p = site.documents | where: "url", item2.link | first %}
-                  <li {%- if page.url == p.url %} class="current" {%- endif %}>
+              {% for item in section.docs %} {% assign p = site.documents |
+              where: "url", item.link | first %}
+              <li {%- if page.url=="p.url" %} class="current" {%- endif %}>
+                <a class="item" href="{{ p.url }}">
+                  {%- if page.url == p.url %}<span class="current"></span>{%-
+                  endif %} {{ p.menu_name | default: p.title }}
+                </a>
+                <ul class="innerNav">
+                  {% for item2 in item.docs %} {% assign p = site.documents |
+                  where: "url", item2.link | first %}
+                  <li {%- if page.url=="p.url" %} class="current" {%- endif %}>
                     <a class="item" href="{{ p.url }}">
-                      {%- if page.url == p.url %}<span class="current"></span>{%- endif %}
-                      {{ p.menu_name | default: p.title }}
+                      {%- if page.url == p.url %}<span class="current"></span
+                      >{%- endif %} {{ p.menu_name | default: p.title }}
                     </a>
                   </li>
                   {% endfor %}
-                  </ul>
-                </li>
+                </ul>
+              </li>
               {% endfor %}
             </ul>
             {% endfor %}
