@@ -1,3 +1,4 @@
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
 <div class="grid-container2">
     <div class= "box2">
@@ -16,7 +17,7 @@
 
 
   <section class="breweries" id="breweries">
-    <ul>
+    <ml>
       <li>
         <h2>
             VectorSurv Gateway
@@ -39,10 +40,10 @@
             VectorSurv Maps
         </h2>
         <figure>
-          <img src="/assets/images/maps3.png" alt="VectorSurv Maps">
+          <img src="/assets/images/maps4.png" alt="VectorSurv Maps">
         </figure>
         <p>
-          Shows past and present results of surveillance for arboviruses, and invasive mosquitoes. Users with a Gateway login can also visualize abundance, insecticide resistance, and West Nile Virus risk.
+          Shows past and present results of surveillance for arboviruses and invasive mosquitoes. Users with a Gateway login can also visualize abundance, insecticide resistance, and West Nile Virus risk.
         </p>
          <div class="new-button"> 
             <a class="linkclass" href="https://maps.vectorsurv.org//">Explore Maps</a><br>
@@ -50,7 +51,7 @@
       </li>
       <li>
          <h2>
-            Coming Soon: Open Data
+            VectorSurv Open Data
         </h2>       
         <figure>
           <img src="/assets/images/comingsoon3.png" alt="Coming Soon">
@@ -59,19 +60,57 @@
             Soon you'll be able to download mosquito abundance and arbovirus surveillance data from participating VectorSurv agencies in order to conduct your own research.  
             </p>
       </li>
-    </ul>
+    </ml>
   </section>
 
-<div class="padding">
-    <hr>
-</div>
-<div class="grid-container3">
-    <div class= "box3">
-            <p>
-                VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
-            </p>
+<div class="grid-container-full">
+    <div class= "boxfull2">
+        <h3> Stay up to date with announcements, new features, tips, and more by <u><a class="linkclass" href="http://eepurl.com/ipl0UM" target="_blank">joining our newsletter here.  </a></u>
+        </h3>
     </div>
 </div>
+
+<!-- <div class="padding">
+    <hr>
+</div> -->
+
+<div class="grid-container-full">
+    <div class= "boxfull">
+        <!-- <h2>
+            VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
+        </h2>
+        <br> -->
+        <h2> Our impact:
+        </h2>
+    </div>
+</div>
+<div class="grid-container-3">
+    <div class= "box3">
+        <figure>
+          <img src="/assets/images/mapicon.png" alt="icon of map of US">
+        </figure>
+        <h2> 19 </h2>
+        <h3> states and territories </h3>
+    </div>
+    <div class= "box3">
+        <figure>
+          <img src="/assets/images/enterprise.png" alt="icon of agency">
+        </figure>
+        <h2> 230+ </h2>
+        <h3> agencies </h3>
+    </div>
+    <div class= "box3">
+        <figure>
+          <img src="/assets/images/student.png" alt="icon of student">
+        </figure>
+        <h2> 1000+ </h2>
+        <h3> users </h3>
+    </div>
+</div>
+
+<!-- <div class="padding">
+    <hr>
+</div> -->
 
 
 <div class="grid-container">
@@ -110,29 +149,6 @@
                 </p>
             </details>
             <details>
-                <summary>Utah</summary>
-                <p>
-                <li>
-                    <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank" href="#">Utah Department of Health</a>
-                </li>
-                <li>
-                    <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
-                </li>
-                </p>
-            </details>
-            <details>
-                <summary>New Jersey</summary>
-                <p>
-                <li>
-                    <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a><br>
-                </li>
-                <li>
-                    <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
-                </li>
-      
-                </p>
-            </details>
-            <details>
                 <summary>Arizona</summary>
                 <p>
                 <li>
@@ -140,6 +156,13 @@
                 </li>
                 </p>
             </details>
+            <!-- <details>
+                <summary>Colorado</summary>
+                <p>
+                <li>
+                </li>
+                </p>
+            </details> -->
             <details>
                 <summary>Hawaii</summary>
                 <p>
@@ -149,26 +172,25 @@
                 </p>
             </details>
             <details>
-                <summary>Washington</summary>
+                <summary>Idaho</summary>
                 <p>
                 <li>
-                    <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
+                    <a href="http://gcmad.org" target="_blank">Gem County Mosquito Abatement District</a>
                 </li>
                 </p>
             </details>
-            <details>
-                <summary>Tennessee</summary>
+            <!-- <details>
+                <summary>Kentucky</summary>
                 <p>
                 <li>
-                    <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
                 </li>
                 </p>
-            </details>
+            </details> -->
             <details>
-                <summary>North Carolina</summary>
+                <summary>Louisiana</summary>
                 <p>
                 <li>
-                    <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
+                    <a href="https://ldh.la.gov/" target="_blank">Louisiana Department of Health</a>
                 </li>
                 </p>
             </details>
@@ -180,6 +202,54 @@
                 </li>
                 </p>
             </details>
+            <!-- <details>
+                <summary>Nevada</summary>
+                <p>
+                <li>
+                </li>
+                </p>
+            </details> -->
+            <details>
+                <summary>New Jersey</summary>
+                <p>
+                <li>
+                    <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a><br>
+                </li>
+                <li>
+                    <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
+                </li>
+                </p>
+            </details>
+            <!-- <details>
+                <summary>New York</summary>
+                <p>
+                <li>
+                </li>
+                </p>
+            </details> -->
+            <details>
+                <summary>North Carolina</summary>
+                <p>
+                <li>
+                    <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
+                </li>
+                </p>
+            </details>
+            <details>
+                <summary>North Dakota</summary>
+                <p>
+                <li>
+                    <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
+                </li>
+                </p>
+            </details>
+            <!-- <details>
+                <summary>Ohio</summary>
+                <p>
+                <li>
+                </li>
+                </p>
+            </details> -->
             <details>
                 <summary>Oklahoma</summary>
                 <p>
@@ -197,26 +267,10 @@
                 </p>
             </details>
             <details>
-                <summary>North Dakota</summary>
+                <summary>Tennessee</summary>
                 <p>
                 <li>
-                    <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
-                </li>
-                </p>
-            </details>
-            <details>
-                <summary>Idaho</summary>
-                <p>
-                <li>
-                    <a href="http://gcmad.org" target="_blank">Gem County Mosquito Abatement District</a>
-                </li>
-                </p>
-            </details>
-            <details>
-                <summary>Wyoming</summary>
-                <p>
-                <li>
-                    <a href="https://tcweed.org" target="_blank">Teton County Weed and Pest District</a>
+                    <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
                 </li>
                 </p>
             </details>
@@ -243,6 +297,33 @@
                 </li>
                 </p>
             </details>
+            <details>
+                <summary>Utah</summary>
+                <p>
+                <li>
+                    <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank" href="#">Utah Department of Health</a>
+                </li>
+                <li>
+                    <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
+                </li>
+                </p>
+            </details>
+            <details>
+                <summary>Washington</summary>
+                <p>
+                <li>
+                    <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
+                </li>
+                </p>
+            </details>
+            <details>
+                <summary>Wyoming</summary>
+                <p>
+                <li>
+                    <a href="https://tcweed.org" target="_blank">Teton County Weed and Pest District</a>
+                </li>
+                </p>
+            </details>
         </article>
     </div>
     <div class= "box">
@@ -264,5 +345,10 @@
         <li>
             <a class="linkclass" href="https://www.noaa.gov/" target="_blank">National Oceanic and Atmospheric Administration</a>
         </li>
+        <br>
+        <p>
+            VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
+        </p>
+        <br><br>
     </div>
 </div>

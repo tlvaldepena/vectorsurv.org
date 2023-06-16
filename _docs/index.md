@@ -38,6 +38,9 @@ permalink: /docs/
         <li>
             <a class="linkclass" href="https://vectorsurv.org/docs/bulletin_board/" target="_blank">Bulletin Board </a>
         </li>
+        <!-- <li>
+            <a class="linkclass" href="https://vectorsurv.org/docs/" target="_blank">API</a>
+        </li> -->
     </div>
 </div>
 
