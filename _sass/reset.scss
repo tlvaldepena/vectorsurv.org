@@ -20,9 +20,10 @@ html {
     padding: 0;
   }
   
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+  // this is where the footer size is coming from
+  // *, *::before, *::after {
+  //   box-sizing: inherit;
+  // }
   
   a {
     color: inherit;
