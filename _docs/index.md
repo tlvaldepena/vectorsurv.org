@@ -12,6 +12,9 @@ permalink: /docs/
             <a class="linkclass" href="https://vectorsurv.org/starting/" target="_blank">Getting Started</a>
         </li>
         <li>
+            <a class="linkclass" href="https://vectorsurv.org/docs/sandbox/" target="_blank">The Sandbox</a>
+        </li>
+        <li>
             <a class="linkclass" href="https://vectorsurv.org/docs/site/site-menu/" target="_blank">Sites</a>
         </li>
         <li>

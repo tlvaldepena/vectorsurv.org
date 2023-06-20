@@ -3,7 +3,7 @@ title: Risk Assessment
 gateway-url: https://gateway.vectorsurv.org/core/ppf/risk_assessment_calc
 ---
 
-This calculator is based upon the Risk Assessment model found in the [California Mosquito-borne Virus Surveillance and Response Plan](http://westnile.ca.gov/resources.php). The environmental component (temperature and precipitation) of this calculator uses daily meteorological surfaces generated from the Terrestrial Observation and Prediction System provided by the [Ecological Forecasting Lab](https://ecocast.arc.nasa.gov/) at NASA Ames Research Center. The infection rate component of this calculator is based upon the [CDC/DVBID MLE/MIR MS Excel add-in](https://www.cdc.gov/westnile/resourcepages/mosqSurvSoft.html).
+This calculator is based upon the Risk Assessment model found in the [California Mosquito-borne Virus Surveillance and Response Plan](http://westnile.ca.gov/resources.php). The environmental component (temperature and precipitation) of this calculator uses daily meteorological surfaces generated from the [North American Land Data Assimilation System (NLDAS)](https://ldas.gsfc.nasa.gov/nldas) provided by [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard). The infection rate component of this calculator is based upon the [CDC/DVBID MLE/MIR MS Excel add-in](https://www.cdc.gov/westnile/resourcepages/mosqSurvSoft.html).
 
 ## Fields
 

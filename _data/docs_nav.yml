@@ -1,5 +1,7 @@
 - title: Starting Guide
   link: /starting/
+- title: The Sandbox
+  link: /docs/sandbox/
 - title: Sites
   link: /docs/site/site-menu/
   docs:
@@ -86,3 +88,5 @@
         - link: /docs/settings/tokens/
 - title: Bulletin Board
   link: /docs/bulletin_board/
+# - title: API
+#   link: /docs/bulletin_board/

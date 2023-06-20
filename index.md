@@ -23,7 +23,7 @@
             VectorSurv Gateway
         </h2>
         <figure>
-          <img src="/assets/images/gateway3.png" alt="VectorSurv Gateway">
+          <img src="/assets/images/gateway4.png" alt="VectorSurv Gateway">
         </figure>
         <p>
           Vector control and public health agencies use the Gateway to manage and analyze surveillance and control data. Each agency maintains all privileges to manage its own data and user accounts. 
