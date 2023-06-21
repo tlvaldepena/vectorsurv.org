@@ -34,6 +34,8 @@ Any new formulations of pesticide products should be saved here.
 - **Code**: An identifier your agency uses to reference this product formulation.
 - **Description**: A short description of this mix.
 - **Products**: The active product in the mix. There are three fields for the product name, the quantity used, and the units.
+
   ![Products]({{ site.baseur1 }}/assets/images/docs/mix-products.PNG)
 - **Diluents**: Note whether the product was diluted in any form. There are three fields for the diluent name, the quantity used, and the units.
+
   ![Diluents]({{ site.baseur1 }}/assets/images/docs/mix-diluents.PNG)

@@ -10,8 +10,10 @@ Sites are essentially bookmarks for trap locations. They will help you quickly r
 * **Site Name**: Recommended; an easier way to remember the name for the site. Site Code and Site Name will be searchable and autocompleted on the data entry pages so it's helpful to assign this field.
 * **Coordinates**: The spatial location for the site. There are 3 ways to assign this, and any one of these methods will overwrite the others. For example, choosing the location on the Map tab will change the coordinates previously entered in the DD tab to match the new position.
   * Type in Latitude/Longitude as Decimal Degrees, Degrees Minutes Seconds, or Degrees Minutes in one of the first three tabs. The point will appear on the Map tab. If the Latitude is in the southern hemisphere or the Longitude is in the western hemisphere, the value must be prefixed by the minus '-' sign.
+
 ![Example with coordinates tabs]({{ site.baseurl }}/assets/images/docs/coordinates-ex.PNG)
   * Click on the location on the Map tab. The resulting marker can be moved if necessary.
+
   ![Example with map tab]({{ site.baseur1 }}/assets/images/docs/coordinates-map-ex.PNG)
   * [Geocode]({{ site.baseur1 }}/docs/tools/spatial-tools) the address either on the Map tab or by filling the address fields below.
 * **Coordinate Precision**: Used to specify whether or not a site is marked exactly. Should be kept as *Exact* for most data; this is to specify historical data that might not be as accurate as modern data.
