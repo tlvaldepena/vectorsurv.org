@@ -29,7 +29,6 @@
   margin-right: 10px;
   font-size: 24px;
   line-height: 24px;
-  // font-family: Roboto, sans-serif;
   font-weight:700;
 }
 
@@ -616,8 +615,8 @@ section.content .gatsby-highlight + h4::before{
   color: #fff;
   font-weight: bold;
   transition: color 0.2s ease-out;
-  padding-left: 20px;
-  // padding-right: 10px;
+  padding-left: 7.5px;
+  padding-right: 7.5px;
   font-weight: 420;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -716,8 +715,8 @@ section.content .gatsby-highlight + h4::before{
   -webkit-flex-direction: column;
   position:absolute;
   right: 1;
-  margin-top:1.5rem;
-  padding-right:1rem;
+  // padding-top:1.5rem;
+  // padding-right:1rem;
 }
 
 @media (min-width: 600px) {
@@ -932,34 +931,60 @@ section.content .gatsby-highlight + h4::before{
   position:absolute;
   right: 0;
   margin-top:1.5rem;
+  background-color: lightgray;
 }
 
-.sidebar .sidebar-wrap-inner{
-  margin-top: 60px;
-}
+// .sidebar .sidebar-wrap-inner{
+//   // margin-top: 60px;
+// }
 
-@media (min-width: 0px) and (max-width: 599px) {
-  .sidebar .sidebar-wrap-inner{
-      margin-top:40px;
-  }
-}
+// @media (min-width: 0px) and (max-width: 599px) {
+//   .sidebar .sidebar-wrap-inner{
+//       margin-top:40px;
+//   }
+// }
 
-@media (min-width: 600px) and (max-width: 979px) {
-  .sidebar .sidebar-wrap-inner{
-      margin-top:0;
-  }
-}
+// @media (min-width: 600px) and (max-width: 979px) {
+//   .sidebar .sidebar-wrap-inner{
+//       margin-top:0;
+//   }
+// }
 
-@media (min-width: 780px) and (max-width: 1279px) {
-  .sidebar .sidebar-wrap-inner{
-      margin-top:50px;
-  }
-}
+// @media (min-width: 780px) and (max-width: 1279px) {
+//   .sidebar .sidebar-wrap-inner{
+//       margin-top:50px;
+//   }
+// }
 
 @media (min-width: 600px) {
   .sidebar .sidebar-wrap-inner{
       transform:none !important;
       -webkit-transform: none !important;
+  }
+}
+
+.sidebar .sidebar-wrap-outer{
+  padding-top:0;
+}
+
+@media (min-width: 600px) {
+  .sidebar .sidebar-wrap-outer{
+      padding-bottom: 13vh;
+      position:fixed;
+      z-index: 2;
+      height: 100vh;
+      overflow-y: scroll;
+      -webkit-overflow-scrolling: touch;
+      // margin-right: -900px;
+      padding-right: 1.5rem;
+      background-color: lightgray;
+      color:#003366;
+      opacity: 1 !important;
+      padding-top:1rem;
+      padding-left:1rem;
+      right:0;
+      width:20%;
+      margin-top:-.3rem;
   }
 }
 
@@ -998,7 +1023,7 @@ section.content .gatsby-highlight + h4::before{
       overflow-y: auto;
       -webkit-overflow-scrolling: touch; 
       pointer-events: none;
-      margin-top:4rem;
+      margin-top:3rem;
   }
 }
 
@@ -1515,7 +1540,7 @@ section.content .gatsby-highlight + h4::before{
 
 .box2 {
   color: white;
-  min-width: 500px;
+  // min-width: 500px;
   margin-top:2rem;
   margin-bottom:3rem;
   text-align: left;
@@ -1747,7 +1772,7 @@ section.content .gatsby-highlight + h4::before{
 }
 
 .breweries > ml > li > figure {
-  max-height: 240px;
+  max-height: 370px;
   overflow: hidden;
   border-radius: .5rem;
   position: relative;

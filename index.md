@@ -1,5 +1,3 @@
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
-
 <div class="grid-container2">
     <div class= "box2">
         <h1>  Let's control vector-borne disease.
@@ -8,11 +6,6 @@
             VectorSurv helps public health agencies manage surveillance data, visualize trends, and make real-time decisions to prevent the spread of vector-borne diseases and protect public health.
         </p>
     </div>
-    <!-- <div class= "box2">
-         <figure>
-          <img src="/assets/images/maps2.png" alt="VectorSurv Maps">
-        </figure>
-    </div> -->
 </div>
 
 
@@ -28,9 +21,6 @@
         <p>
           Vector control and public health agencies use the Gateway to manage and analyze surveillance and control data. Each agency maintains all privileges to manage its own data and user accounts. 
         </p>
-        <!-- <div class="new-button"> 
-            <a class="linkclass" href="https://vectorsurv.org/starting/">Learn more</a><br>
-        </div> -->
         <div class="new-button"> 
             <a class="linkclass" href="https://vectorsurv.org/starting/">Get started</a><br>
         </div>
@@ -65,21 +55,13 @@
 
 <div class="grid-container-full">
     <div class= "boxfull2">
-        <h3> Stay up to date with announcements, new features, tips, and more by <u><a class="linkclass" href="http://eepurl.com/ipl0UM" target="_blank">joining our newsletter here.  </a></u>
+        <h3><u><a class="linkclass" href="http://eepurl.com/ipl0UM" target="_blank">Join our newsletter</a></u> to stay up to date with announcements, new features, tips, and more. 
         </h3>
     </div>
 </div>
 
-<!-- <div class="padding">
-    <hr>
-</div> -->
-
 <div class="grid-container-full">
     <div class= "boxfull">
-        <!-- <h2>
-            VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
-        </h2>
-        <br> -->
         <h2> Our impact:
         </h2>
     </div>
@@ -107,11 +89,6 @@
         <h3> users </h3>
     </div>
 </div>
-
-<!-- <div class="padding">
-    <hr>
-</div> -->
-
 
 <div class="grid-container">
     <div class= "box">
@@ -156,13 +133,6 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
-                <summary>Colorado</summary>
-                <p>
-                <li>
-                </li>
-                </p>
-            </details> -->
             <details>
                 <summary>Hawaii</summary>
                 <p>
@@ -179,13 +149,6 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
-                <summary>Kentucky</summary>
-                <p>
-                <li>
-                </li>
-                </p>
-            </details> -->
             <details>
                 <summary>Louisiana</summary>
                 <p>
@@ -202,13 +165,6 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
-                <summary>Nevada</summary>
-                <p>
-                <li>
-                </li>
-                </p>
-            </details> -->
             <details>
                 <summary>New Jersey</summary>
                 <p>
@@ -220,13 +176,6 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
-                <summary>New York</summary>
-                <p>
-                <li>
-                </li>
-                </p>
-            </details> -->
             <details>
                 <summary>North Carolina</summary>
                 <p>
@@ -243,13 +192,6 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
-                <summary>Ohio</summary>
-                <p>
-                <li>
-                </li>
-                </p>
-            </details> -->
             <details>
                 <summary>Oklahoma</summary>
                 <p>
