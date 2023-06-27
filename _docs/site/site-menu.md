@@ -3,7 +3,7 @@ title: Sites
 gateway-url: https://gateway.vectorsurv.org/core/ppf/menu/path/17
 ---
 
-Sites menu
+Sites are essentially bookmarks for trap locations. They will help you quickly record collection events and pool tests without having to locate them on a map or type in coordinates each time.
 
 ### [New Site]({{ site.baseur1 }}/docs/site/)
 
