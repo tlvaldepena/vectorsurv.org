@@ -87,7 +87,7 @@
         </figure>
         <h2> 1000+ </h2>
         <h3> users </h3>
-    </div>
+    </div> 
 </div>
 
 <div class="grid-container">
