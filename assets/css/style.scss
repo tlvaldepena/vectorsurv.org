@@ -1575,6 +1575,16 @@ section.content .gatsby-highlight + h4::before{
   }
 }
 
+.grid-container-full2 {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-around;
+  padding-top: 3rem;
+  // padding-bottom:2rem;
+  padding-left:5rem;
+  padding-right:5rem;
+  background-color: white;
+}
 
 .boxfull {
   background-color: white;

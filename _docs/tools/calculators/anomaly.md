@@ -20,7 +20,7 @@ $$\text{Abundance} = \frac{\text{Total Individuals}}{\text{Total Number of Trapp
 
 - **Historical Mean Type**: The type of mean when calculating the 5-year average abundance to which the current year's abundance is compared. The default is a arithmetic mean, which is appropriate for most situations, but you can also choose the geometric mean. The formulas used for means are as follows.
 
-For $$x_i$$ where $$i = 1\dots n$$ is defined as
+For $$x_i$$ where $$i = 1\dots n$$:
 
 $$\text{Arithmetic mean: } \ \   \bar A =\frac{(x_i + x_{i+1}\dots + x_n)}{n}$$
 
