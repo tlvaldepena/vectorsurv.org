@@ -1495,8 +1495,8 @@ section.content .gatsby-highlight + h4::before{
 .box > h2 {
   text-align: center;
   color:#0073e6;
-  padding-bottom:1.25rem;
-  font-size: 2rem;
+  padding-bottom:.5rem;
+  font-size: 1.75rem;
 }
 
 .box > p {
@@ -1505,12 +1505,13 @@ section.content .gatsby-highlight + h4::before{
 
 .box > li {
   margin-bottom: .1rem;
+  font-size: 1rem;
 }
 
 .box > li > a.linkclass {
   margin: auto;
   color: #003366;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }

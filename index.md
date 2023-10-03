@@ -55,7 +55,7 @@
 
 <div class="grid-container-full">
     <div class= "boxfull2">
-        <h3><u><a class="linkclass" href="http://eepurl.com/ipl0UM" target="_blank">Join our newsletter</a></u> to stay up to date with announcements, new features, tips, and more. 
+        <h3><u><a class="linkclass" href="https://vectorsurv.org/newsletter" target="_blank">Join our newsletter</a></u> to stay up to date with announcements, new features, tips, and more. 
         </h3>
     </div>
 </div>
@@ -92,20 +92,17 @@
 
 <div class="grid-container">
     <div class= "box">
-        <h2> Our partners: </h2>
+        <h2> We have users in: </h2>
         <article>
             <details>
-                <summary>U.S. Centers for Disease Control and Prevention</summary>
+                <summary>Arizona</summary>
                 <p>
-                    <li>
-                        <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">CDC, Division of Vector-Borne Diseases</a>
-                    </li>
-                    <li>
-                        <a href="https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html" target="_blank">ArboNet Disease Maps</a>
-                    </li>
+                <li>
+                    <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
+                </li>
                 </p>
             </details>
-            <details>
+                        <details>
                 <summary>California</summary>
                 <p>
                     <li>
@@ -126,10 +123,13 @@
                 </p>
             </details>
             <details>
-                <summary>Arizona</summary>
+                <summary>Colorado</summary>
                 <p>
                 <li>
-                    <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
+                    <a href="https://cdphe.colorado.gov/animal-related-diseases" target="_blank">Colorado Department of Public Health & Environment: Animal-related Diseases</a>
+                </li>
+                <li>
+                    <a href="https://coepht.colorado.gov/vector-borne-disease" target="_blank">Colorado Environmental Public Health Tracking: Vector-borne Disease</a>
                 </li>
                 </p>
             </details>
@@ -145,7 +145,7 @@
                 <summary>Idaho</summary>
                 <p>
                 <li>
-                    <a href="http://gcmad.org" target="_blank">Gem County Mosquito Abatement District</a>
+                    <a href="https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/west-nile-virus" target="_blank">Idaho Department of Health & Welfare: West Nile Virus</a>
                 </li>
                 </p>
             </details>
@@ -164,7 +164,7 @@
                     <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
                 </li>
                 </p>
-            </details>
+            </details>            
             <details>
                 <summary>New Jersey</summary>
                 <p>
@@ -173,6 +173,17 @@
                 </li>
                 <li>
                     <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
+                </li>
+                </p>
+            </details>
+            <details>
+                <summary>New York</summary>
+                <p>
+                 <li>
+                    <a href="https://www.health.ny.gov/diseases/west_nile_virus/" target="_blank">New York State Department of Health: Mosquitoes and Disease</a>
+                </li>
+                <li>
+                    <a href="https://www.health.ny.gov/diseases/communicable/lyme/" target="_blank">New York State Department of Health: Lyme Disease and Other Diseases Carried by Ticks </a>
                 </li>
                 </p>
             </details>
@@ -193,10 +204,26 @@
                 </p>
             </details>
             <details>
+                <summary>Ohio</summary>
+                <p>
+                <li>
+                    <a href="https://odh.ohio.gov/know-our-programs/zoonotic-disease-program" target="_blank">Ohio Department of Health Zoonotic Disease Program</a>
+                </li>
+                </p>
+            </details>
+            <details>
                 <summary>Oklahoma</summary>
                 <p>
                 <li>
                     <a href="https://oklahoma.gov/health/health-education/acute-disease-service/disease-information/tickborne-and-mosquitoborne-diseases.html" target="_blank">Oklahoma State Department of Health</a>
+                </li>
+                </p>
+            </details>
+            <details>
+                <summary>Oregon</summary>
+                <p>
+                <li>
+                    <a href="https://www.oregon.gov/oha/ph/pages/index.aspx" target="_blank">Oregon Health Authority Public Health Division</a>
                 </li>
                 </p>
             </details>
@@ -262,13 +289,25 @@
                 <summary>Wyoming</summary>
                 <p>
                 <li>
-                    <a href="https://tcweed.org" target="_blank">Teton County Weed and Pest District</a>
+                    <a href="https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/" target="_blank">Wyoming Department of Health Infectious Disease Epidemiology Unit</a>
                 </li>
                 </p>
             </details>
         </article>
     </div>
-    <div class= "box">
+    <div class= "box">    
+        <h2> 
+            How we work: 
+        </h2>
+         <p> 
+            VectorSurv works closely with state and local agencies and the <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">U.S. Centers for Disease Control and Prevention, Division of Vector-Borne Diseases</a> to facilitate real time analytics and sharing that informs decision makers at all levels from local to federal, including easy reporting to <a href="https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html" target="_blank">ArboNet</a>. 
+        </p>
+        <!-- <p> All data in VectorSurv belongs to the agency. ...
+        </p> -->
+        <p>
+            VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
+        </p>
+        <br>
         <h2> 
             Our funders: 
         </h2>
@@ -287,10 +326,5 @@
         <li>
             <a class="linkclass" href="https://www.noaa.gov/" target="_blank">National Oceanic and Atmospheric Administration</a>
         </li>
-        <br>
-        <p>
-            VectorSurv is made possible by the collaboration and input of our partner agencies and by grants received from the funding partners over the years since we first launched the system in 2006.
-        </p>
-        <br><br>
     </div>
 </div>
