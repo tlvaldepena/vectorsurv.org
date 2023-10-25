@@ -6,14 +6,16 @@ permalink: /resources/
     <div class="grid-container3">
         <div class="box3">
             <h1>  
-                Resources 
+                Workshop Resources 
             </h1>
-            <section class=content>
+        <div class=content>
                 <h4>
                     Here you'll find resources for workshops.
                 </h4>
-            <section class="grid-container4">
-                <section class="box4">
+        </div>
+        <div class="grid-container">
+            <div class="box">
+
                     <h2> 
                         Creating Reports in R Workshop: 
                     </h2>
@@ -28,3 +30,9 @@ permalink: /resources/
                         <br>
                         <b><a href="https://github.com/UCD-DART/R-workshop/blob/main/VS_docs.pdf" target="_blank">PDF documentation (also in Zip folder and GitHub repository) </a></b>
                     </p>
+            </div>
+            <div class="box">
+                    <img src="/assets/images/sample_report.png" alt="Sample report">
+            </div>
+        </div>
+
