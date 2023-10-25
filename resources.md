@@ -8,19 +8,15 @@ permalink: /resources/
             <h1>  
                 Workshop Resources 
             </h1>
-        <div class=content>
-                <h4>
-                    Here you'll find resources for workshops.
-                </h4>
         </div>
         <div class="grid-container">
             <div class="box">
-
                     <h2> 
                         Creating Reports in R Workshop: 
                     </h2>
                     <p>
-                        VectorSurv users will earn how to access their agency's data in R using the VectorSurv API and create a report using RMarkdown. Prior experience with R or an understanding of the API is not required to benefit from the workshop. We will walk you through how to load your data and create a report using the pre-coded short sample report. The workshop will be recorded and posted on the <a href="https://youtube.com/#vectorsurv"> VectorSurv YouTube</a>. If you are visiting this page after the workshop, the PDF documentation on GitHub will walk you through how to use the code to access your data and create a customizable report. 
+                        VectorSurv users will learn how to access their agency's data in R using the VectorSurv API and create a report using RMarkdown. Prior experience with R or an understanding of the API is not required to benefit from the workshop. We will walk you through how to load your data and create a report using the pre-coded short sample report. The workshop will be recorded and posted on the <a href="https://youtube.com/#vectorsurv"> VectorSurv YouTube</a>. If you are visiting this page after the workshop, the PDF documentation on GitHub will walk you through how to use the code to access your data and create a customizable report. 
+
                         <br><br>
                         All code and documentation can be found on GitHub:
                         <br>
@@ -35,4 +31,3 @@ permalink: /resources/
                     <img src="/assets/images/sample_report.png" alt="Sample report">
             </div>
         </div>
-
