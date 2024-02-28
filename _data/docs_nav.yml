@@ -90,5 +90,7 @@
   link: /docs/bulletin_board/
 - title: Maps
   link: /docs/maps/
+  docs:
+    - link: /docs/maps/dengue/
 - title: API
   link: https://docs.api.vectorsurv.org/
