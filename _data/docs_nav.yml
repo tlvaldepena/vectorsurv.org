@@ -8,6 +8,11 @@
     - link: /docs/site/
     - link: /docs/site/site_manage/
     - link: /docs/site/site-group/
+    - link: /docs/site/v5/site-menu/
+      docs:
+        - link: /docs/site/v5/site/
+        - link: /docs/site/v5/site-manage/
+        - link: /docs/site/v5/walkthroughs/
 - title: Arthropod
   link: /docs/arthropod/arthro_menu/
   docs:
@@ -24,6 +29,23 @@
         - link: /docs/arthropod/pool/
         - link: /docs/arthropod/pool_manage/
         - link: /docs/arthropod/testing/
+    - link: /docs/arthropod/v5/v5-menu/
+      docs:
+        - link: /docs/arthropod/v5/collection/
+        - link: /docs/arthropod/v5/collection-manage/
+        - link: /docs/arthropod/v5/pool/
+        - link: /docs/arthropod/v5/pool-manage/
+- title: Tick
+  link: /docs/tick/tick-menu/
+  docs:
+    - link: /docs/tick/abundance/
+      docs:
+        - link: /docs/tick/collection/
+        - link: /docs/tick/collection-manage/
+    - link: /docs/tick/pools-menu/
+      docs:
+        - link: /docs/tick/pool/
+        - link: /docs/tick/pool-manage/
 - title: Sentinel
   link: /docs/sentinel/sentinel-menu/
   docs:

@@ -3,7 +3,7 @@ title: Pools
 gateway-url: https://gateway.vectorsurv.org/core/ppf/menu/path/48
 ---
 
-Pools menu
+## Pools menu
 
 ### [New Pools]({{ site.baseurl }}/docs/arthropod/pool)
 
