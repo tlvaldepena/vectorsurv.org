@@ -9,6 +9,9 @@ collections:
   posts:
     permalink: "/news/:year/:month/:day/:title/"
     output: true
+  policy:
+    permalink: "/:collection/:path/"
+    output: true
 
 defaults:
   - scope:

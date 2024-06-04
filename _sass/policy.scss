@@ -1,0 +1,27 @@
+article.policy section.content ol,
+article.policy section.content ul {
+  margin-top: 0;
+  margin-bottom: 1rem;;
+}
+
+article.policy section.content ol li,
+article.policy section.content ul li {
+  margin-top: 0;
+}
+
+article.policy section.content p {
+  margin:0;
+  margin-bottom: 1rem;
+}
+
+article.policy section.content p:has(+ul) {
+  margin-bottom: 0;
+}
+
+article.policy section.content h2 {
+  color: #003366;
+}
+
+article.policy section.content h3 {
+  color: #003366;
+}
