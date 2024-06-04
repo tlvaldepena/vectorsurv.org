@@ -3,7 +3,7 @@ layout: policy
 title: VectorSurv Privacy Policy
 ---
 
-_This policy is effective as of June 1, 2024_
+_This policy is effective as of August 1, 2024_
 
 ## 1. About this Policy
 At VectorSurv, we understand the value of privacy and are committed to protecting your personal data. This privacy policy describes how VectorSurv collects and uses your personal data. 
@@ -60,7 +60,7 @@ We use your information to communicate with you via email or other means about c
 
 
 ### Google Analytics
-We use Google Analytics to recognize you and link the devices you use when you visit our Services on your browser or mobile device, log in to your account on our Services, or otherwise engage with us.  We share a unique identifier with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Services and to tailor our content to you.  For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website, “How Google uses data when you use our partners’ sites or apps” located at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
+We use Google Analytics to recognize you and link the devices you use when you visit our Services on your browser or mobile device, log in to your account on our Services, or otherwise engage with us.  We share a unique identifier with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Services and to tailor our content to you.  For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website, “How Google uses data when you use our partners’ sites or apps” located at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/){:target="_blank"}. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/){:target="_blank"}.
 
 
 ## 5.	Sharing of Personal Data
@@ -94,8 +94,8 @@ VectorSurv may include links to third-party websites, plug-ins and applications.
 We may update this Privacy Policy at any time. When we make changes to this Privacy Policy, we will change the effective date in the heading of this Policy. If we make material changes to the Privacy Policy, we will provide notification via email and/or notification to users within VectorSurv applications, or by prominent posting on VectorSurv applications, or through other communication channels. All changes shall be effective from the date of publication unless otherwise indicated.
 
 ## 12.	University of California, Davis Privacy Notice
-Please also see the UC Davis [Web Page Privacy](https://privacy.ucdavis.edu/web-page-privacy) notice for more information about the commitment of UC Davis to protecting personal privacy and the personal data collected via its departmental and official web pages.
+Please also see the UC Davis [Web Page Privacy](https://privacy.ucdavis.edu/web-page-privacy){:target="_blank"} notice for more information about the commitment of UC Davis to protecting personal privacy and the personal data collected via its departmental and official web pages.
 
 ## 13.	How to Contact Us
-If you have any questions about this Privacy Policy, please send an email to [help@vectorsurv.org](mailto:help@vectorsurv.org). We are happy to answer any questions.
+If you have any questions about this Privacy Policy, please send an email to [help@vectorsurv.org](mailto:help@vectorsurv.org){:target="_blank"}. We are happy to answer any questions.
 

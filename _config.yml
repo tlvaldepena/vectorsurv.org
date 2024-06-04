@@ -10,7 +10,7 @@ collections:
     permalink: "/news/:year/:month/:day/:title/"
     output: true
   policy:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:name/"
     output: true
 
 defaults:
