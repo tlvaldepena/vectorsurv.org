@@ -3,7 +3,7 @@ layout: policy
 title: VectorSurv Terms of Use
 ---
 
-_This policy is effective as of June 1, 2024_
+_This policy is effective as of August 1, 2024_
 
 Welcome to VectorSurv. VectorSurv websites are comprised of various web pages owned by The Regents of the University of California and operated by the VectorSurv team in the Department of Pathology, Microbiology & Immunology in the School of Veterinary Medicine at  the University of California, Davis (referred to as “VectorSurv,” "we,” “us,” or “our”). Your use of VectorSurv web pages constitutes agreement to all terms, conditions, and notices in these Terms of Use (“Terms”). Please read these Terms carefully before using any of our web sites. We reserve the right, at our discretion, to change these Terms at any time. 
 
