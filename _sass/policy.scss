@@ -1,7 +1,7 @@
 article.policy section.content ol,
 article.policy section.content ul {
   margin-top: 0;
-  margin-bottom: 1rem;;
+  margin-bottom: 1rem;
 }
 
 article.policy section.content ol li,
@@ -10,11 +10,11 @@ article.policy section.content ul li {
 }
 
 article.policy section.content p {
-  margin:0;
+  margin: 0;
   margin-bottom: 1rem;
 }
 
-article.policy section.content p:has(+ul) {
+article.policy section.content p:has(+ ul) {
   margin-bottom: 0;
 }
 
