@@ -58,7 +58,7 @@ User information is collected as a part of the account creation process, and the
 
 ## 4. Purpose for the Collection of Personal Data
 
-### To provide VectorSurv services.
+### To provide VectorSurv services
 
 We use your information in the operation of VectorSurv applications to:
 
