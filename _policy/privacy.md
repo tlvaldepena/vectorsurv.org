@@ -66,7 +66,7 @@ We use your information in the operation of VectorSurv applications to:
 - communicate and interact with you via VectorSurv applications
 - operate and manage VectorSurv applications
 
-### For VectorSurv-related communications.
+### For VectorSurv-related communications
 
 We use your information to communicate with you via email or other means about changes to VectorSurv applications, questions about VectorSurv data, or opportunities for collaboration, training, or other events related to VectorSurv.
 
