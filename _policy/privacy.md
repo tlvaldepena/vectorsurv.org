@@ -46,9 +46,9 @@ Agency Information includes your agency’s:
 ### Usage Information
 
 Usage Information includes the following personal data automatically collected to understand user behavior and improve our services:
-**Log data**, including internet protocol (IP) address, operating system, device type and version, browser type and version, browser ID, the URL entered and the referring page/campaign, date/time of visit, other user agent string data, the time spent on our Services and web pages, and any errors that may occur during the visit to our Services). Log data may overlap with the other categories of data below.
+**Log data**, including internet protocol (IP) address, operating system, device type and version, browser type and version, browser ID, the URL entered and the referring page/campaign, date/time of visit, other user agent string data, the time spent on our Services and web pages, and any errors that may occur during the visit to our Services. Log data may overlap with the other categories of data below.
 
-**Analytics data**, ncluding the electronic path you take to our services, through our services and when exiting our services, UTM source, as well as your usage and activity on our services, such as the time zone, activity information (first and last active date and time), usage history, as well as the web pages, links, objects, or services with which you interact by viewing, clicking, or other means.
+**Analytics data**, including the electronic path you take to our services, through our services and when exiting our services, UTM source, as well as your usage and activity on our services, such as the time zone, activity information (first and last active date and time), usage history, as well as the web pages, links, objects, or services with which you interact by viewing, clicking, or other means.
 
 **Location data**, including general geographic location information we derive from your IP address.
 
@@ -64,7 +64,7 @@ We use your information in the operation of VectorSurv applications to:
 
 - provide content to you and customize content for the needs of you and your agency
 - communicate and interact with you via VectorSurv applications
-- operate and manage VectorSurv applications.
+- operate and manage VectorSurv applications
 
 ### For VectorSurv-related communications.
 
@@ -72,7 +72,7 @@ We use your information to communicate with you via email or other means about c
 
 ### Google Analytics
 
-We use Google Analytics to recognize you and link the devices you use when you visit our Services on your browser or mobile device, log in to your account on our Services, or otherwise engage with us. We share a unique identifier with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Services and to tailor our content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website, “How Google uses data when you use our partners’ sites or apps” located at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/){:target="\_blank"}. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/){:target="\_blank"}.
+We use Google Analytics to recognize you and link the devices you use when you visit our Services on your browser or mobile device, log in to your account on our Services, or otherwise engage with us. We share a unique identifier with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Services and to tailor our content to you. For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website, “How Google uses data when you use our partners’ sites or apps” located at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/){:target="\_blank"}. You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Add-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/){:target="\_blank"}.
 
 ## 5. Sharing of Personal Data
 
