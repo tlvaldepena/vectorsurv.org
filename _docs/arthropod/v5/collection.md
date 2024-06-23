@@ -2,6 +2,7 @@
 title: New Collection
 v5: true
 gateway-url: https://gateway.vectorsurv.org/v5/mosquito/collection/collection
+youtube-url: https://youtu.be/qeGHkn215jQ
 ---
 
 Collections are the records of arthropod population data through the
@@ -137,7 +138,7 @@ collection date needs to be selected before you can choose a trap site.
 Use this section to note anything other users should know about the
 collection, including the reason(s) for trap failure, for example.
 
-## **Species Count**
+## **Species Count** {#species-count}
 
 Use this section to enter arthropods found in the trap. Once a species
 has been added to the collection, it will appear in the table below.
@@ -148,20 +149,39 @@ collection. Historical data where a tick species was entered under an
 arthropod collection may be viewed here but not edited. A link to the
 legacy form is provided in case you need to edit the data.
 
-**Fields**
+### **Input Methods**:
 
-- **Species**: The species that make up this abundance. Start typing
-  to filter the list. The list of species in the dropdown can be
-  adjusted through the Available Species settings on the [arthropod
-  configuration
-  page]({{ site.baseurl }}/docs/arthropod/trap-types/).
+If your screen size is larger than 768px, there are two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and a mobile-friendly form where you can input one abundance at a time. If you adjust your screen size you will need to refresh the page to see the tabular input. Switching between forms will discard any edits you made to the current form.
+If your screen size is smaller than 768px, you will only see the mobile-friendly form.
 
-- **Sex/Condition**: The sex/condition/life stage of the abundance.
-  Start typing to filter the list.
+- **Tabular Input**
+  ![Tabular Input](/assets/images/docs/new_collection_tabular.png)
 
-- **Count:** Number of specimens in the abundance. Minimum of 1.
+  - To enter an abundance first select the species that make up this abundance. Start typing to filter the list. Each row must have a unique species not already entered for this collection. The list of species in the dropdown can be adjusted through the Available Species settings on the [arthropod configuration page]({{ site.baseurl }}/docs/arthropod/trap-types/).
+  - When you select a species a new unpopulated row will automatically appear. This is for convenience so the user does not have to manually create each new row. This will not create a new empty abundance.
+  - After a species is selected, you can input counts for each sex/stage/condition column. ‘Σ F’ represents the total number of females for the row’s species across F-Mixed, F-Unfed, F-Bloodfed and F-Gravid. Each row must have at least one count.
+    - You can enter either F-Mixed OR any combination of F-Unfed, F-Bloodfed and F-Gravid. For example, if you input a count for F-Bloodfed, the F-Mixed input will become disabled. If you input a count for F-Mixed, F-Unfed, F-Bloodfed and F-Gravid will all be disabled.
+  - The bottom row represents totals for each sex/stage/condition across species.
+  - **Action Buttons:**
+    ![Red trash can icon](/assets/images/docs/action-button-delete.png) Delete the selected row.
 
-**Abundance Table:**
+- **Form Input**
+  ![Species Form Input](/assets/images/docs/new_collection_species_form.png)
+
+- **Fields**
+
+  - **Species**: The species that make up this abundance. Start typing
+    to filter the list. The list of species in the dropdown can be
+    adjusted through the Available Species settings on the [arthropod
+    configuration
+    page]({{ site.baseurl }}/docs/arthropod/trap-types/).
+
+  - **Sex/Condition**: The sex/condition/life stage of the abundance.
+    Start typing to filter the list.
+
+  - **Count:** Number of specimens in the abundance. Minimum of 1.
+
+### **Abundance Table:**
 
 - **Action buttons**:
 
