@@ -153,7 +153,8 @@ legacy form is provided in case you need to edit the data.
 
 You will see a single mobile-friendly form if your screen size is smaller than 768px. If your screen size is larger than 768px, there you will see two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and the mobile-friendly form where you can input one abundance at a time. Switching between forms will discard any edits you made to the current form. Changing screen size will affect which input methods are available unless there are live edits that have not been saved. Once you have cleared or saved your edits, the input methods will respond to the new screen size. The input style will remember the last selection you made (eg: If you selected Form Input, it will always load on Form Input until you select Tabular Input, then it will always load the Tabular Input first.)
 
-- **Tabular Input**
+- #### Tabular Input
+
   ![Tabular Input](/assets/images/docs/new_collection_tabular.png)
 
   - Note: Edits made in the tabular input (including clicking the X to remove a row) are not saved until you click the Save Changes button.
@@ -165,7 +166,8 @@ You will see a single mobile-friendly form if your screen size is smaller than 7
   - **Action Buttons:**
     ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
 
-- **Form Input**
+- #### Form Input
+
   ![Species Form Input](/assets/images/docs/new_collection_species_form.png)
 
 - **Fields**
