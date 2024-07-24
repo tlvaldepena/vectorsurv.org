@@ -18,7 +18,7 @@ Saved spatial features are useful for filtering within an agency for output/expo
 You can also directly import features saved from another mapping software using the boxes to the right. A public layer indicates that these boundaries can be shown on [public-facing maps](https://maps.vectorsurv.org).
 ![Spatial features boxes]({{ site.baseur1 }}/assets/images/docs/spatial-features-boxes.PNG)
 
-Additional resource: [YouTube tutorial for Spatial Features](https://youtu.be/N6tjO9ptrD4).
+Additional resource: [YouTube tutorial for Spatial Features](https://youtu.be/fRVElYGjY9w?).
 
 ## VectorSurv Maps
 

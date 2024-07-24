@@ -8,7 +8,7 @@ youtube-url: https://youtu.be/9G_-T5stgHk
 Collections are the records of tick population data through manual
 collection methods or the placement of traps.
 
-## **Date**
+## Date
 
 Date format is based on the settings under [Account
 Preferences]({{ site.baseurl }}/docs/settings/account-preferences).
@@ -49,7 +49,7 @@ Preferences]({{ site.baseurl }}/docs/settings/account-preferences).
 - **Timezone:** Displays the current timezone. Click on it to open a
   modal where you can select a custom timezone.
 
-## **Site**
+## Site
 
 The [site]({{ site.baseurl }}/docs/site/) where a trap was placed. A
 collection date needs to be selected before you can choose a trap site.
@@ -99,7 +99,7 @@ collection date needs to be selected before you can choose a trap site.
   human case privacy concerns, the user may choose the most accurate
   option from the list.
 
-## **Method Details**
+## Method Details
 
 **Fields**
 
@@ -150,14 +150,14 @@ collection date needs to be selected before you can choose a trap site.
 - **Vegetation:** Use the dropdown to indicate currounding conditions.
   More than one condition can be selected.
 
-## **Comment**
+## Comment
 
 Use this section to note anything other users should know about the
 collection, including the reason(s) for trap failure, for example.
 
 ---
 
-## **Species Count**
+## Species Count
 
 Use this section to enter ticks in the collection. Once a species has
 been added to the collection, it will appear in the table below.
@@ -202,7 +202,7 @@ been added to the collection, it will appear in the table below.
 
 ---
 
-## **Pool**
+## Pool
 
 Optionally, a pool for arbovirus testing can be entered or linked
 through the collection page. This links the pool to the collection that

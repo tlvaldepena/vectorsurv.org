@@ -8,7 +8,7 @@ youtube-url: https://youtu.be/qeGHkn215jQ
 Collections are the records of arthropod population data through the
 placement of traps.
 
-## **Date**
+## Date
 
 **Fields**
 
@@ -60,7 +60,7 @@ Toggle button on:
   is 1 night. If a trap was placed and collected on the same day,
   enter 1.
 
-## **Site**
+## Site
 
 The [site]({{ site.baseurl }}/docs/site/) where a trap was placed. A
 collection date needs to be selected before you can choose a trap site.
@@ -110,7 +110,7 @@ collection date needs to be selected before you can choose a trap site.
   human case privacy concerns, the user may choose the most accurate
   option from the list.
 
-## **Trap Details**
+## Trap Details
 
 **Fields**
 
@@ -133,12 +133,12 @@ collection date needs to be selected before you can choose a trap site.
   failures, i.e. fan broke, dead battery, etc. Leave unchecked if the
   trap did not experience a problem during the trapping period.
 
-## **Comment**
+## Comment
 
 Use this section to note anything other users should know about the
 collection, including the reason(s) for trap failure, for example.
 
-## **Species Count** {#species-count}
+## Species Count {#species-count}
 
 Use this section to enter arthropods found in the trap. Once a species
 has been added to the collection, it will appear in the table below.
@@ -149,9 +149,9 @@ collection. Historical data where a tick species was entered under an
 arthropod collection may be viewed here but not edited. A link to the
 legacy form is provided in case you need to edit the data.
 
-### **Input Methods**:
+### Input Methods:
 
-You will see a single mobile-friendly form if your screen size is smaller than 768px. If your screen size is larger than 768px, there you will see two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and the mobile-friendly form where you can input one abundance at a time. Switching between forms will discard any edits you made to the current form. Changing screen size will affect which input methods are available unless there are live edits that have not been saved. Once you have cleared or saved your edits, the input methods will respond to the new screen size.
+You will see a single mobile-friendly form if your screen size is smaller than 768px. If your screen size is larger than 768px, there you will see two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and the mobile-friendly form where you can input one abundance at a time. Switching between forms will discard any edits you made to the current form. Changing screen size will affect which input methods are available unless there are live edits that have not been saved. Once you have cleared or saved your edits, the input methods will respond to the new screen size. The input style will remember the last selection you made (eg: If you selected Form Input, it will always load on Form Input until you select Tabular Input, then it will always load the Tabular Input first.)
 
 - **Tabular Input**
   ![Tabular Input](/assets/images/docs/new_collection_tabular.png)
@@ -181,7 +181,7 @@ You will see a single mobile-friendly form if your screen size is smaller than 7
 
   - **Count:** Number of specimens in the abundance. Minimum of 1.
 
-### **Abundance Table:**
+### Abundance Table:
 
 - **Action buttons**:
 
@@ -204,7 +204,7 @@ You will see a single mobile-friendly form if your screen size is smaller than 7
   - Total: Total number of specimen of any sex across all abundances in
     the table.
 
-## **Pool**
+## Pool
 
 Optionally, a pool for arbovirus testing can be entered or linked
 through the collection page. This links the pool to the collection that

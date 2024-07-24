@@ -5,7 +5,7 @@ gateway-url: https://gateway.vectorsurv.org/v5/site/site
 additional-resources:
   - url: https://youtu.be/inN0GJoHGyw
     name: Video Tutorial
-  - url: https://www.vectorsurv.org/docs/site/v5/walkthroughs/
+  - url: https://vectorsurv.org/docs/site/v5/walkthroughs/
     name: Walkthrough Guides
 ---
 
@@ -13,7 +13,7 @@ Sites represent trap locations. They will help you quickly record
 collection events and pools without having to locate them on a map or
 type in coordinates each time.
 
-## **The Form**
+## The Form
 
 - **Active Date:** The date that this site/revision was first put into
   service. Leaving this field blank will effectively make the site
@@ -129,7 +129,7 @@ type in coordinates each time.
 
 ---
 
-## **The Revision Card**
+## The Revision Card
 
 When viewing a site that has other revisions, or when creating a new
 revision for a particular site code, the site information card will
