@@ -77,7 +77,7 @@
         <figure>
           <img src="/assets/images/enterprise.png" alt="icon of agency">
         </figure>
-        <h2> 239+ </h2>
+        <h2> 258+ </h2>
         <h3> agencies </h3>
     </div>
     <div class= "box3">
@@ -309,7 +309,7 @@
                 </p>
             </details>
             <details>
-                <summary>Virgina</summary>
+                <summary>Virginia</summary>
                 <p>
                 <li>
                     <a href="https://www.vdh.virginia.gov/environmental-epidemiology/bugs-human-health/" target="_blank">Virginia Department of Health</a>
