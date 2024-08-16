@@ -70,14 +70,14 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 27 </h2>
+        <h2> 24 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
         <figure>
           <img src="/assets/images/enterprise.png" alt="icon of agency">
         </figure>
-        <h2> 258+ </h2>
+        <h2> 239+ </h2>
         <h3> agencies </h3>
     </div>
     <div class= "box3">
@@ -140,22 +140,22 @@
                 </li>
                 </p>
             </details>
-            <details>
+            <!-- <details>
                 <summary>Idaho</summary>
                 <p>
                 <li>
                     <a href="https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/west-nile-virus" target="_blank">Idaho Department of Health & Welfare: West Nile Virus</a>
                 </li>
                 </p>
-            </details>
-            <details>
+            </details> -->
+            <!-- <details>
                 <summary>Kentucky</summary>
                 <p>
                 <li>
                     <a href="https://www.chfs.ky.gov/agencies/dph/dehp/idb/Pages/tick-borne.aspx" target=blank>Kentucky Cabinet for Health and Family Services: Tickborne Diseases</a>
                 </li>
                 </p>
-            </details>
+            </details> -->
             <details>
                 <summary>Louisiana</summary>
                 <p>
@@ -172,14 +172,14 @@
                 </li>
                 </p>
             </details>           
-             <details>
+             <!-- <details>
                 <summary>Nevada</summary>
                 <p>
                 <li>
                     <a href="https://www.nnph.org/programs-and-services/environmental-health/vector-borne-diseases/index.php" target="_blank">Nevada Department of Health and Human Services</a>
                 </li>
                 </p>
-            </details>
+            </details> -->
             <details>
                 <summary>New Hampshire</summary>
                 <p>
