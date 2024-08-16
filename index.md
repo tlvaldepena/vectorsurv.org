@@ -70,7 +70,7 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 24 </h2>
+        <h2> 25 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
@@ -140,14 +140,14 @@
                 </li>
                 </p>
             </details>
-            <!-- <details>
+            <details>
                 <summary>Idaho</summary>
                 <p>
                 <li>
                     <a href="https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/west-nile-virus" target="_blank">Idaho Department of Health & Welfare: West Nile Virus</a>
                 </li>
                 </p>
-            </details> -->
+            </details>
             <!-- <details>
                 <summary>Kentucky</summary>
                 <p>
