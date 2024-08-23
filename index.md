@@ -70,7 +70,7 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 27 </h2>
+        <h2> 25 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
@@ -148,14 +148,14 @@
                 </li>
                 </p>
             </details>
-            <details>
+            <!-- <details>
                 <summary>Kentucky</summary>
                 <p>
                 <li>
                     <a href="https://www.chfs.ky.gov/agencies/dph/dehp/idb/Pages/tick-borne.aspx" target=blank>Kentucky Cabinet for Health and Family Services: Tickborne Diseases</a>
                 </li>
                 </p>
-            </details>
+            </details> -->
             <details>
                 <summary>Louisiana</summary>
                 <p>
@@ -172,14 +172,14 @@
                 </li>
                 </p>
             </details>           
-             <details>
+             <!-- <details>
                 <summary>Nevada</summary>
                 <p>
                 <li>
                     <a href="https://www.nnph.org/programs-and-services/environmental-health/vector-borne-diseases/index.php" target="_blank">Nevada Department of Health and Human Services</a>
                 </li>
                 </p>
-            </details>
+            </details> -->
             <details>
                 <summary>New Hampshire</summary>
                 <p>
@@ -309,7 +309,7 @@
                 </p>
             </details>
             <details>
-                <summary>Virgina</summary>
+                <summary>Virginia</summary>
                 <p>
                 <li>
                     <a href="https://www.vdh.virginia.gov/environmental-epidemiology/bugs-human-health/" target="_blank">Virginia Department of Health</a>
