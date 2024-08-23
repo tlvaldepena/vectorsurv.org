@@ -28,6 +28,7 @@ $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individu
 
  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
 
+**Note:** The MLE and Bias-Corrected MLE calculations are not designed for cases where all tests are positive. If all included pools for in a given time period are positive, the resulting dataset will not include a value for infection rate or vector index for that time period. It is recommended to use MIR to estimate the infection rate and vector index for that time period.
 
 ## Results
 
