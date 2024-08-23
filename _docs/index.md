@@ -9,40 +9,40 @@ permalink: /docs/
     <div class= "box4">
         <h2>Table of Contents </h2>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/starting/">Getting Started</a>
+            <a class="linkclass" href="{{ site.baseurl }}/starting/">Getting Started</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/sandbox/">The Sandbox</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/sandbox/">The Sandbox</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/site/site-menu/">Sites</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/site/site-menu/">Sites</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/arthropod/arthro_menu/">Arthropod</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/arthropod/arthro_menu/">Arthropod</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/tick/tick-menu/">Tick</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/tick/tick-menu/">Tick</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/sentinel/sentinel-menu/">Sentinel</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/sentinel/sentinel-menu/">Sentinel</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/application/application-menu/">Application</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/application/application-menu/">Application</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/resistance/resistance-menu/">Resistance</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/resistance/resistance-menu/">Resistance</a>
         </li>
          <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/tools/tools-menu/">Tools</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/tools/tools-menu/">Tools</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/issues/">Issues</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/issues/">Issues</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/settings/settings-menu/">Settings</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/settings/settings-menu/">Settings</a>
         </li>
         <li>
-            <a class="linkclass" href="https://vectorsurv.org/docs/bulletin_board/">Bulletin Board</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/bulletin_board/">Bulletin Board</a>
         </li>
         <li>
             <a class="linkclass" href="{{ site.baseurl }}/docs/maps/maps-menu/">Maps</a>
