@@ -20,7 +20,7 @@ $$VI = \text{Abundance * Infection Rate}$$
 - **Trap Night Restrictions**: You can further restrict the collections used to calculate the vector index by the number of trap nights a trap was set for.
 - **Point Estimate**: The infection rate estimation method. The bias-corrected MLE will be appropriate for most situations, but you can also choose to use the MLE or MIR methods.
 
-True infection rate is calculated as (# Infected arthropods/total arthropods in pool)*1000. In most cases, arthropods are not tested for diseases individually and the actual number of disease positive arthropods in a positive pool remains unknown. Fortunately, infection rates can be estimated using the following methods.
+True infection rate could be calculated as (# infected arthropods/total arthropods). However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
 
  - **MIR**: Minimum Infection Rate makes the assumptions that there is only one positive mosquito in an infected pool of at least 1000 arthropods. MIR is not always a reliable estimate of IR as it is possible for multiple positive arthropods to be present in a positive pool and pools often contain fewer than 1000 arthropods. MIR is calculated as
 $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individuals}}  * 1000$$
@@ -28,7 +28,7 @@ $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individu
 
  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
 
-**Note:** The MLE and Bias-Corrected MLE calculations are not designed for cases where all tests are positive. If all included pools for in a given time period are positive, the resulting dataset will not include a value for infection rate or vector index for that time period. It is recommended to use MIR to estimate the infection rate and vector index for that time period.
+**Note:** The MLE and Bias-Corrected MLE calculations are not designed for situations where all tests are positive. If these methods are chosen and all included pools for in a given time period are positive, VectorSurv's calculator will not return an estimate for infection rate or vector index for that time period. It is recommended to use MIR to estimate the infection rate and vector index for that time period.
 
 ## Results
 
