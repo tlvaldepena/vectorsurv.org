@@ -20,10 +20,11 @@ $$VI = \text{Abundance * Infection Rate}$$
 - **Trap Night Restrictions**: You can further restrict the collections used to calculate the vector index by the number of trap nights a trap was set for.
 - **Point Estimate**: The infection rate estimation method. The bias-corrected MLE will be appropriate for most situations, but you can also choose to use the MLE or MIR methods.
 
-True infection rate could be calculated as (# infected arthropods/total arthropods). However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
+If all arthropods were to be tested individually for a given pathogen, the true infection rate could be calculated simply as $$\text \frac{\text{Number of Infected Arthropods}} {\text{Number of Individuals Tested}}  \times {\text{Scale}}$$. However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
 
  - **MIR**: Minimum Infection Rate makes the assumptions that there is only one positive mosquito in an infected pool of at least 1000 arthropods. MIR is not always a reliable estimate of IR as it is possible for multiple positive arthropods to be present in a positive pool and pools often contain fewer than 1000 arthropods. MIR is calculated as
-$$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individuals}}  * 1000$$
+$$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individuals}}  \times \text{Scale}$$
+
  - **MLE**: Maximum Likelihood Estimate Infection Rate is estimated using a binomial model to approximate the infection rate based on the available data. The spread and center of the data is used to derive confidence intervals. Confidence intervals can be interpreted as the range of possible estimates for infection rate and a 95% confidence interval indicates you can be 95% confident that the true infection rate is within the given interval. The wider the confidence interval, the greater the uncertainty about the point estimate.
 
  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
