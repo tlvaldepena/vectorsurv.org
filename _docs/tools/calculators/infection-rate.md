@@ -34,7 +34,7 @@ $$ {\text{MIR}} = \frac{\text{Number of Positive Pools}}{\text{Total Number of A
 
 - **Confidence Interval**: Select the confidence level for the estimate. This is generally left at 95%.
 
-- **Scale**: The value by which to scale the infection rate and confidence interval. The estimated infection rate per 1,000 (default) arthropods.
+- **Scale**: Choose your preferred scale for the infection rate estimate. The default value is 1,000, which gives infection rates on a per-1,000 basis. If instead, you want to calculate as percent (per 100), you may choose 100 for the scale. As an example, if you were to choose a scale of 1,000, and your calculation returns an estimate of 10.3, this corresponds to 10.3 infected arthropods per 1,000 tested. If you had instead chosen a scale of 100, the same calculation would return an infection rate estimate of 1.03, which corresponds to 1.03 infected arthropods per 100 tested (i.e., 1.03%).
 
 ## Results
 
