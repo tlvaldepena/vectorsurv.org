@@ -43,6 +43,5 @@ The **# of Calculations** indicator shows how many calculations will be performe
 - **Abundance**: Abundance is defined as the total number of specie collections divided by the total number of trapping opportunities for a given time interval
 - **Infection Rate**: Infection rate point estimate calculated from the selected method
 - **Count**: The interval sum of arthropods used in the abundance calculation.
-- **Trap Nights**: The total trapping opportunities for the time interval. This value is the interval sum of the number of traps set for a collection times the number of nights the traps were run for the trap types of interest.  For example, if a week contained two collections with CO2 traps: 5 traps run for 4 nights and 2 traps run for 1 night, the Trap Nights for that week would be:$(5 * 4) + (2 * 1) = 22$ regardless if the species of interest was found at either collections' traps. Essentially, trapping opportunities is dependent on the trap type.
-
+- **Trap Nights**: The total trapping effort for the time interval. This value is the interval sum of the number of traps set for a collection times the number of nights the traps were run for the trap types of interest.  For example, if a week contained two collections with CO2 traps: 5 traps run for 4 nights and 2 traps run for 1 night, the Trap Nights for that week would be: $$ (5 \times 4) + (2 \times 1) = 22 $$ regardless of whether the species of interest was found in these trap collections.
 - **Pools**: The total number of pools used in the calculation for infection rate
