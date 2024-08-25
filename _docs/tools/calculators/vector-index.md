@@ -28,7 +28,7 @@ $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individu
 
  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
 
-**Note:** The MLE and Bias-Corrected MLE calculations are not designed for situations where all tests are positive. If these methods are chosen and all included pools for in a given time period are positive, VectorSurv's calculator will not return an estimate for infection rate or vector index for that time period. It is recommended to use MIR to estimate the infection rate and vector index for that time period.
+**Note:** The MLE and Bias-Corrected MLE calculations are not designed for situations where all tests are positive. If one of these methods is chosen and all pools for a given time period are positive, VectorSurv's calculator will not return an estimate for infection rate or vector index for that time period. We recommend using MIR to estimate the infection rate and vector index for such situations.
 
 ## Results
 
