@@ -5,7 +5,7 @@ gateway-url: https://gateway.vectorsurv.org/arthro/ppf/vector_index_calc
 
 The vector index is the relative abundance of infected mosquitoes and is a way to quickly estimate the risk of arbovirus transmission in an area. Vector index is the product of the abundance and infection rate for a given time interval: 
 
-$$VI = \text{Abundance * Infection Rate}$$
+$$VI = \text{Abundance \times Infection Rate}$$
 
 ## Fields
 
