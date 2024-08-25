@@ -21,7 +21,7 @@ $$VI = \text{Abundance * Infection Rate}$$
 - **Point Estimate**: The infection rate estimation method. The bias-corrected MLE will be appropriate for most situations, but you can also choose to use the MLE or MIR methods.
 
 If all arthropods were to be tested individually for a given pathogen, the true infection rate could be calculated simply as 
-$$\text \frac{\text{Number of Infected Arthropods}} {\text{Number of Individuals Tested}}  \times {\text{Scale}}$$
+$$\frac{\text{Number of Infected Arthropods}} {\text{Number of Individuals Tested}}  \times {\text{Scale}}$$
 . However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
 
  - **MIR**: Minimum Infection Rate makes the assumptions that there is only one positive mosquito in an infected pool of at least 1000 arthropods. MIR is not always a reliable estimate of IR as it is possible for multiple positive arthropods to be present in a positive pool and pools often contain fewer than 1000 arthropods. MIR is calculated as
