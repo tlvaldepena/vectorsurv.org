@@ -24,7 +24,7 @@ If all arthropods were to be tested individually for a given pathogen, the true 
 $$\frac{\text{Number of Infected Arthropods}} {\text{Number of Individuals Tested}}  \times {\text{Scale}}$$
 . However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
 
- - **MIR**: Minimum Infection Rate makes the assumptions that there is only one positive mosquito in an infected pool of at least 1000 arthropods. MIR is not always a reliable estimate of IR as it is possible for multiple positive arthropods to be present in a positive pool and pools often contain fewer than 1000 arthropods. MIR is calculated as
+ - **MIR**: Testing arthropods in pools can yield only a single positive per pool, which does not allow for certainty about the number of infected individuals within the pool. Minimum Infection Rate makes the assumption that there is only one positive arthropod in a positive pool. MIR is not always a reliable estimate of the true infection rate, as it is possible for multiple positive arthropods to be present in a positive pool. This is particularly true when infection rates are high. MIR is calculated as
 $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individuals}}  \times \text{Scale}$$
 
  - **MLE**: Maximum Likelihood Estimate Infection Rate is estimated using a binomial model to approximate the infection rate based on the available data. The spread and center of the data is used to derive confidence intervals. Confidence intervals can be interpreted as the range of possible estimates for infection rate and a 95% confidence interval indicates you can be 95% confident that the true infection rate is within the given interval. The wider the confidence interval, the greater the uncertainty about the point estimate.
@@ -32,6 +32,8 @@ $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individu
  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
 
 **Note:** The MLE and Bias-Corrected MLE calculations are not designed for situations where all tests are positive. If one of these methods is chosen and all pools for a given time period are positive, VectorSurv's calculator will not return an estimate for infection rate or vector index for that time period. We recommend using MIR to estimate the infection rate and vector index for such situations.
+
+- **Scale**: Choose your preferred scale for the infection rate estimate and resulting vector index. The default value is 1,000, which gives infection rates and vector indices calculated on a per-1,000 basis. If instead, you want to calculate as percent (per 100), you may choose 100 for the scale. As an example, if you were to choose a scale of 1,000, and your calculation returns a vector index of 500, this corresponds to 500 infected arthropods per 1,000 trap-nights. If you had instead chosen a scale of 100, the same calculation would return a vector index of 50, which corresponds to 50 infected arthropods per 100 trap-nights.
 
 ## Results
 
