@@ -22,22 +22,23 @@ The pool infection rate calculator estimates the arbovirus infection rate based 
   True infection rate is calculated as
 
   $$
-  \text{True IR} = \frac{{\text{Infected Arthropods}}{\text{Total arthropods in pool}}} \times Scale
+  \text{True IR} = \frac{\text{Infected Arthropods}} {\text{Total arthropods in pool}} \times \text{Scale}
   $$
 
   In most cases, arthropods are not tested for diseases individually and the actual number of disease positive arthropods in a positive pool remains unknown. Fortunately, infection rates can be estimated using the following methods:
   <br>
 
-  - **MIR**: Minimum Infection Rate makes the assumption that there is only one positive arthropod in an infected pool. MIR is not always a reliable estimate of IR, particularly when infection rates are high, as it is possible for multiple positive arthropods to be present in a positive pool.
-    $$\text{MIR} =  \frac{{\text{Number Positive Pools}} {\text{Total Number Individuals}}}  \times \text{Scale} $$
+ - **MIR**: Testing arthropods in pools can yield only a single positive per pool, which does not allow for certainty about the number of infected individuals within the pool. Minimum Infection Rate makes the assumption that there is only one positive arthropod in a positive pool. MIR is not always a reliable estimate of the true infection rate, as it is possible for multiple positive arthropods to be present in a positive pool. This is particularly true when infection rates are high. MIR is calculated as
+$$\text{MIR} =  \frac{{\text{Number Positive Pools}} {\text{Total Number Individuals}}  \times \text{Scale}$$
 
-  - **MLE**: Maximum Likelihood Estimate Infection Rate is estimated using a binomial model to approximate the infection rate based on the available data. The spread and center of the data is used to derive confidence intervals. Confidence intervals can be interpreted as the range of possible estimates for infection rate and a 95% confidence interval indicates you can be 95% confident that the true infection rate is within the given interval. The wider the confidence interval, the greater the uncertainty about the point estimate.
+ - **MLE**: Maximum Likelihood Estimate Infection Rate is estimated using a binomial model to approximate the infection rate based on the available data. The spread and center of the data is used to derive confidence intervals. Confidence intervals can be interpreted as the range of possible estimates for infection rate and a 95% confidence interval indicates you can be 95% confident that the true infection rate is within the given interval. The wider the confidence interval, the greater the uncertainty about the point estimate.
 
-  - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
+ - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
+
     <br>
 
 - **Confidence Interval**: Select the confidence level for the estimate. This is generally left at 95%.
-- **Scale**: The value by which to scale the infection rate and confidence interval. The estimated infection rate per 1000 (default) female mosquitoes.
+- **Scale**: The value by which to scale the infection rate and confidence interval. The estimated infection rate per 1,000 (default) arthropods.
 
 ## Results
 
