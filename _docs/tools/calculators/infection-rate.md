@@ -32,6 +32,8 @@ $$ {\text{MIR}} = \frac{\text{Number of Positive Pools}}{\text{Total Number of A
 
   - **Bias-Corrected MLE**: The standard MLE can have significant bias depending on the quantity and quality of available data. The bias-corrected MLE seeks to reduce this bias and is the recommended point estimate when sample size is small. The bias-corrected MLE will be appropriate for most situations.
 
+  **Note:** The MLE and Bias-Corrected MLE calculations are not designed for situations where all tests are positive. If one of these methods is chosen and all pools for a given time period are positive, VectorSurv's calculator will not return an estimate for infection rate for that time period. We recommend using MIR to estimate the infection rate for such situations.
+
 - **Confidence Interval**: Select the confidence level for the estimate. This is generally left at 95%.
 
 - **Scale**: Choose your preferred scale for the infection rate estimate. The default value is 1,000, which gives infection rates on a per-1,000 basis. If instead, you want to calculate as percent (per 100), you may choose 100 for the scale. As an example, if you were to choose a scale of 1,000, and your calculation returns an estimate of 10.3, this corresponds to 10.3 infected arthropods per 1,000 tested. If you had instead chosen a scale of 100, the same calculation would return an infection rate estimate of 1.03, which corresponds to 1.03 infected arthropods per 100 tested (i.e., 1.03%).
