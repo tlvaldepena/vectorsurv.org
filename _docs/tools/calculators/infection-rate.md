@@ -21,12 +21,12 @@ The pool infection rate calculator estimates the arbovirus infection rate based 
 
   If arthropods were to be tested individually, the true infection rate could be calculated as
 
-  $$ \text{True IR} = \frac{\text{Infected arthropods}}{\text{Total arthropods tested}} \times \text{Scale} $$
+  $$ {\text{True IR}} = \frac{\text{Infected arthropods}}{\text{Total arthropods tested}} \times {\text{Scale}} $$
 
   However, in most cases, arthropods are not tested for pathogens individually, and the actual number of pathogen-positive arthropods in a positive pool is subject to some uncertainty. Fortunately, infection rates can be estimated using the following methods:
 
   - **MIR**: Testing arthropods in pools can yield only a single positive per pool, which does not allow for certainty about the number of infected individuals within the pool. Minimum Infection Rate makes the assumption that there is only one positive arthropod in a positive pool. MIR is not always a reliable estimate of the true infection rate, as it is possible for multiple positive arthropods to be present in a positive pool. This is particularly true when infection rates are high. MIR is calculated as
-$$ \text{MIR} = \frac{\text{Number Positive Pools}}{\text{Total Number Individuals}}  \times \text{Scale} $$
+$$ {\text{MIR}} = \frac{\text{Number of Positive Pools}}{\text{Total Number Arthropods Tested}}  \times {\text{Scale}} $$
 
   - **MLE**: Maximum Likelihood Estimate Infection Rate is estimated using a binomial model to approximate the infection rate based on the available data. The spread and center of the data is used to derive confidence intervals. Confidence intervals can be interpreted as the range of possible estimates for infection rate and a 95% confidence interval indicates you can be 95% confident that the true infection rate is within the given interval. The wider the confidence interval, the greater the uncertainty about the point estimate.
 
