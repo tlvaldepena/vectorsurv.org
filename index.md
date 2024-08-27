@@ -96,56 +96,66 @@
             <details>
                 <summary>Arizona</summary>
                 <p>
-                <li>
-                    <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
-                </li>
+                <ul>
+                    <li>
+                        <a href="https://www.azdhs.gov/preparedness/epidemiology-disease-control/vector-borne-zoonotic-diseases/index.php" target="_blank">Arizona Department of Health Services</a>
+                    </li>
+                </ul>
                 </p>
             </details>
                         <details>
                 <summary>California</summary>
                 <p>
-                    <li>
-                    <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/VBDS.aspx" target="_blank">California Department of Public Health, Vector-Borne Disease Section</a><br>
-                </li>
-                <li>
-                    <a href="https://westnile.ca.gov" target="_blank">California West Nile virus Website</a><br>
-                </li>
-                <li>
-                    <a href="https://www.mvcac.org/" target="_blank">Mosquito and Vector Control Association of California</a>
-                </li>
-                <li>
-                    <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862" target="_blank">Locations of mosquito control agencies</a>
-                </li>
-                <li>
-                    <a href="https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit" target="_blank">California surveillance data request form</a>
-                </li>
+                    <ul>
+                        <li>
+                            <a href="https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/VBDS.aspx" target="_blank">California Department of Public Health, Vector-Borne Disease Section</a><br>
+                        </li>
+                        <li>
+                            <a href="https://westnile.ca.gov" target="_blank">California West Nile virus Website</a><br>
+                        </li>
+                        <li>
+                            <a href="https://www.mvcac.org/" target="_blank">Mosquito and Vector Control Association of California</a>
+                        </li>
+                        <li>
+                            <a href="http://www.arcgis.com/home/webmap/viewer.html?webmap=604a0fe9f2b74e98a53b53d192b2ac67&extent=-131.4442,32.5803,-108.7025,41.6862" target="_blank">Locations of mosquito control agencies</a>
+                        </li>
+                        <li>
+                            <a href="https://docs.google.com/forms/d/1jyV6n-36iMzWN7dYjb_7xia0aAaxnVE0qyJehWzVWwQ/edit" target="_blank">California surveillance data request form</a>
+                        </li>
+                    </ul>
                 </p>
             </details>
             <details>
                 <summary>Colorado</summary>
                 <p>
-                <li>
-                    <a href="https://cdphe.colorado.gov/animal-related-diseases" target="_blank">Colorado Department of Public Health & Environment: Animal-related Diseases</a>
-                </li>
-                <li>
-                    <a href="https://coepht.colorado.gov/vector-borne-disease" target="_blank">Colorado Environmental Public Health Tracking: Vector-borne Disease</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://cdphe.colorado.gov/animal-related-diseases" target="_blank">Colorado Department of Public Health & Environment: Animal-related Diseases</a>
+                    </li>
+                    <li>
+                        <a href="https://coepht.colorado.gov/vector-borne-disease" target="_blank">Colorado Environmental Public Health Tracking: Vector-borne Disease</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Hawaii</summary>
                 <p>
-                <li>
-                    <a href="https://health.hawaii.gov/docd/disease_listing/arboviral-disease/" target="_blank">Hawaii State Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://health.hawaii.gov/docd/disease_listing/arboviral-disease/" target="_blank">Hawaii State Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Idaho</summary>
                 <p>
-                <li>
-                    <a href="https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/west-nile-virus" target="_blank">Idaho Department of Health & Welfare: West Nile Virus</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://healthandwelfare.idaho.gov/health-wellness/diseases-conditions/west-nile-virus" target="_blank">Idaho Department of Health & Welfare: West Nile Virus</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <!-- <details>
@@ -159,17 +169,21 @@
             <details>
                 <summary>Louisiana</summary>
                 <p>
-                <li>
-                    <a href="https://ldh.la.gov/page/parasitic-vectorborne-diseases" target="_blank">Louisiana Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://ldh.la.gov/page/parasitic-vectorborne-diseases" target="_blank">Louisiana Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Nebraska</summary>
                 <p>
-                <li>
-                    <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://dhhs.ne.gov/Pages/West-Nile-Virus-Data.aspx" target="_blank">Nebraska Department of Health and Human Services</a>
+                    </li>
+                  </ul>
                 </p>
             </details>           
              <!-- <details>
@@ -183,153 +197,185 @@
             <details>
                 <summary>New Hampshire</summary>
                 <p>
-                <li>
-                    <a href="https://www.dhhs.nh.gov/programs-services/disease-prevention/infectious-disease-control/mosquito-borne-illnesses" target="_blank">New Hampshire Department of Health and Human Services</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.dhhs.nh.gov/programs-services/disease-prevention/infectious-disease-control/mosquito-borne-illnesses" target="_blank">New Hampshire Department of Health and Human Services</a>
+                    </li>
+                  </ul>
                 </p>
             </details> 
             <details>
                 <summary>New Jersey</summary>
                 <p>
-                <li>
-                    <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a><br>
-                </li>
-                <li>
-                    <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.nj.gov/health/cd/statistics/arboviral-stats/" target="_blank">New Jersey Department of Health Vector-borne Surveillance Reports</a><br>
+                    </li>
+                    <li>
+                        <a href="https://vectorbio.rutgers.edu/reports/mosquito/" target="_blank">New Jersey Adult Mosquito Surveillance Reports</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>New York</summary>
                 <p>
-                 <li>
-                    <a href="https://www.health.ny.gov/diseases/west_nile_virus/" target="_blank">New York State Department of Health: Mosquitoes and Disease</a>
-                </li>
-                <li>
-                    <a href="https://www.health.ny.gov/diseases/communicable/lyme/" target="_blank">New York State Department of Health: Lyme Disease and Other Diseases Carried by Ticks </a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.health.ny.gov/diseases/west_nile_virus/" target="_blank">New York State Department of Health: Mosquitoes and Disease</a>
+                    </li>
+                    <li>
+                        <a href="https://www.health.ny.gov/diseases/communicable/lyme/" target="_blank">New York State Department of Health: Lyme Disease and Other Diseases Carried by Ticks </a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>North Carolina</summary>
                 <p>
-                <li>
-                    <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://epi.dph.ncdhhs.gov/cd/diseases/arbo.html" target="_blank">North Carolina Department of Health and Human Services</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>North Dakota</summary>
                 <p>
-                <li>
-                    <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
-                </li>
+                 <ul>
+                    <li>
+                        <a href="https://www.health.nd.gov/wnv/west-nile-virus-about" target="_blank">North Dakota Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Ohio</summary>
                 <p>
-                <li>
-                    <a href="https://odh.ohio.gov/know-our-programs/zoonotic-disease-program" target="_blank">Ohio Department of Health Zoonotic Disease Program</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://odh.ohio.gov/know-our-programs/zoonotic-disease-program" target="_blank">Ohio Department of Health Zoonotic Disease Program</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Oklahoma</summary>
                 <p>
-                <li>
-                    <a href="https://oklahoma.gov/health/health-education/acute-disease-service/disease-information/tickborne-and-mosquitoborne-diseases.html" target="_blank">Oklahoma State Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://oklahoma.gov/health/health-education/acute-disease-service/disease-information/tickborne-and-mosquitoborne-diseases.html" target="_blank">Oklahoma State Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Oregon</summary>
                 <p>
-                <li>
-                    <a href="https://www.oregon.gov/oha/ph/diseasesconditions/diseasesaz/westnilevirus/pages/wnile.aspx" target="_blank">Oregon Health Authority Public Health Division</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.oregon.gov/oha/ph/diseasesconditions/diseasesaz/westnilevirus/pages/wnile.aspx" target="_blank">Oregon Health Authority Public Health Division</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>South Dakota</summary>
                 <p>
-                <li>
-                    <a href="https://doh.sd.gov/diseases/infectious/wnv/" target="_blank">South Dakota Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://doh.sd.gov/diseases/infectious/wnv/" target="_blank">South Dakota Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Tennessee</summary>
                 <p>
-                <li>
-                    <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.tn.gov/health/cedep/vector-borne-diseases.html" target="_blank">Tennessee Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Texas</summary>
                 <p>
-                <li>
-                    <a href="https://www.dshs.texas.gov/mosquito-borne-diseases" target="_blank">Texas Department of State Health Services</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.dshs.texas.gov/mosquito-borne-diseases" target="_blank">Texas Department of State Health Services</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>US-Affiliated Pacific Islands</summary>
                 <p>
-                <li>
-                    <a href="https://www.pihoa.org/" target="_blank">Pacific Island Health Officers Association</a>
-                </li>
-                <li>
-                    Guam
-                </li>
-                <li>
-                    Republic of Palau
-                </li>
-                <li>
-                    Commonwealth of the Northern Mariana Islands
-                </li>
-                <li>
-                    Federated States of Micronesia
-                </li>
-                <li>
-                    Republic of the Marshall Islands
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.pihoa.org/" target="_blank">Pacific Island Health Officers Association</a>
+                    </li>
+                    <li>
+                        Guam
+                    </li>
+                    <li>
+                        Republic of Palau
+                    </li>
+                    <li>
+                        Commonwealth of the Northern Mariana Islands
+                    </li>
+                    <li>
+                        Federated States of Micronesia
+                    </li>
+                    <li>
+                        Republic of the Marshall Islands
+                    </li>
+                 </ul>
                 </p>
             </details>
             <details>
                 <summary>Utah</summary>
                 <p>
-                <li>
-                    <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank" href="#">Utah Department of Health</a>
-                </li>
-                <li>
-                    <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://epi.health.utah.gov/animal-insect-related/" target="_blank" href="#">Utah Department of Health</a>
+                    </li>
+                    <li>
+                        <a href="https://www.umaa.org/" target="_blank">Utah Mosquito Abatement Association</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Virginia</summary>
                 <p>
-                <li>
-                    <a href="https://www.vdh.virginia.gov/environmental-epidemiology/bugs-human-health/" target="_blank">Virginia Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://www.vdh.virginia.gov/environmental-epidemiology/bugs-human-health/" target="_blank">Virginia Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Washington</summary>
                 <p>
-                <li>
-                    <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://doh.wa.gov/community-and-environment/pests/mosquitoes" target="_blank">Washington State Department of Health</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
             <details>
                 <summary>Wyoming</summary>
                 <p>
-                <li>
-                    <a href="https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/" target="_blank">Wyoming Department of Health Infectious Disease Epidemiology Unit</a>
-                </li>
+                  <ul>
+                    <li>
+                        <a href="https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/" target="_blank">Wyoming Department of Health Infectious Disease Epidemiology Unit</a>
+                    </li>
+                  </ul>
                 </p>
             </details>
         </article>

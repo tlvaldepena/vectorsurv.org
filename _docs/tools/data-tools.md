@@ -17,10 +17,12 @@ Import data only for your current agency. You can change agencies using the **Cu
 
 > ### General Import Specifications
 >  - [Rules governing the structures and formats of the various import types.](https://gateway.vectorsurv.org/doc/ImportDataSpecification.xlsx)
+> 
 > ### Arthro Collections - Formatted Specifications
 > **Specifications and template files specific to the Arthro Collection - Formatted import type.**
 > - [Generic Sample](https://gateway.vectorsurv.org//doc/arthro_collection_formatted/generic/generic.zip)
 > - [California Sample](https://gateway.vectorsurv.org//doc/arthro_collection_formatted/CA/CA.zip)
+>
 > ### Web Service Documentation
 > - [Instructions detailing the Import Web service and how to use the service from local applications.](https://trac.vectorsurv.org/gateway/wiki/ImportWebService)
 

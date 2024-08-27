@@ -15,14 +15,14 @@ type in coordinates each time.
 
 ## The Form
 
-- **Active Date:** The date that this site/revision was first put into
+**Active Date:** The date that this site/revision was first put into
   service. Leaving this field blank will effectively make the site
   active for all dates prior to the deactive date.
 
-- **Deactive Date:** The date this site/revision was decommissioned.
+**Deactive Date:** The date this site/revision was decommissioned.
   Leave this field blank if the site is currently active.
 
-- **Site Code**: A numeric identifier for the site. Only one site may
+**Site Code**: A numeric identifier for the site. Only one site may
   use a given site code during the active/ deactive date interval.
   Each agency can assign codes however they want. Codes that have not
   yet been assigned for sites in your current agency will be listed in
@@ -30,7 +30,7 @@ type in coordinates each time.
   screen. Clicking on an available code will autofill the Site Code
   field in the form.
 
-- **The "Zero Code" Site**: Each agency will be assigned a site with a
+**The "Zero Code" Site**: Each agency will be assigned a site with a
   code of all 0s to be used for "one off" collections. The default
   location will be the address of the agency as it is recorded in
   VectorSurv. If specimens are collected at a location the agency is
@@ -39,7 +39,7 @@ type in coordinates each time.
   occurred on the collection itself. This would mitigate the creation
   of numerous sites that are utilized only once.
 
-- **Site Name**: Recommended. This is intended to be an easily
+**Site Name**: Recommended. This is intended to be an easily
   memorable moniker for the site. It does not need to be unique. Site
   Code and Site Name will be searchable and autocompleted on the data
   entry pages, so it's helpful to assign this field.
@@ -61,71 +61,46 @@ type in coordinates each time.
 
 ![Address input](/assets/images/docs/site-addresses.png)
 
-- **The Map**: Clicking on the "Map" heading will expand the map panel
+**The Map**: Clicking on the "Map" heading will expand the map panel
   to give a view of the site area.
 
 ![Site Map Card](/assets/images/docs/site-map.png)
 
-- **Controls**
+**Controls**
 
-  - The user can make the map **zoom** in and out using the "+/-"
-    buttons in the upper left hand corner, or by scrolling while
-    hovering over the map.
+The user can make the map **zoom** in and out using the "+/-" buttons in the upper left hand corner, or by scrolling while hovering over the map.
 
-  - The "**Show Existing sites**" toggle will add gray markers for
-    other existing sites to the map. Active sites will have a white
-    center dot. Deactive sites will have an orange dot.
+The "**Show Existing sites**" toggle will add gray markers for other existing sites to the map. Active sites will have a white center dot. Deactive sites will have an orange dot.
 
-  - If other revisions for this site code exist in the system, the
-    "**Show Site Revisions**" toggle will add colored markers for
-    those revisions to the map.
+If other revisions for this site code exist in the system, the "**Show Site Revisions**" toggle will add colored markers for those revisions to the map.
 
-  - Clicking the blue "**recenter**" icon in the lower right-hand
-    corner of the map will cause the map view to pan over to the
-    current site marker.
+Clicking the blue "**recenter**" icon in the lower right-hand corner of the map will cause the map view to pan over to the current site marker.
 
-- **Fields**
+**Fields**
 
-  - **Latitude:** The latitude value. Must be between -90 & 90
-    degrees.
+**Latitude:** The latitude value. Must be between -90 & 90 degrees.
 
-  - **Longitude:** The longitude value. Must be between -180 & 180
-    degrees.
+**Longitude:** The longitude value. Must be between -180 & 180 degrees.
 
-  - **Coordinate Precision**: Used to specify the level of certainty
-    in the site coordinate. In most cases, this field should be kept
-    as Exact. For historical data or other instances where the exact
-    location is uncertain, the user may choose the most accurate
-    option from the list.
+**Coordinate Precision**: Used to specify the level of certainty in the site coordinate. In most cases, this field should be kept as Exact. For historical data or other instances where the exact location is uncertain, the user may choose the most accurate option from the list.
 
-**Additional Fields**
+### Additional Fields
 
-- **Elevation**: Elevation in meters. Once valid coordinates have been
-  entered, a button will appear to automatically populate the field
-  via an external service. Note: elevation data may not be available
-  for all locations. Can also be entered manually.
+**Elevation**: Elevation in meters. Once valid coordinates have been entered, a button will appear to automatically populate the field via an external service. Note: elevation data may not be available for all locations. Can also be entered manually.
 
-- **Address**: The address of the site or its nearest intersection.
+**Address**: The address of the site or its nearest intersection.
 
-- **City:** The city where the specimen was collected.
+**City:** The city where the specimen was collected.
 
-- **Postal Code:** Also known as a zip code.
+**Postal Code:** Also known as a zip code.
 
-- **Country, State, County:** The regional designations for the
-  collection location.
+**Country, State, County:** The regional designations for the collection location.
 
-- **Surroundings**: The surroundings of the site. More than one can be
-  chosen. Typing an original name will create a unique surroundings
-  designation for the current agency.
+**Surroundings**: The surroundings of the site. More than one can be chosen. Typing an original name will create a unique surroundings designation for the current agency.
 
-- **Population Classification**: Whether the site
-  is *Urban*, *Suburban*, or *Rural*. Once valid coordinates have been
-  entered, a button will appear to automatically populate the field
-  based on available census data. Note: census data may not be
-  available for all locations. Can also be entered manually.
+**Population Classification**: Whether the site is *Urban*, *Suburban*, or *Rural*. Once valid coordinates have been entered, a button will appear to automatically populate the field based on available census data. Note: census data may not be available for all locations. Can also be entered manually.
 
-- **Comments**: Any additional notes that should be recorded with this
-  site.
+**Comments**: Any additional notes that should be recorded with this site.
 
 ---
 

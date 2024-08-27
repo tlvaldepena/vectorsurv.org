@@ -9,13 +9,19 @@ Worksheets can be used to quickly generate and print pages for recording collect
 
 Use this section to select the fields you would like to be included in your saved worksheet. It is masked by default, so you will need to click on **New Worksheet** to access the form.
 
-- **Identified By**: This field is an optional identifier of the person counting the collections. Only put in a name if the same person consistently counts all collections for the selected [sites]({{ site.baseurl }}/docs/site/).
-- **# of Traps**: Use this field to note how many unique traps were in operation at each site. The default is 1, but you can change this value by typing in a value or by clicking the up/down arrows. This field is also optional.
-- **Trap Types**: Select the trap type(s) you wish to generate worksheets for. Multiple values can be selected by using _CTRL/CMD/SHIFT_ keys while selecting values. If more than one trap type is selected, you will create a separate worksheet for each trap type.
-- **Traps at Sites**: Choose which [sites]({{ site.baseurl }}/docs/site/) you wish to create the worksheet for. Select the sites by clicking on the site name under the **Available** column (multiple sites can be selected at once by using _CTRL/CMD/SHIFT_ keys while selecting). Selected sites will be highlighted in blue. Click on the **>>** button to move selected sites to the **Selected** column. You can remove sites from the **Selected** column in the same way by clicking on the **<<** button to move them back to the **Available** column. You can change the order in which the sites will appear on the worksheet by selecting the site you wish to move up or down and clicking on the up/down arrow button.
-  ![Selecting Sites]({{ site.baseurl }}/assets/images/docs/traps-at-sites.PNG)
-- **Format of Sites**: Choose how you would like to display the site information. Default is both Site Code and Name, but you can use the drop-down arrow to select Site Code only or Site Name only.
-- **Species**: Choose the species you wish to monitor from the selected sites. You can select the species in the same way, by clicking on the species name and then clicking the **>>** button to move them from the **Available** column to the **Selected** column. The available species to choose from can be managed on the [Config]({{ site.baseur1 }}/docs/arthropod/trap-types) page.
+**Identified By**: This field is an optional identifier of the person counting the collections. Only put in a name if the same person consistently counts all collections for the selected [sites]({{ site.baseurl }}/docs/site/).
+
+**# of Traps**: Use this field to note how many unique traps were in operation at each site. The default is 1, but you can change this value by typing in a value or by clicking the up/down arrows. This field is also optional.
+
+**Trap Types**: Select the trap type(s) you wish to generate worksheets for. Multiple values can be selected by using _CTRL/CMD/SHIFT_ keys while selecting values. If more than one trap type is selected, you will create a separate worksheet for each trap type.
+
+**Traps at Sites**: Choose which [sites]({{ site.baseurl }}/docs/site/) you wish to create the worksheet for. Select the sites by clicking on the site name under the **Available** column (multiple sites can be selected at once by using _CTRL/CMD/SHIFT_ keys while selecting). Selected sites will be highlighted in blue. Click on the **>>** button to move selected sites to the **Selected** column. You can remove sites from the **Selected** column in the same way by clicking on the **<<** button to move them back to the **Available** column. You can change the order in which the sites will appear on the worksheet by selecting the site you wish to move up or down and clicking on the up/down arrow button.
+  
+![Selecting Sites]({{ site.baseurl }}/assets/images/docs/traps-at-sites.PNG)
+
+**Format of Sites**: Choose how you would like to display the site information. Default is both Site Code and Name, but you can use the drop-down arrow to select Site Code only or Site Name only.
+
+**Species**: Choose the species you wish to monitor from the selected sites. You can select the species in the same way, by clicking on the species name and then clicking the **>>** button to move them from the **Available** column to the **Selected** column. The available species to choose from can be managed on the [Config]({{ site.baseur1 }}/docs/arthropod/trap-types) page.
 
 When finished, click the **Add Worksheet** button at the bottom of the form to save the worksheet.
 ![Add Worksheet]({{ site.baseur1 }}/assets/images/docs/add-worksheet.PNG)

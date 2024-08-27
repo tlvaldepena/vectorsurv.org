@@ -14,7 +14,7 @@ View saved site records.
 
 - **Date** lets you select a custom timeframe to search for records.
 
-  - Select the timeframe for which you wish to view sites by
+    Select the timeframe for which you wish to view sites by
     choosing the appropriate values using the start and end
     datepickers. You can type a date value in the format set under
     [Account
