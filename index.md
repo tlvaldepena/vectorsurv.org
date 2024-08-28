@@ -70,7 +70,7 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 25 </h2>
+        <h2> 26 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
@@ -172,14 +172,14 @@
                 </li>
                 </p>
             </details>           
-             <!-- <details>
+             <details>
                 <summary>Nevada</summary>
                 <p>
                 <li>
                     <a href="https://www.nnph.org/programs-and-services/environmental-health/vector-borne-diseases/index.php" target="_blank">Nevada Department of Health and Human Services</a>
                 </li>
                 </p>
-            </details> -->
+            </details>
             <details>
                 <summary>New Hampshire</summary>
                 <p>
