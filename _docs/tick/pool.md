@@ -16,15 +16,13 @@ One or the other should be used to submit a single pool.
 
 ## Form
 
-**Fields**
-
-- **Collection Date**: The date the trap was picked up / last day of
+**Collection Date**: The date the trap was picked up / last day of
   the collection. You can type a date value in the format set under
   [Account
   Preferences]({{ site.baseurl }}/docs/settings/account-preferences)
   or pick a date using the datepicker UI.
 
-- **Pool Number:** A numeric identifier for the pool. A collection
+**Pool Number:** A numeric identifier for the pool. A collection
   date needs to be selected before you can choose a pool number. Pool
   numbers have to be unique per agency per year. Normally you would
   start at 1 and increment throughout the year but the exact numbering
@@ -35,10 +33,10 @@ One or the other should be used to submit a single pool.
 
 ![Pool Availability Aside Menu](/assets/images/docs/aside-pool-availability.png)
 
-- **Method**: The type of trap placed in the field. Start typing to
+**Method**: The type of trap placed in the field. Start typing to
   filter the list.
 
-- **Site Code**: The [site]({{ site.baseurl }}/docs/site/) where a
+**Site Code**: The [site]({{ site.baseurl }}/docs/site/) where a
   trap was placed. A collection date needs to be selected before you
   can choose a trap site. Start typing in any part of the site code or
   name and the dropdown will filter the sites to that text. Selecting
@@ -46,14 +44,15 @@ One or the other should be used to submit a single pool.
   map. You can also select a site using the 'Show Existing Sites'
   toggle in the Map section.
 
-- **Precision**: Used to specify the level of certainty in the site
+**Precision**: Used to specify the level of certainty in the site
   coordinate. In most cases, this field should be kept as Exact. For
   historical data, instances where the exact location is uncertain or
   in instances where the exact location need to be obscured due to
   human case privacy concerns, the user may choose the most accurate
   option from the list.
 
-- **Map**: Clicking on the "Map" heading will expand the map panel to
+## Map
+  Clicking on the "Map" heading will expand the map panel to
   give a view of the site area. Once a site is selected, the trap can
   be dragged to a new location up to 400m away indicated by the
   circle.
@@ -80,32 +79,32 @@ One or the other should be used to submit a single pool.
 
 ![Site Map Card](/assets/images/docs/site-map.png)
 
-- **Latitude:** The latitude value. Must be between -90 & 90 degrees.
+**Latitude:** The latitude value. Must be between -90 & 90 degrees.
 
-- **Longitude:** The longitude value. Must be between -180 & 180
+**Longitude:** The longitude value. Must be between -180 & 180
   degrees.
 
-- **Species:** The species that make up this abundance. Start typing
+**Species:** The species that make up this abundance. Start typing
   to filter the list. The list of species in the dropdown can be
   adjusted through the Available Species settings on the [arthropod
   configuration
   page]({{ site.baseurl }}/docs/arthropod/trap-types/).
 
-- **Sex/Stage**: The sex/life stage of the ticks in this pool. Start
+**Sex/Stage**: The sex/life stage of the ticks in this pool. Start
   typing to filter the list.
 
-- **Attached**: Available for certain method types. Check if the tick
+**Attached**: Available for certain method types. Check if the tick
   was attached to a host at the time of collection.
 
-- **Bloodfed**: Check if the tick was in a bloodfed condition at the
+**Bloodfed**: Check if the tick was in a bloodfed condition at the
   time of collection.
 
-- **Comments**: Any accompanying comments.
+**Comments**: Any accompanying comments.
 
-- **Linked Collection**: Click the blue link button to get a list of
+**Linked Collection**: Click the blue link button to get a list of
   collections eligible for linking.
 
-  - **Action Buttons:**  
+**Action Buttons:**  
     ![Link icon](/assets/images/docs/action-button-link.png): Link the pool to the selected collection. The pool's **collection date**, **site** and **trap**
     values will be overwritten by those of the selected collection. It
     will also remove any **secondary sites** associated with the pool. You
@@ -117,13 +116,13 @@ One or the other should be used to submit a single pool.
     ![Collapsible arrow icon](/assets/images/docs/action-button-expand.png):
     Opens subtable to view species details.
 
-- **Count/Count per Pool**: The total number of specimens in this
+**Count/Count per Pool**: The total number of specimens in this
   pool/each pool (if generating batches of more than one pool). If
   this pool has specimens from more than one site, the number of
   specimens from the primary site (**Site Code** column) will be
   determined from this value.
 
-- **\# of Pools:** The number of pools to generate. This field only
+**\# of Pools:** The number of pools to generate. This field only
   appears when creating new pool(s).
 
 ---
