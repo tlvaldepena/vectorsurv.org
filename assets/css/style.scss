@@ -356,7 +356,7 @@ section.content > p:first-child strong {
 }
 
 section.content p {
-  margin-top: 1rem;
+  margin-bottom: 1rem;
   font-size: 17px;
   line-height: 1.7;
   max-width: 78%;
@@ -398,6 +398,7 @@ section.content hr {
   // border-bottom: 1px solid #ececec;
   // margin-top: 20px;
   border-top: 1px solid #003366;
+  margin-bottom:1rem;
   // border: 1px solid white;
 }
 
@@ -470,7 +471,7 @@ section.content h4 + p {
 section.content ol,
 section.content ul {
   margin-left: 2rem;
-  margin-top: 20px;
+  margin-bottom: 20px;
   font-size: 16px;
   // padding-left: 20px;
 }
@@ -483,7 +484,7 @@ section.content ul {
 
 section.content ol li,
 section.content ul li {
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 section.content ol li.button-newapp,
@@ -496,7 +497,7 @@ section.content ul ol,
 section.content ol ul,
 section.content ul ul {
   margin-left: 20px;
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 section.content img {
@@ -524,7 +525,7 @@ section.content blockquote {
 }
 
 section.content blockquote p {
-  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 // section.content blockquote p:first-of-type{
