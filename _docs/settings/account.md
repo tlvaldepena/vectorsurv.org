@@ -17,10 +17,6 @@ Edit login info
 
 Customize how the Gateway displays and exports data
 
-### [Messaging]({{ site.baseur1 }}/docs/settings/messaging)
-
-Directly communicate with other Gateway users
-
 ### [Other Agency Access]({{ site.baseur1 }}/docs/settings/other-agency)
 
 Request access to view another agency's data
