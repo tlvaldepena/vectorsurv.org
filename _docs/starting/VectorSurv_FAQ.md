@@ -17,7 +17,7 @@ permalink: /starting/
 
 - [VectorSurv Citation](#VectorSurvCitation)
 
-{#StartingOnVectorSurvAgency}
+- {#StartingOnVectorSurvAgency}
 
 ## Starting with VectorSurv as a New Agency  
 
