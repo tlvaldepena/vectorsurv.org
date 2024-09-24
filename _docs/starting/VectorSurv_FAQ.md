@@ -17,7 +17,7 @@ permalink: /starting/
 
 - [VectorSurv Citation](#VectorSurvCitation)
 
-{#StartingOnVectorSurvAgency}  
+{#StartingOnVectorSurvAgency}
   
 ## Starting with VectorSurv as a New Agency  
 
@@ -69,7 +69,7 @@ Lastly, feel free to reach out to ![Help Email] if any additional questions or c
 
 [Return to Top](#TableOfContents)
 
-{#StartingOnVectorSurvUser}  
+{#StartingOnVectorSurvUser}
   
 ## Starting with VectorSurv as a New User for an Existing Agency  
 
@@ -91,7 +91,7 @@ Lastly, feel free to reach out to ![Help Email] if additional questions or conce
 
 [Return to Top](#TableOfContents)
 
-{#VectorSurvSandbox}  
+{#VectorSurvSandbox}
   
 ## VectorSurv Gateway vs. Sandbox  
 
@@ -103,7 +103,7 @@ The VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>) is the system's "play
 
 [Return to Top](#TableOfContents)
 
-{#ImportingData}  
+{#ImportingData}
   
 ## Importing Data to VectorSurv  
 
@@ -158,7 +158,7 @@ Assistance with VectorSurv's web service import process can also be provided by 
 
 [Return to Top](#TableOfContents)
 
-{#ExportingData}  
+{#ExportingData}
   
 ## Exporting Data from VectorSurv  
 
@@ -217,7 +217,7 @@ Assistance with VectorSurv's web service export process can also be provided by 
 
 [Return to Top](#TableOfContents)
 
-{#DataAccess}  
+{#DataAccess}
   
 ## Data Access on VectorSurv  
 
@@ -252,7 +252,7 @@ In addition to the data request form found within the data policy statement, an 
 
 [Return to Top](#TableOfContents)
 
-{#VectorSurvCitation}  
+{#VectorSurvCitation}
   
 ## VectorSurv Citation  
 
