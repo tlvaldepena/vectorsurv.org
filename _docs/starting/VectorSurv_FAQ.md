@@ -107,9 +107,7 @@ The VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>) is the system's "play
 
 [Return to Top](#TableOfContents)
 
-{#ImportingData}
-
-## Importing Data to VectorSurv  
+<h2 id="ImportingData">Importing Data to VectorSurv</h2>
 
 In addition to adding data values directly through the VectorSurv Gateway user interface, VectorSurv allows for batch entry of various types of data through import processes. Data can be imported into VectorSurv in two separate ways.
 
