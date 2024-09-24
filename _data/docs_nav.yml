@@ -1,8 +1,7 @@
 - title: Starting Guide
   link: /starting/
-  docs:
-    - title: StartingOnVectorSurvAgency
-      link: /starting/#StartingOnVectorSurvAgency
+- title: StartingOnVectorSurvAgency
+  link: /starting/#StartingOnVectorSurvAgency
 - title: The Sandbox
   link: /docs/sandbox/
 - title: Sites
