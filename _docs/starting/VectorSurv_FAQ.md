@@ -17,7 +17,9 @@ permalink: /starting/
 
 - [VectorSurv Citation](#VectorSurvCitation)
 
-## Starting with VectorSurv as a New Agency {#StartingOnVectorSurvAgency}
+{#StartingOnVectorSurvAgency}
+
+## Starting with VectorSurv as a New Agency 
 
 Welcome to VectorSurv! VectorSurv is web-based software to enable data management and analysis by local and state public health agencies throughout the U.S. As the name suggests, we focus on data relevant to surveillance and control of vector-borne diseases, and all data are referenced by geographic location and date. For surveillance, the types of data we store are commonly called “environmental surveillance data” and include mosquito trap collections, tick collections, mosquito and tick pathogen testing, dead bird testing for West Nile virus, and sentinel chicken serological testing. For control, we store data on pesticide applications and pesticide resistance. We also provide tools to streamline reporting to CDC’s national databases, particularly ArboNet.
 
@@ -67,7 +69,9 @@ Lastly, feel free to reach out to ![Help Email] if any additional questions or c
 
 [Return to Top](#TableOfContents)
 
-## Starting with VectorSurv as a New User for an Existing Agency {#StartingOnVectorSurvUser}
+{#StartingOnVectorSurvUser}
+
+## Starting with VectorSurv as a New User for an Existing Agency 
 
 Welcome to VectorSurv! In order to be added to VectorSurv as a new user to an existing agency within VectorSurv, permission will need to be granted by the manager of the agency the new user is requesting access to.
 
@@ -87,7 +91,9 @@ Lastly, feel free to reach out to ![Help Email] if additional questions or conce
 
 [Return to Top](#TableOfContents)
 
-## VectorSurv Gateway vs. Sandbox {#VectorSurvSandbox}
+{#VectorSurvSandbox}
+
+## VectorSurv Gateway vs. Sandbox 
 
 VectorSurv offers two separate software environments that may be of use to enrolled agencies, the VectorSurv Gateway and the VectorSurv Sandbox.
 
@@ -97,7 +103,9 @@ The VectorSurv Sandbox (<https://sandbox.vectorsurv.org/>) is the system's "play
 
 [Return to Top](#TableOfContents)
 
-## Importing Data to VectorSurv {#ImportingData}
+{#ImportingData}
+
+## Importing Data to VectorSurv 
 
 In addition to adding data values directly through the VectorSurv Gateway user interface, VectorSurv allows for batch entry of various types of data through import processes. Data can be imported into VectorSurv in two separate ways.
 
@@ -150,7 +158,9 @@ Assistance with VectorSurv's web service import process can also be provided by 
 
 [Return to Top](#TableOfContents)
 
-## Exporting Data from VectorSurv {#ExportingData}
+{#ExportingData}
+
+## Exporting Data from VectorSurv 
 
 In addition to viewing data through the VectorSurv Gateway user interface, VectorSurv allows for previously entered data of various types to be exported to external files, such as CSV (.csv), Excel (.xls), and JSON (.json) files. Data can be exported from VectorSurv in two separate ways.
 
@@ -207,7 +217,9 @@ Assistance with VectorSurv's web service export process can also be provided by 
 
 [Return to Top](#TableOfContents)
 
-## Data Access on VectorSurv {#DataAccess}
+{#DataAccess}
+
+## Data Access on VectorSurv 
 
 **Intra-Agency Data Access:**
 
@@ -240,7 +252,9 @@ In addition to the data request form found within the data policy statement, an 
 
 [Return to Top](#TableOfContents)
 
-## VectorSurv Citation {#VectorSurvCitation}
+{#VectorSurvCitation}
+
+## VectorSurv Citation 
 
 It is encouraged that VectorSurv be cited in situations where data stored within VectorSurv are directly used within research papers or journal articles. In general, a citation for the main VectorSurv website is appropriate as it serves as an informational front page for VectorSurv that is more useful for understanding the system. The VectorSurv website is used rather than the VectorSurv Gateway because the Gateway is specifically used by public health and vector control agencies with login credentials. Providing the URL for the VectorSurv Gateway only brings readers to the VectorSurv Gateway login page.
 
