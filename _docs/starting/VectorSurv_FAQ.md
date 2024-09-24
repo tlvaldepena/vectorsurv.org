@@ -19,7 +19,7 @@ permalink: /starting/
 
 
 
-<h2 id="StartingOnVectorSurvAgency" style="margin-bottom: 20px;">Starting on Vector Surveillance Agency</h2>
+<h2 id="StartingOnVectorSurvAgency" style="margin-bottom: 60px;">Starting on Vector Surveillance Agency</h2>
 
 Welcome to VectorSurv! VectorSurv is web-based software to enable data management and analysis by local and state public health agencies throughout the U.S. As the name suggests, we focus on data relevant to surveillance and control of vector-borne diseases, and all data are referenced by geographic location and date. For surveillance, the types of data we store are commonly called “environmental surveillance data” and include mosquito trap collections, tick collections, mosquito and tick pathogen testing, dead bird testing for West Nile virus, and sentinel chicken serological testing. For control, we store data on pesticide applications and pesticide resistance. We also provide tools to streamline reporting to CDC’s national databases, particularly ArboNet.
 
