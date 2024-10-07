@@ -15,6 +15,8 @@ permalink: /starting/
 
 - [Data Access on VectorSurv](#DataAccess)
 
+- [Validation Logic Rules](#ValidationLogicRules)
+
 - [VectorSurv Citation](#VectorSurvCitation)
 
 <div style="height: 100px; margin-top: -100px; visibility: hidden;"></div>
@@ -241,6 +243,12 @@ that participate in the California Vectorborne Disease Surveillance Program (Cal
 In addition to the data request form found within the data policy statement, an online data request form is available from the VectorSurv website (<https://vectorsurv.org/>).
 
 [Return to Top](#TableOfContents)
+
+## Validation Logic Rules {#ValidationLogicRules}
+
+VectorSurv utilizes count validators in instances where pools of vectors are created from vector collection records, such as when a pool of Culex pipiens is created from a gravid trap collection. These count validators utilize the sex, lifestage, and species count data entered for the collection records and compares them against any associated pool record data to ensure that logical combinations exists. If the validator rules are broken, the data will not be savable within the VectorSurv database.
+
+For more information on the validator rules, visit our validation logic rules page (<https://vectorsurv.org/logicRules/>).
 
 ## VectorSurv Citation {#VectorSurvCitation}
 
