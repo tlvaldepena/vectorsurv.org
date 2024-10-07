@@ -3,96 +3,114 @@ title: "VectorSurv Validation Logic Rules"
 permalink: /logicRules/
 ---
 
-## VectorSurv Validation Logic Rules
+VectorSurv utilizes count validators in instances where pools of vectors are created from vector collection records, such as when a pool of *Culex pipiens* is created from a gravid trap collection. These count validators utilize the sex, lifestage, and species count data entered for the collection records and compares them against any associated pool record data to ensure that logical combinations exists. If the validator rules are broken, the data will not be savable within the VectorSurv database.
 
-- Pool counts are validated against the total abundance on the collection.
+To assist VectorSurv agency understand these validation rules, this document provides 9 validation rule examples that demonstrate when and why a collection record and pool record combination may not meet the validator requirements.
 
-    - Pools of lower order taxonomy (ie species and sub-species) counts must be represented specifically in the collection.
+***
 
-        - A Pool of Culex pipiens cannot be created unless there are enough Culex pipiens on the collection. 
+- Pools of lower order taxonomy (ie species and sub-species) counts must be represented specifically in the collection.
 
-            - The collection abundance = 50 Culex pipiens.
+    - A Pool of *Culex pipiens* cannot be created unless there are enough *Culex pipiens* on the collection. 
 
-                - Two pools of 25 Culex pipiens would be valid.
+        - The collection abundance = 50 *Culex pipiens*.
 
-                - Two pools of 35 Culex pipiens would NOT be valid.
+            - Two pools of 25 *Culex pipiens* would be valid.
 
-    - The pool’s sex condition must also be present in the collection
+            - Two pools of 35 *Culex pipiens* would NOT be valid.
 
-        - A Pool of Culex pipiens Female-Unfed cannot be created unless there are enough Culex pipiens Female-Unfed on the collection. 
+***
 
-            - The collection abundance = 50 Culex pipiens Female-Unfed.
+- The pool’s sex condition must also be present in the collection
 
-                - Two pools of 25 Culex pipiens Female-Unfed would be valid.
+    - A Pool of *Culex pipiens* Female-Unfed cannot be created unless there are enough *Culex pipiens* Female-Unfed on the collection. 
 
-                - Two pools of 35 Culex pipiens Female-Unfed would NOT be valid.
+        - The collection abundance = 50 *Culex pipiens* Female-Unfed.
 
-    - Pools of higher order taxonomy (eg genus) counts can be aggregates of lower order taxonomy specimens in the collection.
+            - Two pools of 25 *Culex pipiens* Female-Unfed would be valid.
 
-        - The collection abundance = 25 Culex pipiens & 25 Culex tarsalis.
+            - Two pools of 35 *Culex pipiens* Female-Unfed would NOT be valid.
 
-            - A pool of 50 Culex (unspecified) would be valid
+***
 
-    - Pools of lower order taxonomy cannot be drawn out from higher order abundance
+- Pools of higher order taxonomy (eg genus) counts can be aggregates of lower order taxonomy specimens in the collection.
 
-        - The collection abundance =  50 Culex (unspecified)
+    - The collection abundance = 25 *Culex pipiens* & 25 *Culex tarsalis*.
 
-            - Two pools of 25 Culex pipiens would NOT be valid
+        - A pool of 50 *Culex* (unspecified) would be valid
 
-    - Pools with general sex conditions can also be aggregates of more specific sex conditions found in the abundance. 
+***
 
-        - The collection abundance = 25 Culex pipiens Female-Unfed & 25 Culex pipiens Female-Bloodfed
+- Pools of lower order taxonomy cannot be drawn out from higher order abundance
 
-            - A pool of 50 Culex pipiens Female-Mixed would be valid
+    - The collection abundance =  50 *Culex* (unspecified)
 
-    - Pools with specific sex conditions cannot be drawn of more general sex conditions found in the abundance. 
+        - Two pools of 25 *Culex pipiens* would NOT be valid
 
-        - The collection abundance = 50 Culex pipiens Female-mixed 
+***
 
-            - A pool of 25 Culex pipiens Female-Unfed would NOT be valid.
+- Pools with general sex conditions can also be aggregates of more specific sex conditions found in the abundance. 
 
-    - Pools on collections with a “presence” trap type are considered to be valid if that species & sex/condition is present in the collection abundance.
+    - The collection abundance = 25 *Culex pipiens* Female-Unfed & 25 *Culex pipiens* Female-Bloodfed
 
-        - The collection trap type is OVI-PRES.
+        - A pool of 50 *Culex pipiens* Female-Mixed would be valid
 
-            - Culex tarsalis Female-Unfed is shown to be “present” in the collection.
+***
 
-                - A pool of 50 Culex tarsalis Female-Unfed would be valid.
+- Pools with specific sex conditions cannot be drawn of more general sex conditions found in the abundance. 
 
-                - A pool of 50 Culex (unspecified) Female-Mixed would be valid.
+    - The collection abundance = 50 *Culex pipiens* Female-mixed 
 
-            - Only Aedes (unspecified) Female-Mixed is shown to be “present” in the collection.
+        - A pool of 25 *Culex pipiens* Female-Unfed would NOT be valid.
 
-                - A pool of 50 Aedes aegypti Female-Unfed would NOT be valid.
+***
 
-                - A pool of 50 Aedes aegypti Female-Mixed would NOT be valid.
+- Pools on collections with a “presence” trap type are considered to be valid if that species & sex/condition is present in the collection abundance.
 
-                - A pool of 50 Aedes (unspecified) Female-Unfed would NOT be valid.
+    - The collection trap type is OVI-PRES.
 
-                - A pool of 50 Aedes (unspecified) Female-Mixed would be valid.
+        - *Culex tarsalis* Female-Unfed is shown to be “present” in the collection.
 
-    - Pools with values in the “Other Sites” field are counted differently
+            - A pool of 50 *Culex tarsalis* Female-Unfed would be valid.
 
-        - If the number of specimens from the “Other Sites” is designated in parenthesis (eg “123456(25)”),  then the value is subtracted from the current pool’s count.
+            - A pool of 50 *Culex* (unspecified) Female-Mixed would be valid.
 
-            - The collection abundance = 40 Culex pipiens Female-mixed.
+        - Only *Aedes* (unspecified) Female-Mixed is shown to be “present” in the collection.
 
-                - A Pool of 50 Culex pipiens Female-mixed and an Other Sites value of “123456(20)” would be valid. The effective count for validation would be 30 (ie 50 - 20).
+            - A pool of 50 *Aedes aegypti* Female-Unfed would NOT be valid.
 
-                - A Pool of 50 Culex pipiens Female-mixed and an Other Sites value of “123456(5)” would NOT be valid. The effective count for validation would be 45 (ie 50 - 5).
+            - A pool of 50 *Aedes aegypti* Female-Mixed would NOT be valid.
 
-        - If there is no indication of the number of specimens contributed by the “Other Site”, then the current pool's count is considered to be just 1 for the purpose of validation.
+            - A pool of 50 *Aedes* (unspecified) Female-Unfed would NOT be valid.
 
-            - The collection abundance = 40 Culex pipiens Female-mixed.
+            - A pool of 50 *Aedes* (unspecified) Female-Mixed would be valid.
 
-                - A Pool of 50 Culex pipiens Female-mixed and an Other Sites value of “123456” would be valid. The effective count for validation would be 1.
+***
 
-    - Species mixes (eg "Culex pipiens/quinquefasciatus") are treated like a higher order taxonomy.
+- Pools with values in the “Other Sites” field are counted differently
 
-        - The collection abundance = 25 Culex pipiens & 25 Culex quinquefasciatus.
+    - If the number of specimens from the “Other Sites” is designated in parenthesis (eg “123456(25)”),  then the value is subtracted from the current pool’s count.
 
-            - A pool of 50 Culex pipiens/quinquefasciatus would be valid
+        - The collection abundance = 40 *Culex pipiens* Female-mixed.
 
-        - The collection abundance =  50 Culex pipiens/quinquefasciatus 
+            - A Pool of 50 *Culex pipiens* Female-mixed and an Other Sites value of “123456(20)” would be valid. The effective count for validation would be 30 (ie 50 - 20).
 
-            - A pool of 25 Culex pipiens would NOT be valid
+            - A Pool of 50 *Culex pipiens* Female-mixed and an Other Sites value of “123456(5)” would NOT be valid. The effective count for validation would be 45 (ie 50 - 5).
+
+    - If there is no indication of the number of specimens contributed by the “Other Site”, then the current pool's count is considered to be just 1 for the purpose of validation.
+
+        - The collection abundance = 40 *Culex pipiens* Female-mixed.
+
+            - A Pool of 50 *Culex pipiens* Female-mixed and an Other Sites value of “123456” would be valid. The effective count for validation would be 1.
+
+***
+
+- Species mixes (eg "*Culex pipiens*/quinquefasciatus") are treated like a higher order taxonomy.
+
+    - The collection abundance = 25 *Culex pipiens* & 25 *Culex quinquefasciatus*.
+
+        - A pool of 50 *Culex pipiens*/quinquefasciatus would be valid
+
+    - The collection abundance =  50 *Culex pipiens*/quinquefasciatus 
+
+        - A pool of 25 *Culex pipiens* would NOT be valid
