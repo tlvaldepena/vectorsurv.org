@@ -14,7 +14,7 @@ This document describes how the relative risk is estimated, including definition
 
 The relative risk for dengue was calculated using the classical formula for the basic reproduction number: 
 
-$$Relative Risk = \frac{ma^2 bcp^n}{-ln⁡(p)r}$$
+$${\text{Relative Risk}} = \frac{ma^2 bcp^n}{-ln⁡(p)r}$$
 
 where m is mosquito density (mosquitoes per person), a is biting rate (bites per day per mosquito), b is transmission efficiency from mosquito to human (probability a human becomes infected if the mosquito is infectious at time of biting), c is transmission efficiency from human to mosquito (probability a mosquito becomes infected if the human is infectious at time of biting), p is mosquito survival (proportion surviving per day), n is the number of days required for the virus to replicate and become transmissible by the mosquito, and r is the human recovery rate (1 / infectious period).
 
