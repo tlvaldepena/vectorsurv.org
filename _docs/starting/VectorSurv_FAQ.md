@@ -247,7 +247,7 @@ In addition to the data request form found within the data policy statement, an 
 
 ## Validation Logic Rules {#ValidationLogicRules}
 
-VectorSurv utilizes count validators in instances where pools of vectors are created from vector collection records, such as when a pool of Culex pipiens is created from a gravid trap collection. These count validators utilize the sex, lifestage, and species count data entered for the collection records and compares them against any associated pool record data to ensure that logical combinations exists. If the validator rules are broken, the data will not be savable within the VectorSurv database.
+VectorSurv utilizes count validators in instances where pools of vectors are created from vector collection records, such as when a pool of *Culex pipiens* is created from a gravid trap collection. These count validators utilize the sex, lifestage, and species count data entered for the collection records and compares them against any associated pool record data to ensure that logical combinations exists. If the validator rules are broken, the data will not be savable within the VectorSurv database.
 
 For more information on the validator rules, visit our validation logic rules page (<https://vectorsurv.org/logicRules/>).
 
