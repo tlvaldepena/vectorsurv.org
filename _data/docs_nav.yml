@@ -46,6 +46,9 @@
       docs:
         - link: /docs/tick/pool/
         - link: /docs/tick/pool-manage/
+    - link: /docs/tick/calculator/
+      docs:
+        - link: /docs/tools/v5/tick-anomaly/
 - title: Sentinel
   link: /docs/sentinel/sentinel-menu/
   docs:
@@ -91,6 +94,9 @@
         - link: /docs/tools/calculators/vector-index/
     - link: /docs/tools/spatial-tools/
     - link: /docs/tools/risk_surface_methodology/
+    - link: /docs/tools/v5/v5-menu/
+      docs:
+        - link: /docs/tools/v5/tick-anomaly/
 - title: Issues
   link: /docs/issues/
 - title: Settings
