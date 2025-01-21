@@ -110,7 +110,8 @@ To assist VectorSurv agency understand these validation rules, this document pro
 - A pool of 25 *Culex pipiens* would NOT be valid.
 
 ***
-***
+
+## Validation Logic Rules in the VectorSurv API
 
 To allow for greater flexibility when accessing the VectorSurv system programatically through the VectorSurv API, slight differences in data validation are allowed. These difference are listed below.
 
