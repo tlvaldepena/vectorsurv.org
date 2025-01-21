@@ -49,7 +49,7 @@
             Integrate VectorSurv with other software using the VectorSurv API. Our RESTful API provides a way for you to use your VectorSurv data in other software applications.
           </p>
           <div class="new-button">
-            <a class="linkclass" href="/docs/vectorsurv-api/vectorsurv-api/" alt="VectorSurv API">VectorSurv API</a><br>
+            <a class="linkclass" href="/docs/vectorsurv-api/" alt="VectorSurv API">VectorSurv API</a><br>
           </div>
       </li>
     </ml>

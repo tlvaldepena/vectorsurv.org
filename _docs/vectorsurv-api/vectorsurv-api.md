@@ -1,5 +1,6 @@
 ---
 title: VectorSurv API
+permalink: /docs/vectorsurv-api/
 ---
 
 # Integrate with VectorSurv!
@@ -7,7 +8,7 @@ The VectorSurv API allows you to connect to the VectorSurv system, providing a w
 
 ## Analyze your data in R using vectorsurvR
 <img style="float:left; padding-right:1em; width:400px;" src="/assets/images/docs/rsamples.jpg" alt="Sample R Visualizations">
-The [vectorsurvR package](/docs/vectorsurv-api/vectorsurvr/) is an easy way to perform analysis and create custom visualizations using your VectorSurv data. You don't need to be a programmer. VectorSurvR provides easy-to-use functions to pull exactly the data you need from the API, and makes it available as a starting point for calculations and visualizations. 
+The [vectorsurvR package](/docs/vectorsurvr/) is an easy way to perform analysis and create custom visualizations using your VectorSurv data. You don't need to be a programmer. VectorSurvR provides easy-to-use functions to pull exactly the data you need from the API, and makes it available as a starting point for calculations and visualizations. 
 
 
 <div style="clear:both;"></div>
