@@ -1,5 +1,6 @@
 ---
 title: vectorSurvR Package
+permalink: /docs/vectorsurvr/
 ---
 
 # Getting Started with vectorsurvR

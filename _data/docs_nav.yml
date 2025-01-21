@@ -121,8 +121,9 @@
   docs:
     - link: /docs/maps/dengue/
 - title: API
-  link: /docs/vectorsurv-api/vectorsurv-api/
+  link: /docs/vectorsurv-api/
   docs:
-    - link: /docs/vectorsurv-api/vectorsurv-api/
-    - link: /docs/vectorsurv-api/vectorsurvr/
+    - link: /docs/vectorsurv-api/
+    - link: /docs/vectorsurvr/
+    
   
