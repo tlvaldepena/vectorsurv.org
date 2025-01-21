@@ -40,14 +40,17 @@
       </li>
       <li>
          <h2>
-            VectorSurv Open Data
+            VectorSurv API
         </h2>       
         <figure>
-          <img src="/assets/images/comingsoon3.png" alt="Coming Soon">
+          <img src="/assets/images/api-banner.png" alt="VectorSurv API">
         </figure>
-            <p>
-            Soon you'll be able to download mosquito abundance and arbovirus surveillance data from participating VectorSurv agencies in order to conduct your own research.  
-            </p>
+          <p>
+            Integrate VectorSurv with other software using the VectorSurv API. Our RESTful API provides a way for you to use your VectorSurv data in other software applications.
+          </p>
+          <div class="new-button">
+            <a class="linkclass" href="/docs/vectorsurv-api/vectorsurv-api/" alt="VectorSurv API">VectorSurv API</a><br>
+          </div>
       </li>
     </ml>
   </section>
@@ -70,21 +73,21 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 26 </h2>
+        <h2> 27 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
         <figure>
           <img src="/assets/images/enterprise.png" alt="icon of agency">
         </figure>
-        <h2> 239+ </h2>
+        <h2> 260+ </h2>
         <h3> agencies </h3>
     </div>
     <div class= "box3">
         <figure>
           <img src="/assets/images/student.png" alt="icon of student">
         </figure>
-        <h2> 1000+ </h2>
+        <h2> 1800+ </h2>
         <h3> users </h3>
     </div> 
 </div>
