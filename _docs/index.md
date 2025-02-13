@@ -48,7 +48,7 @@ permalink: /docs/
             <a class="linkclass" href="{{ site.baseurl }}/docs/maps/maps-menu/">Maps</a>
         </li>
         <li>
-            <a class="linkclass" href="https://docs.api.vectorsurv.org/">API</a>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/vectorsurv-api/">API</a>
         </li>
     </div>
 </div>
