@@ -32,6 +32,9 @@ permalink: /docs/
         <li>
             <a class="linkclass" href="{{ site.baseurl }}/docs/resistance/resistance-menu/">Resistance</a>
         </li>
+        <li>
+            <a class="linkclass" href="{{ site.baseurl }}/docs/service-visit/service-visit-menu/">Service Visit</a>
+        </li>
          <li>
             <a class="linkclass" href="{{ site.baseurl }}/docs/tools/tools-menu/">Tools</a>
         </li>
