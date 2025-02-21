@@ -4,9 +4,9 @@ v5: true
 gateway-url: https://gateway.vectorsurv.org/v5/servicevisit/visit
 ---
 
-Service Visit records are .....?
+A Service visit is a record of any work your agency has done in the field. You can record where you went and what you did while there. If you did any inspections or applied pesticide those can be entered explicitly.
 
-## Site Visit Form
+## Service Visit Form
 
 **Fields**
 
@@ -28,15 +28,10 @@ Service Visit records are .....?
 
 - **Comments**: Add any notes that may be of interest here.
 
-## Applications
+### Applications
 
-After saving the Service Visit record the user will have the ability to create or link associated application records.
+After saving the Service Visit record the user will have the ability to create or link associated **[Application records]({{ site.baseurl}}/docs/service-visit/service-visit-application)** .
 
-**Table**
+### Inspections
 
-Any associated applications will be displayed in the table here. Users can sort the table by clicking on the appropriate column header. Clicking on the "pencil" icon will allow the user to edit the associated application. The "link-slash" icon will unlink the record from the Service Visit.
-
-**Linking**
-
-Clicking the **Link Application** button will open up a panel for assocaiating existing application records
-![Address input](/assets/images/docs/application-modal.PNG)
+After saving the Service Visit record the user will also have the ability to create or link associated **[Inspection/Collection records]({{ site.baseurl}}/docs/service-visit/service-visit-inspection)**.
