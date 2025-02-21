@@ -10,7 +10,7 @@ View saved Service Visit records.
 
 ### Filter By:
 
-- **Recent**: See most recently created records. The "Show Me" filed allows you to choose the most recent 5 to 100 records.
+- **Recent**: See most recently created records. The "Show Me" field allows you to choose the most recent 5 to 100 records.
 
 - **Date**: Select a custom timeframe to search for records. Choose the appropriate values using the start and end datepickers. You can type a date value in the format set under Account Preferences or pick a date using the datepicker UI. The # column on the left with the gray circles represent disease weeks. Clicking on a disease week number will autopopulate the start/end inputs with the appropriate values for that disease week.
 
