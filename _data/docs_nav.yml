@@ -82,6 +82,14 @@
         - link: /docs/resistance/bottle-bioassay/
         - link: /docs/resistance/bioassay-manage/
         - link: /docs/resistance/bioassay-calculator/
+- title: Service Visit
+  link: /docs/service-visit/service-visit-menu/
+  docs:
+    - link: /docs/service-visit/service-visit/
+      docs:
+        - link: /docs/service-visit/service-visit-application/
+        - link: /docs/service-visit/service-visit-inspection/
+    - link: /docs/service-visit/service-visit-manage/
 - title: Tools
   link: /docs/tools/tools-menu/
   docs:
@@ -125,5 +133,3 @@
   docs:
     - link: /docs/vectorsurv-api/
     - link: /docs/vectorsurvr/
-    
-  
