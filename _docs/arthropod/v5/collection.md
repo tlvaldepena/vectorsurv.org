@@ -140,8 +140,7 @@ collection, including the reason(s) for trap failure, for example.
 
 ## Species Count {#species-count}
 
-Use this section to enter arthropods found in the trap. Once a species
-has been added to the collection, it will appear in the table below.
+Use this section to enter arthropods found in the trap.
 
 **Ticks:** Use the [tick
 module]({{ site.baseurl }}/docs/tick/tick-menu/) if entering a tick
@@ -151,24 +150,27 @@ legacy form is provided in case you need to edit the data.
 
 ### Input Methods:
 
-You will see a single mobile-friendly form if your screen size is smaller than 768px. If your screen size is larger than 768px, there you will see two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and the mobile-friendly form where you can input one abundance at a time. Switching between forms will discard any edits you made to the current form. Changing screen size will affect which input methods are available unless there are live edits that have not been saved. Once you have cleared or saved your edits, the input methods will respond to the new screen size. The input style will remember the last selection you made (eg: If you selected Form Input, it will always load on Form Input until you select Tabular Input, then it will always load the Tabular Input first.)
+You will see a single mobile-friendly form if your screen size is smaller than 768px. If your screen size is larger than 768px, there you will see two input methods: A tabular input similar to the legacy form where you can update multiple abundances in one go and the mobile-friendly form where you can input one abundance at a time. The input style will remember the last selection you made (eg: If you selected Form Input, it will always load on Form Input until you select Tabular Input, then it will always load the Tabular Input first.)
+
+Note: Edits made using either style of input are not saved until the Save Collection or Update Collection button has been clicked.
 
 #### Tabular Input
 
-  ![Tabular Input](/assets/images/docs/new_collection_tabular.png)
+![Tabular Input](/assets/images/docs/new_collection_tabular.png)
 
-  - Note: Edits made in the tabular input (including clicking the X to remove a row) are not saved until you click the Save Changes button.
-  - To enter an abundance first select the species that make up this abundance. Start typing to filter the list. Each row must have a unique species not already entered for this collection. The list of species in the dropdown can be adjusted through the Available Species settings on the [arthropod configuration page]({{ site.baseurl }}/docs/arthropod/trap-types/).
-  - When you select a species a new unpopulated row will automatically appear. This is for convenience so the user does not have to manually create each new row. This will not create a new empty abundance.
-  - After a species is selected, you can input counts for each sex/stage/condition column. ‘Σ F’ represents the total number of females for the row’s species across F-Mixed, F-Unfed, F-Bloodfed and F-Gravid. Each row must have at least one count. It is not necessary to mark 0 counts as that is assumed when left blank or absent from the form.
-    - You can enter either F-Mixed OR any combination of F-Unfed, F-Bloodfed and F-Gravid. For example, if you input a count for F-Bloodfed, the F-Mixed input will become disabled. If you input a count for F-Mixed, F-Unfed, F-Bloodfed and F-Gravid will all be disabled.
-  - The bottom row represents totals for each sex/stage/condition across species.
-  - **Action Buttons:**
-    ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
+- To enter an abundance first select the species that make up this abundance. Start typing to filter the list. Each row must have a unique species not already entered for this collection. The list of species in the dropdown can be adjusted through the Available Species settings on the [arthropod configuration page]({{ site.baseurl }}/docs/arthropod/trap-types/).
+- When you select a species a new unpopulated row will automatically appear. This is for convenience so the user does not have to manually create each new row. This will not create a new empty abundance.
+- After a species is selected, you can input counts for each sex/stage/condition column. ‘Σ F’ represents the total number of females for the row’s species across F-Mixed, F-Unfed, F-Bloodfed and F-Gravid. Each row must have at least one count. It is not necessary to mark 0 counts as that is assumed when left blank or absent from the form.
+  - You can enter either F-Mixed OR any combination of F-Unfed, F-Bloodfed and F-Gravid. For example, if you input a count for F-Bloodfed, the F-Mixed input will become disabled. If you input a count for F-Mixed, F-Unfed, F-Bloodfed and F-Gravid will all be disabled.
+- The bottom row represents totals for each sex/stage/condition across species.
+- **Action Buttons:**
+  ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
+- **Keyboard Shortcuts:**
+  While focused on a cell, hold Ctrl + Alt + C (Windows) or Ctrl + ⌘ + C (Mac) to copy the abundance to the Pool form below. If entering abundance for a presence-type trap, you can focus on a cell without checking/unchecking the input by clicking just to the left of the checkbox and pressing tab.
 
 #### Form Input
 
-  ![Species Form Input](/assets/images/docs/new_collection_species_form.png)
+![Species Form Input](/assets/images/docs/new_collection_species_form.png)
 
 - **Fields**
 
@@ -186,6 +188,7 @@ You will see a single mobile-friendly form if your screen size is smaller than 7
 ### Abundance Table:
 
 - **Action buttons**:
+  ![Copy icon](/assets/images/docs/action-button-copy.png): Copy the selected abundance to the pool form. The species, sex and count of the selected abundance will be copied to the pool form.
 
   ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected abundance. The
   abundance information will populate in the form and will no longer be
@@ -244,19 +247,35 @@ existing pools linked to this collection.
 
 - **Comments:** Any accompanying comments.
 
-- **Count/Count per Pool:** The total number of specimens in this
-  pool/each pool (if generating batches of more than one pool). If
-  this pool has specimens from more than one site, the number of
-  specimens from the primary site (**Site Code** column) will be
-  determined from this value.
+- **Generating New Pools:** These fields only appear when generating new pools. Pools to be generated will appear in the New Pools table. They are not permanently saved until the Save/Update Collection button has been clicked.
 
-- **\# of Pools:** The number of pools to generate. This field only
-  appears when creating new pool(s).
+  - **Total Count:** The total number of specimens in this
+    pool/across all pools (if generating batches of more than one pool). Minimum of 1. After selecting a species and sex/condition combination, the field will autopopulate with counts from abundances provided in the Species Card, if available.
+
+  - **Max Pool Size:** The maximum size of each pool to be generated. For example, if generating pools for 125 specimens total with a max pool size of 50, there will be two pools of 50 to make 100 and one leftover pool of 25 to meet the total count. Minimum of 1.
+
+  - **\# of Pools:** View-only field. The number of pools to be generated.
+
+  - **Add New Pool(s):** You must first click this button to generate new temporary pools you can view and edit. Once the temporary pools are generated, you must click Save/Update Collection to save them permanently, after which they will appear in the Linked Pools table.
+
+- **Updating a single pool:**
+
+  - **Count:** The total number of specimens in this pool. Minimum of 1.
 
 - **Secondary Sites:** If this pool has specimens from more than one
   site, a view-only table will appear in the form that lists the
-  secondary sites and count (if any) for each site. You may return to
+  secondary sites and count (if any) for each site. The number of specimens from the primary site (**Site Code** column) will be determined from this value. You may return to
   the legacy form if you wish to edit any of these secondary sites.
+
+**New Pools**
+A table of temporary pools that will be saved when the Save/Update Collection button is clicked.
+
+- Action buttons:
+  ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected pool. The pool
+  information will populate in the form and will no longer be viewable in
+  the table. (The data is only moved temporarily -- clearing the pool form will return the pool to the New Pools table)
+  ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
+  **Clear New Pools:** Removes all rows from the New Pools table.
 
 **Link Existing Pools:**
 
