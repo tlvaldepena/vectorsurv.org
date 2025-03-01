@@ -5,36 +5,36 @@
 - title: Sites
   link: /docs/site/site-menu/
   docs:
-    - link: /docs/site/
-    - link: /docs/site/site_manage/
-    - link: /docs/site/site-group/
     - link: /docs/site/v5/site-menu/
       docs:
         - link: /docs/site/v5/site/
         - link: /docs/site/v5/site-manage/
         - link: /docs/site/v5/walkthroughs/
+    - link: /docs/site/site-group/
+    - link: /docs/site/
+    - link: /docs/site/site_manage/
 - title: Arthropod
   link: /docs/arthropod/arthro_menu/
   docs:
     - link: /docs/arthropod/trap-types/
-    - link: /docs/arthropod/abundance/
-      docs:
-        - link: /docs/arthropod/collection/
-        - link: /docs/arthropod/collection-manage/
-        - link: /docs/arthropod/worksheets/
-        - link: /docs/tools/calculators/anomaly/
-        - link: /docs/arthropod/collection-reports/
-    - link: /docs/arthropod/pools_menu/
-      docs:
-        - link: /docs/arthropod/pool/
-        - link: /docs/arthropod/pool_manage/
-        - link: /docs/arthropod/testing/
     - link: /docs/arthropod/v5/v5-menu/
       docs:
         - link: /docs/arthropod/v5/collection/
         - link: /docs/arthropod/v5/collection-manage/
         - link: /docs/arthropod/v5/pool/
         - link: /docs/arthropod/v5/pool-manage/
+    - link: /docs/arthropod/abundance/
+      docs:
+        - link: /docs/arthropod/worksheets/
+        - link: /docs/tools/calculators/anomaly/
+        - link: /docs/arthropod/collection-reports/
+        - link: /docs/arthropod/collection/
+        - link: /docs/arthropod/collection-manage/
+    - link: /docs/arthropod/pools_menu/
+      docs:
+        - link: /docs/arthropod/testing/
+        - link: /docs/arthropod/pool/
+        - link: /docs/arthropod/pool_manage/
 - title: Tick
   link: /docs/tick/tick-menu/
   docs:

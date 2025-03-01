@@ -398,7 +398,7 @@ section.content hr {
   // border-bottom: 1px solid #ececec;
   // margin-top: 20px;
   border-top: 1px solid #003366;
-  margin-bottom:1rem;
+  margin-bottom: 1rem;
   // border: 1px solid white;
 }
 
@@ -1446,8 +1446,23 @@ section.content h3 {
   margin: 20px 0px;
 }
 
+.gateway-url h4 {
+  margin-bottom: 0.5rem;
+}
+
 .additional-resources {
   margin-top: -15px;
+}
+.additional-resources h4 {
+  margin-bottom: 0rem;
+}
+
+.try-new {
+  border: 2px solid #0073e6;
+  padding: 0.4rem;
+  width: fit-content;
+  border-radius: 5px;
+  background-color: rgba(187, 239, 253, 0.3);
 }
 
 .bottom .wrap-outer {

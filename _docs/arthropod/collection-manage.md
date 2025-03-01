@@ -1,5 +1,6 @@
 ---
-title: Collection Management
+title: Collection Management (Legacy)
+try-new: https://gateway.vectorsurv.org/v5/mosquito/collection/manage
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/collection_manage
 ---
 

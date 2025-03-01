@@ -5,11 +5,11 @@ gateway-url: https://gateway.vectorsurv.org/core/ppf/menu/path/42
 
 ## Abundance menu
 
-### [New Collection]({{ site.baseurl }}/docs/arthropod/collection)
+### [New Collection (Legacy)]({{ site.baseurl }}/docs/arthropod/collection)
 
 Record arthropod population data through the placement of traps.
 
-### [Collection Management]({{ site.baseur1 }}/docs/arthropod/collection-manage)
+### [Collection Management (Legacy)]({{ site.baseur1 }}/docs/arthropod/collection-manage)
 
 View and edit saved abundance records.
 

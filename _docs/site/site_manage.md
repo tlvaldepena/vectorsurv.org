@@ -1,5 +1,6 @@
 ---
-title: Site Management
+title: Site Management (Legacy)
+try-new: https://gateway.vectorsurv.org/v5/site/manage
 gateway-url: https://gateway.vectorsurv.org/site/ppf/manage
 ---
 

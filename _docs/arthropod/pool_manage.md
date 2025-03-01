@@ -1,5 +1,6 @@
 ---
-title: Pool Management
+title: Pool Management (Legacy)
+try-new: https://gateway.vectorsurv.org/v5/mosquito/pool/manage
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool_manage
 ---
 
