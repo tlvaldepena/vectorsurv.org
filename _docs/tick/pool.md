@@ -117,14 +117,18 @@ One or the other should be used to submit a single pool.
     ![Collapsible arrow icon](/assets/images/docs/action-button-expand.png):
     Opens subtable to view species details.
 
-- **Count/Count per Pool**: The total number of specimens in this
-  pool/each pool (if generating batches of more than one pool). If
-  this pool has specimens from more than one site, the number of
-  specimens from the primary site (**Site Code** column) will be
-  determined from this value.
+- **Generating New Pools:** These fields only appear when generating new pools.
 
-- **\# of Pools:** The number of pools to generate. This field only
-  appears when creating new pool(s).
+  - **Total Count:** The total number of specimens in this
+    pool/across all pools (if generating batches of more than one pool). Minimum of 1.
+
+  - **Max Pool Size:** The maximum size of each pool to be generated. Minimum of 1. For example, if generating pools for 125 specimens total with a max pool size of 50, there will be two pools of 50 to make 100 and one leftover pool of 25 to meet the total count.
+
+  - **\# of Pools:** View-only field. The number of pools to be generated.
+
+- **Updating a single pool:**
+
+  - **Count:** The total number of specimens in this pool. Minimum of 1.
 
 ---
 
