@@ -26,8 +26,22 @@ layout: defaultdocs
 
     {% if page.gateway-url %}
     <div class="gateway-url">
+      {% if page.try-new %}
+      <h4 class="try-new">
+        View the new
+        <div class="v5-badge">v5</div>
+        version of this page:
+        <a href="{{ page.try-new }}">{{ page.try-new }}</a>
+      </h4>
+      {% endif %} {% if page.GUI-url %}
       <h4>
-        Gateway URL: <a href="{{ page.gateway-url }}">{{ page.gateway-url }}</a>
+        <div class="v5-badge">v5</div>
+        URL: <a href="{{ page.GUI-url }}">{{ page.GUI-url }}</a>
+      </h4>
+      {% endif %}
+      <h4>
+        Gateway URL:
+        <a href="{{ page.gateway-url }}">{{ page.gateway-url }}</a>
       </h4>
       {% if page.youtube-url %}
       <h4>
@@ -36,9 +50,7 @@ layout: defaultdocs
       </h4>
       {% endif %}
     </div>
-    {% endif %}
-    
-    {% if page.additional-resources %}
+    {% endif %} {% if page.additional-resources %}
     <div class="gateway-url additional-resources">
       <h4>Additional Resources:</h4>
       {% for resource in page.additional-resources %}

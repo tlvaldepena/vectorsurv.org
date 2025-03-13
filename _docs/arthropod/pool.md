@@ -1,5 +1,6 @@
 ---
-title: New Pools
+title: New Pools (Legacy)
+try-new: https://gateway.vectorsurv.org/v5/mosquito/pool/pool
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/pool
 youtube-url: https://youtu.be/cZAveMzkIvU
 ---

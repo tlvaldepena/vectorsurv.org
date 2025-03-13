@@ -102,3 +102,18 @@ The resulting table is downloadable. Select your preferred file format and click
 - **Download Screenshot**: Downloads a png of the selected graph.
 - **Log Scale**: Converts the y-axis to use a logarithmic scale. A logarithmic scale is useful for visualizing data with a wide range of values, compressing large numbers and expanding smaller ones.
 - **Viewing Historical Years**: By default only the lines for the selected year and the mean show on the graph. To the right of the graph is a legend of the lines. Crossed out lines are available, but not currently visible on the graph. Clicking on any item in the legend will toggle its visibility on the graph.
+
+## Calculation Presets
+
+![Calculation preset dropdown and edit button](/assets/images/docs/calculation-preset-dropdown.png)
+
+To load a previously saved calculation click on the 'Select A Calculation' dropdown and select a preset. The selected default calculation will be marked with an \* after the name. Calculations are grouped by calculations private to you (User) and by calculations that have been shared with the agency you are currently logged in under (these might be owned by you or owned by others and shared with you through your access to the agency).
+
+To save a calculation for future use, you can click the Save Calculation button at the bottom right of the page or click the pencil icon to the right of the calculation select dropdown, as seen in the image above.
+
+- **Name:** Provide a name for the calculation so you can identify it in the dropdown select later.
+- **Share With Agency:** This lets you share the current calculation with other members of the agency you are currently logged in under. Only you can edit the calculation name and configuration, but an agency manager can elect to unshare any calculation shared with their agency. Other members of your agency may also save personal copies of a shared calculation.
+- **Set as Default:** This option lets you set a calculation as your default. Whenever you visit the Tick Abundance Anomaly calculator page, it will load the selected default calculation. There can only be one default. This appears as a checkbox when saving a new calculation. When updating an existing calculation, click on the thumback icon in the modal header. When the icon is grey, the calculation is not set as the default. If the thumbtack is blue, the calculation is the current default.
+  ![Thumbtack icon](/assets/images/docs/action-button-thumbtack.png).
+- **Save updates to calculation settings:** This only appears when you have loaded a preset and made changes to the inputs on the calculation form. By default this is checked. However, if you made changes to the calculation that you don't want to save, but you want to change the preset name or share with the preset with our agency, you may uncheck this box to ensure only the preset settings update, not the calculation settings themselves.
+- **Save As New:** Save a copy of this calculation that will be owned by you.

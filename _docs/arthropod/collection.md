@@ -1,5 +1,6 @@
 ---
-title: New Collection
+title: New Collection (Legacy)
+try-new: https://gateway.vectorsurv.org/v5/mosquito/collection/collection
 gateway-url: https://gateway.vectorsurv.org/arthro/ppf/collection
 youtube-url: https://youtu.be/cZAveMzkIvU
 ---

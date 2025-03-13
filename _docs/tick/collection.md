@@ -162,6 +162,8 @@ collection, including the reason(s) for trap failure, for example.
 Use this section to enter ticks in the collection. Once a species has
 been added to the collection, it will appear in the table below.
 
+Note: Edits made to the Species Count are not saved until the Save Collection or Update Collection button has been clicked.
+
 **Fields**
 
 - **Species**: The species that make up this abundance. Start typing
@@ -188,6 +190,8 @@ been added to the collection, it will appear in the table below.
 **Abundance Table:**
 
 - **Action Buttons:**  
+  ![Copy icon](/assets/images/docs/action-button-copy.png): Copy the selected abundance to the pool form. The species, sex and count of the selected abundance will be copied to the pool form.
+
   ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected abundance. The
   abundance information will populate in the form and will no longer be
   viewable in the table. (The data is only moved locally -- if you do not
@@ -242,14 +246,35 @@ existing pools linked to this collection.
 
 - **Comments:** Any accompanying comments.
 
-- **Count/Count per Pool:** The total number of specimens in this
-  pool/each pool (if generating batches of more than one pool). If
-  this pool has specimens from more than one site, the number of
-  specimens from the primary site (**Site Code** column) will be
-  determined from this value.
+- **Generating New Pools:** These fields only appear when generating new pools. Pools to be generated will appear in the New Pools table. They are not permanently saved until the Save/Update Collection button has been clicked.
 
-- **\# of Pools:** The number of pools to generate. This field only
-  appears when creating new pool(s).
+  - **Total Count:** The total number of specimens in this
+    pool/across all pools (if generating batches of more than one pool). Minimum of 1. After selecting a species and sex/condition combination, the field will autopopulate with counts from abundances provided in the Species Card, if available.
+
+  - **Max Pool Size:** The maximum size of each pool to be generated. For example, if generating pools for 125 specimens total with a max pool size of 50, there will be two pools of 50 to make 100 and one leftover pool of 25 to meet the total count. Minimum of 1.
+
+  - **\# of Pools:** View-only field. The number of pools to be generated.
+
+  - **Add New Pool(s):** You must first click this button to generate new temporary pools you can view and edit. Once the temporary pools are generated, you must click Save/Update Collection to save them permanently, after which they will appear in the Linked Pools table.
+
+- **Updating a single pool:**
+
+  - **Count:** The total number of specimens in this pool. Minimum of 1.
+
+- **Secondary Sites:** If this pool has specimens from more than one
+  site, a view-only table will appear in the form that lists the
+  secondary sites and count (if any) for each site. The number of specimens from the primary site (**Site Code** column) will be determined from this value. You may return to
+  the legacy form if you wish to edit any of these secondary sites.
+
+**New Pools**
+A table of temporary pools that will be saved when the Save/Update Collection button is clicked.
+
+- Action buttons:
+  ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected pool. The pool
+  information will populate in the form and will no longer be viewable in
+  the table. (The data is only moved temporarily -- clearing the pool form will return the pool to the New Pools table)
+  ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
+  **Clear New Pools:** Removes all rows from the New Pools table.
 
 **Link Existing Pools:**
 
