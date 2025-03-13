@@ -188,6 +188,7 @@ Note: Edits made using either style of input are not saved until the Save Collec
 ### Abundance Table:
 
 - **Action buttons**:
+
   ![Copy icon](/assets/images/docs/action-button-copy.png): Copy the selected abundance to the pool form. The species, sex and count of the selected abundance will be copied to the pool form.
 
   ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected abundance. The
@@ -196,7 +197,7 @@ Note: Edits made using either style of input are not saved until the Save Collec
   finish editing the form or there are technical issues the abundance data
   will still be saved on the collection.)
 
-  ![Red trash can icon](/assets/images/docs/action-button-delete.png): Delete the selected abundance.
+  ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected abundance from the table. (The data is only removed locally -- you must save/update the collection to persist this change.)
 
   ![Go to legacy site](/assets/images/docs/action-button-legacy-link.png): Return to the legacy form to edit a
   tick abundance.
@@ -271,10 +272,13 @@ existing pools linked to this collection.
 A table of temporary pools that will be saved when the Save/Update Collection button is clicked.
 
 - Action buttons:
+
   ![Pencil icon](/assets/images/docs/action-button-edit.png): Edit the selected pool. The pool
   information will populate in the form and will no longer be viewable in
   the table. (The data is only moved temporarily -- clearing the pool form will return the pool to the New Pools table)
+
   ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
+
   **Clear New Pools:** Removes all rows from the New Pools table.
 
 **Link Existing Pools:**
