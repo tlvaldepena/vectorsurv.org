@@ -262,11 +262,14 @@ existing pools linked to this collection.
 - **Updating a single pool:**
 
   - **Count:** The total number of specimens in this pool. Minimum of 1.
+  <!-- invisible character to create shortcut without making it a header -->
 
-- **Secondary Sites:** If this pool has specimens from more than one
-  site, a view-only table will appear in the form that lists the
-  secondary sites and count (if any) for each site. The number of specimens from the primary site (**Site Code** column) will be determined from this value. You may return to
-  the legacy form if you wish to edit any of these secondary sites.
+###### ‎ {#secondary-sites}
+
+- **Secondary Sites:**
+  If the pool contains specimens from more than one trap, up to two secondary sites can be added. To indicate where the additional specimens were collected, enter the site code for their collection location. It is also recommended to enter a count of the specimens included so that VectorSurv can validate the pool sample count.
+
+  Note that calculations in VectorSurv are based on the specified location of the pool, not the location of additional specimens from secondary sites.
 
 **New Pools**
 A table of temporary pools that will be saved when the Save/Update Collection button is clicked.
@@ -318,6 +321,6 @@ red of what it was positive for.
 
 - **Totals:**
 
-  - Total Count: Total number of specimen across all pools the table.
+  - Total Count: Total number of specimen across all pools in the table.
 
   - Total Pools: Total number of pools linked to the collection.
