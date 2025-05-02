@@ -4,7 +4,7 @@ v5: true
 gateway-url: https://gateway.vectorsurv.org/v5/servicevisit/visit
 ---
 
-After creating a Service Visit record a new Application card will appear below the Service Visit form. Users may create new Application records here or link already existing Applications.
+After creating a Service Visit record a new Application card will appear below the Service Visit form. Users may create new Application records here or link already existing Applications. Applications will appear on PUR reports and can be viewed or edited in the Application module as well as here.
 
 ![Associated Collections Card](/assets/images/docs/application-card-service-visit-module.png)
 

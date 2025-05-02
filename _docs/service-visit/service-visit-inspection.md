@@ -15,6 +15,7 @@ Any associated Inspections will be displayed in the table here. Users can sort t
 **Linking Inspections**
 
 Clicking the **Link Collection** button will open up a panel for associating existing collection records
+
 ![Address input](/assets/images/docs/Inspection_link_form_service_visit_module.png)
 
 - The map will show all Collections within seven days of the Service Vsiit record.
