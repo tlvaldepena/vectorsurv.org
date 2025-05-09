@@ -107,8 +107,7 @@ One or the other should be used to submit a single pool.
 
   - **Action Buttons:**  
     ![Link icon](/assets/images/docs/action-button-link.png): Link the pool to the selected collection. The pool's **collection date**, **site** and **trap**
-    values will be overwritten by those of the selected collection. It
-    will also remove any **secondary sites** associated with the pool. You
+    values will be overwritten by those of the selected collection. You
     may only link to one collection per pool.
 
     ![Unlink icon](/assets/images/docs/action-button-unlink.png): Indicates pool is currently linked to
