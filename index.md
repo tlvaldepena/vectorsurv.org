@@ -73,7 +73,7 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 28 </h2>
+        <h2> 31 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
@@ -142,6 +142,19 @@
                 </p>
             </details>
             <details>
+              <summary>Florida</summary>
+              <p>
+                <ul>
+                  <li>
+                    <a href="https://www.floridahealth.gov/diseases-and-conditions/mosquito-borne-diseases/index.html" target="_blank">Florida Department of Health</a>
+                  </li>
+                  <li>
+                    <a href="https://www.fdacs.gov/Business-Services/Mosquito-Control/Mosquitoes-General-Information" target="_blank">Florida Department of Agriculture and Consumer Services</a>
+                  </li>
+                </ul>
+              </p>
+            </details>
+            <details>
                 <summary>Hawaii</summary>
                 <p>
                   <ul>
@@ -161,6 +174,16 @@
                   </ul>
                 </p>
             </details>
+            <details>
+              <summary>Kansas</summary>
+              <p>
+                <ul>
+                  <li>
+                    <a href="https://www.kdhe.ks.gov/2240/Mosquitoes" target="_blank">Kansas Department of Health and Environment</a>
+                  </li>
+                </ul>
+              </p>
+            </details>
             <!-- <details>
                 <summary>Kentucky</summary>
                 <p>
@@ -178,6 +201,16 @@
                     </li>
                   </ul>
                 </p>
+            </details>
+            <details>
+              <summary>Maine</summary>
+              <p>
+                <ul>
+                  <li>
+                    <a href="https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/vector-borne/mosquito/mosquito-prevention-and-property-management.shtml" target="_blank">Maine Center for Disease Control & Prevention</a>
+                  </li>
+                </ul>
+              </p>
             </details>
             <details>
                 <summary>Nebraska</summary>
@@ -221,6 +254,19 @@
                     </li>
                   </ul>
                 </p>
+            </details>
+            <details>
+              <summary>New Mexico</summary>
+              <p>
+                <ul>
+                  <li>
+                    <a href="https://www.nmhealth.org/" target="_blank">New Mexico Department of Health</a>
+                  </li>
+                  <li>
+                    <a href="https://www.cabq.gov/environmentalhealth/urban-biology" target="_blank">City of Albuquerque, Environmental Health Department, Urban Biology Division</a>
+                  </li>
+                </ul>
+              </p>
             </details>
             <details>
                 <summary>New York</summary>
