@@ -175,6 +175,16 @@
                 </p>
             </details>
             <details>
+              <summary>Indiana</summary>
+              <p>
+                <ul>
+                  <li>
+                    <a href="https://www.in.gov/health/idepd/zoonotic-and-vectorborne-epidemiology-entomology/" target="_blank">Indiana Department of Health</a>
+                  </li>
+                </ul>
+              </p>
+            </details>
+            <details>
               <summary>Kansas</summary>
               <p>
                 <ul>
