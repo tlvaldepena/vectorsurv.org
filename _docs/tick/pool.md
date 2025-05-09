@@ -107,8 +107,7 @@ One or the other should be used to submit a single pool.
 
   - **Action Buttons:**  
     ![Link icon](/assets/images/docs/action-button-link.png): Link the pool to the selected collection. The pool's **collection date**, **site** and **trap**
-    values will be overwritten by those of the selected collection. It
-    will also remove any **secondary sites** associated with the pool. You
+    values will be overwritten by those of the selected collection. You
     may only link to one collection per pool.
 
     ![Unlink icon](/assets/images/docs/action-button-unlink.png): Indicates pool is currently linked to
@@ -129,14 +128,6 @@ One or the other should be used to submit a single pool.
 - **Updating a single pool:**
 
   - **Count:** The total number of specimens in this pool. Minimum of 1.
-    <!-- invisible character to create shortcut without making it a header -->
-
-###### ‎ {#secondary-sites}
-
-- **Secondary Sites:**
-  If the pool contains specimens from more than one trap, up to two secondary sites can be added. To indicate where the additional specimens were collected, enter the site code for their collection location. It is also recommended to enter a count of the specimens included so that VectorSurv can validate the pool sample count.
-
-  Note that calculations in VectorSurv are based on the specified location of the pool, not the location of additional specimens from secondary sites.
 
 ---
 
