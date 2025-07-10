@@ -18,7 +18,7 @@ View multiple record types in one place. The Integrated Data View allows users t
 
 ## Tables
 
-After selecting the date filter and record types, relevant data will appear in a series of tabbed tables.
+After selecting the data, use the tabs to switch between the data tables for the included data.
 
 ![Data Table](/assets/images/docs/integrated-data-view-tables.png)
 
@@ -28,7 +28,7 @@ After selecting the date filter and record types, relevant data will appear in a
 
 - **Pagination**: If there are more than 5 records in a table, a pagination selector will appear at the bottom allowing users to page through data.
 
-- **Action Buttons**:
+- **Action Buttons**:If the user has the ability to manage data, they will see the following icons.
   - Clicking the **Delete icon** ![Red trash can icon](/assets/images/docs/action-button-delete.png) in a row allows users to delete the associated record.
   - Clicking the **Edit icon** ![Pencil icon](/assets/images/docs/action-button-edit.png) will open a new tab to view and/or edit the associated record.
 
