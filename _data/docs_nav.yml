@@ -90,6 +90,8 @@
         - link: /docs/service-visit/service-visit-application/
         - link: /docs/service-visit/service-visit-inspection/
     - link: /docs/service-visit/service-visit-manage/
+- title: Integrated Data View
+  link: /docs/integrated-data-view/integrated-data-view/
 - title: Tools
   link: /docs/tools/tools-menu/
   docs:
