@@ -40,7 +40,7 @@ $$\text{MIR} =  \frac{\text{Number Positive Pools}} {\text{Total Number Individu
 The **# of Calculations** indicator shows how many calculations will be performed based on the stratifications (checkboxes) that have been selected. If none of the boxes were checked, the vector index at the desired time interval will be aggregated to a single calculation. The resulting table showing the vector abundance for the selected year and the previous 5 years is downloadable. You also have the option to view a time series graph comparing the vector index at the selected time interval.
 
 - **Vector Index (VI)**: Vector index result which is calculated by multiplying the infection rate by the abundance for each interval
-- **Abundance**: Abundance is defined as the total number of specie collections divided by the total number of trapping opportunities for a given time interval
+- **Abundance**: Abundance is defined as the total number of arthropods collected divided by the total number of trap-nights for a given time interval
 - **Infection Rate**: Infection rate point estimate calculated from the selected method
 - **Count**: The interval sum of arthropods used in the abundance calculation.
 - **Trap Nights**: The total trapping effort for the time interval. This value is the interval sum of the number of traps set for a collection times the number of nights the traps were run for the trap types of interest.  For example, if a week contained two collections with CO2 traps: 5 traps run for 4 nights and 2 traps run for 1 night, the Trap Nights for that week would be: $$ (5 \times 4) + (2 \times 1) = 22 $$ regardless of whether the species of interest was found in these trap collections.
