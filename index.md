@@ -73,21 +73,21 @@
         <figure>
           <img src="/assets/images/mapicon.png" alt="icon of map of US">
         </figure>
-        <h2> 31 </h2>
+        <h2> 36 </h2>
         <h3> states and territories </h3>
     </div>
     <div class= "box3">
         <figure>
           <img src="/assets/images/enterprise.png" alt="icon of agency">
         </figure>
-        <h2> 270+ </h2>
+        <h2> 380+ </h2>
         <h3> agencies </h3>
     </div>
     <div class= "box3">
         <figure>
           <img src="/assets/images/student.png" alt="icon of student">
         </figure>
-        <h2> 1800+ </h2>
+        <h2> 2100+ </h2>
         <h3> users </h3>
     </div> 
 </div>
