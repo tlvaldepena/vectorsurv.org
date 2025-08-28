@@ -22,7 +22,7 @@ After selecting the data, use the tabs to switch between the data tables for the
 
 ![Data Table](/assets/images/docs/integrated-data-view-tables.png)
 
-- **Zoom To Record on Map**: Clicking on a row in the table will cause the map to pan to the relevant record. So, Clicking on the row for Arthro Collection #10 in the table pictured above would cause the map to pan & zoom until the associated marker was centered in the view.
+- **Zoom To Record on Map**: Clicking on a row in the table will cause the map to pan to the relevant record. So, clicking on the row for Arthro Collection #10 in the table pictured above would cause the map to pan & zoom until the associated marker was centered in the view.
 
 - **Sorting**: Click on column headers to sort data.
 
