@@ -4,7 +4,7 @@ permalink: /docs/vectorsurv-api/
 ---
 
 # Integrate with VectorSurv!
-The VectorSurv API allows you to connect to the VectorSurv system, providing a way to interact with your VectorSurv data outside of the [VectorSurv gateway](https://gateway.vectorsurv.org/). Here are some of the ways you can use the VectorSurv API.
+The VectorSurv API allows you to connect to the VectorSurv system, providing a way to interact with your VectorSurv data outside of the [VectorSurv Gateway](https://gateway.vectorsurv.org/). Here are some of the ways you can use the VectorSurv API.
 
 ## Analyze your data in R using vectorsurvR
 <img style="float:left; padding-right:1em; width:400px;" src="/assets/images/docs/rsamples.jpg" alt="Sample R Visualizations">
