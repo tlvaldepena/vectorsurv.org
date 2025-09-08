@@ -43,7 +43,7 @@ The spreadsheet must match the formatting of [the template spreadsheet](https://
 
 - Fields with set accepted values must match one of the values shown in the table above. For example, the Date Type column cell of each row can only be either "Report Date" or "Onset Date / Asymptomatic Test". If your spreadsheet contains a typo, you will be able to select your intended choice after the spreadsheet has been uploaded to the web browser and before the data has been saved to the database.
 
-- Each agency can have only one record per combination of reporting group, disease year, aggregation time frame, disease aggregation time frame value, pathogen, disease host, date type, and classification. If that combination already exists in the database, the id of that existing record will be shown in the table and the spreadsheet data's case count values will overwrite the values already in the database. If no idea is shown in the "Record to Update" column, then a new record will be created.
+- Each agency can have only one record per combination of reporting group, disease year, aggregation time frame, disease aggregation time frame value, pathogen, disease host, date type, and classification. If that combination already exists in the database, the id of that existing record will be shown in the table and the spreadsheet data's case count values will overwrite the values already in the database. If no id is shown in the "Record to Update" column, then a new record will be created.
 
 ## Updating Data
 
