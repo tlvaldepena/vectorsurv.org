@@ -16,7 +16,7 @@ A Service Visit is a record of any work your agency has done in the field. You c
 
 - **Flag**: Check this box to flag the record for future interest. Record any details in the Flag Description field.
 
-- **Flag Description**: Visible only when flag is checked. Record any details regarding the reason to flag here.
+- **Flag Description**: Visible only when flag is checked. Record any details regarding the reason to flag here. The flag description will appear when mousing over the flag icon on other pages.
 
 - **Visit Date**: The date the Service Visit was performed.
 
