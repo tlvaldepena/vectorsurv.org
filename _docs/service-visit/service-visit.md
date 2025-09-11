@@ -14,7 +14,9 @@ A Service Visit is a record of any work your agency has done in the field. You c
 
 - **Responder**: The person who performed the Service Visit.
 
-- **Flag**: Check this box to flag the record for future interest. Record any details in the Comments field.
+- **Flag**: Check this box to flag the record for future interest. Record any details in the Flag Description field.
+
+- **Flag Description**: Visible only when flag is checked. Record any details regarding the reason to flag here.
 
 - **Visit Date**: The date the Service Visit was performed.
 
