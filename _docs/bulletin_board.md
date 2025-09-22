@@ -5,13 +5,13 @@ gateway-url: https://gateway.vectorsurv.org/
 
 Agency and statewide messages may be displayed along with the changelog.
 
-After logging into the Vectorsurv Gateway, users will see a bulletin board containing one or more types of notes. Notes will appear on the bulletin board only if they have been created, so some users will see only one or two notes. To return to the bulletin board from any VectorSurv Gateway page, users can click the logo at the top of the screen.
+After logging into the VectorSurv Gateway, users will see a bulletin board containing one or more types of notes. Notes will appear on the bulletin board only if they have been created, so some users will see only one or two notes. To return to the bulletin board from any VectorSurv Gateway page, users can click the logo at the top of the screen.
 
 ![Bulletin Board Notes]({{ site.baseurl }}/assets/images/docs/bulletin_board.png)
 
 ## Note Types
 
-- **Changelog**: This is a record of notable changes made to the Vectorsurv Gateway over time. It includes records of changes such as bug fixes, new features, etc. The list is chronologically ordered with the latest changes at the top of the page. The changelog is visible to all Gateway users.
+- **Changelog**: This is a record of notable changes made to the VectorSurv Gateway over time, such as bug fixes, new features, etc. The list is chronologically ordered with the latest changes at the top of the page. The changelog is visible to all Gateway users.
 
 - **Agency**: This note type is available to make agency-wide announcements within each local agency. Agency notes can be created and edited by the agency managers defined for the agency, and once created, they are visible to all users within that agency.
 
@@ -29,7 +29,7 @@ Currently, the note for a particular state or agency consists of a single docume
 
 Agency managers within each agency are able to create and edit notes. Other users will be able to view the notes if they have been created.
 
-When an agency manager logs into the Vectorsurv Gateway, they will see either a button for creating notes (if a note has not been created previously) or for editing existing notes (if the note exists already). Clicking on the button will open the notes editing module.
+When an agency manager logs into the VectorSurv Gateway, they will see either a button for creating notes (if a note has not been created previously) or for editing existing notes (if the note exists already). Clicking on the button will open the notes editing module.
 
 ![Bulletin Board Editor]({{ site.baseurl }}/assets/images/docs/bulletin_board_editor.png)
 
