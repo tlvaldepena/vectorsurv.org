@@ -10,8 +10,8 @@ Add and edit reporting groups for use with Aggregate Case Count data.
 
 A reporting group record is a combination of the group name, the counties that are a part of that group, and the year.
 
-The group name must be unique for its year.
+## Fields
 
-A county can only be in one reporting group per year.
-
-A reporting group record must have at least one county.
+- **Counties**: The county or counties that make up the group. A reporting group must have at least one county.
+- **Name**: Must be unique for agency and year.
+- **Year**: Year for which this group of counties applies. A county can only be in one reporting group per year.

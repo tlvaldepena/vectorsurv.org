@@ -17,15 +17,19 @@ View saved aggregated human case / dead end host surveillance data records.
 
 ![Filter By Fields](/assets/images/docs/case-count-manage-filter-by-fields.png)
 
-**Download**
+**Action buttons**:
 
+![Download button](/assets/images/docs/action-button-dowload.png)
 This will download a .csv spreadsheet populated with the table data. Be sure to click the blue refresh button after selecting any filters to apply those filters to the table data.
 
-**Edit By Record**
+![Pencil icon](/assets/images/docs/action-button-edit.png): Edit a record.
 The pencil icon at the right of each row will take you to a form that will let you edit that record.
 
-**Delete**
+![Trashbin icon](/assets/images/docs/action-button-delete.png): Delete a record.
 The red trashbin icon at the right of each row will delete the record from the database.
 
-**Update**
-You can also update the case count numbers in the table itself without having to click through and edit each record individually. Just make the changes to the table, and then click the "Save Changes" button at the bottom of the page.
+![Save button](/assets/images/docs/action-button-save-changes.png)
+You can also update the case count numbers in the table itself without having to click through and edit each record individually. Just make the changes to the table, and then click the button at the bottom of the page.
+
+**Quick Edit**
+The case count number fields can be edited directly through the table. Changing the other fields' values would potentially invalidate the uniqueness constraint that exists on the combination of reporting group, disease year, aggregation time frame, disease aggregation time frame, pathogen, disease host, date type, and classification, and so to change those values you must use the form view (available by clicking the edit button).
