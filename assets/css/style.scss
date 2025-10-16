@@ -1961,3 +1961,21 @@ details details summary {
   padding: 0 5px;
   cursor: pointer;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+table thead tr th {
+  border: 1px solid;
+  padding: 1rem;
+}
+
+table tbody tr td {
+  padding: 1rem 0.5rem;
+  border: 1px solid;
+}
+
+table tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
