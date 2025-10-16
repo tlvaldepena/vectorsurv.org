@@ -1972,10 +1972,8 @@ table thead tr th {
 }
 
 table tbody tr td {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-left: 0.5rem;
-  border-right: 1px solid;
+  padding: 1rem 0.5rem;
+  border: 1px solid;
 }
 
 table tr:nth-child(odd) {
