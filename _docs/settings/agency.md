@@ -7,11 +7,11 @@ Agency menu
 
 ### [User Management]({{ site.baseurl }}/docs/settings/user-manage)
 
-Manage active users of this agency
+Manage users of this agency
 
 ### [Agency Information]({{ site.baseurl }}/docs/settings/agency-info)
 
-Edit agency details
+View or edit agency details
 
 ### [Agency Tokens]({{ site.baseurl }}/docs/settings/tokens)
 
