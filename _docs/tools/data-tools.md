@@ -23,8 +23,8 @@ Import data only for your current agency. You can change agencies using the **Cu
 >
 > **Specifications and template files specific to the Arthro Collections - Formatted import type.**
 >
-> - [Generic Sample](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/generic_customized_template.xlsx)
-> - [California Sample](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/CA_default_template.xlsx)
+> - [Default spreadsheet example](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/CA_default_template.xlsx)
+> - [Customized spreadsheet example (Customized to show possible variations. Not intended for use as is)](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/generic_customized_template.xlsx)
 >
 > ### Web Service Documentation
 >
