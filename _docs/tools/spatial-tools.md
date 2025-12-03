@@ -7,7 +7,7 @@ Use these tools to help manage spatial aspects of your data.
 
 ## Geocode
 
-This tool will extract long/lat coordinates from an address typed into the **Location** field or uploaded in a file, which is advantageous for geocoding multiple addresses at once. Note that the geocode file must follow a specific format for the import to be successful, which can be found at the box to the righthand side of the screen. This feature is also available when adding a [new site]({{ site.baseurl }}/docs/site) by its address.
+This tool will extract long/lat coordinates from an address typed into the **Location** field or uploaded in a file, which is advantageous for geocoding multiple addresses at once. Note that the geocode file must follow a specific format for the import to be successful, which can be found at the box to the right-hand side of the screen. This feature is also available when adding a [new site]({{ site.baseurl }}/docs/site) by its address.
 
 Additional resource: [YouTube tutorial for Geocode addresses](https://youtu.be/EDUKRl5R6OQ).
 

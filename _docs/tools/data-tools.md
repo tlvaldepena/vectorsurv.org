@@ -8,7 +8,7 @@ Quickly import and export data.
 
 ## Data Import
 
-Import data only for your current agency. You can change agencies using the **Current Agency** box on the righthand side of the screen.
+Import data only for your current agency. You can change agencies using the **Current Agency** box on the right-hand side of the screen.
 ![Current Agency Box]({{ site.baseurl }}/assets/images/docs/current-agency.PNG)
 
 - **Import Type**: What type of data are you importing? Only one selection is possible.

@@ -11,7 +11,7 @@ This page serves the same purpose as the optional pool entry form on the [new co
 
 ## Fields
 
-- **Pool #**: A numeric identifier for the pool. Pool numbers have to be unique per agency per year. Normally you would start at 1 and increment throughout the year but the exact numbering scheme is up to you. Available numbers for your agency are shown in the **Open 20xx Pool #s** box on the righthand side of the page.
+- **Pool #**: A numeric identifier for the pool. Pool numbers have to be unique per agency per year. Normally you would start at 1 and increment throughout the year but the exact numbering scheme is up to you. Available numbers for your agency are shown in the **Open 20xx Pool #s** box on the right-hand side of the page.
   ![Open Pool #s box]({{ site.baseurl }}/assets/images/docs/open_pools.PNG)
 - **Site Code**: The numeric code for the primary site from which the arthropods were collected. Note that this feature does not allow filtering by the site name.
 - **Other Sites**: List other Site Codes that contributed arthropods to this pool separated by commas. Ex: 001001,001002,001003.  

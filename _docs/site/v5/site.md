@@ -69,7 +69,7 @@ type in coordinates each time.
 - **Controls**
 
   - The user can make the map **zoom** in and out using the "+/-"
-    buttons in the upper left hand corner, or by scrolling while
+    buttons in the upper left-hand corner, or by scrolling while
     hovering over the map.
 
   - The "**Show Existing sites**" toggle will add gray markers for

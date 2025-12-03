@@ -29,7 +29,7 @@ One or the other should be used to submit a single pool.
   numbers have to be unique per agency per year. Normally you would
   start at 1 and increment throughout the year but the exact numbering
   scheme is up to you. Available numbers for your agency are shown in
-  the aside menu on the righthand side of the page. Open the orange
+  the aside menu on the right-hand side of the page. Open the orange
   Pool \# Availability card. You can open and close the menu using the
   small arrow tab on the far-right edge of the page.
 
@@ -68,7 +68,7 @@ One or the other should be used to submit a single pool.
     the same 400m limitation mentioned above.
 
   - The user can make the map zoom in and out using the "+/-"
-    buttons in the upper left hand corner, or by scrolling while
+    buttons in the upper left-hand corner, or by scrolling while
     hovering over the map.
 
   - The "Show Existing sites" toggle will add gray markers for other
