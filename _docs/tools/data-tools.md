@@ -8,7 +8,7 @@ Quickly import and export data.
 
 ## Data Import
 
-Import data only for your current agency. You can change agencies using the **Current Agency** box on the righthand side of the screen.
+Import data only for your current agency. You can change agencies using the **Current Agency** box on the right-hand side of the screen.
 ![Current Agency Box]({{ site.baseurl }}/assets/images/docs/current-agency.PNG)
 
 - **Import Type**: What type of data are you importing? Only one selection is possible.
@@ -21,10 +21,10 @@ Import data only for your current agency. You can change agencies using the **Cu
 >
 > ### Arthro Collections - Formatted Specifications
 >
-> **Specifications and template files specific to the Arthro Collection - Formatted import type.**
+> **Specifications and template files specific to the Arthro Collections - Formatted import type.**
 >
-> - [Generic Sample](https://gateway.vectorsurv.org//doc/arthro_collection_formatted/generic/generic.zip)
-> - [California Sample](https://gateway.vectorsurv.org//doc/arthro_collection_formatted/CA/CA.zip)
+> - [Default spreadsheet example](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/CA_default_template.xlsx)
+> - [Customized spreadsheet example (Customized to show possible variations. Not intended for use as is)](https://gateway.vectorsurv.org/doc/arthro_collection_formatted/generic_customized_template.xlsx)
 >
 > ### Web Service Documentation
 >
@@ -40,7 +40,7 @@ Select the **Export Type** to choose which data you wish to export. Export forma
 
 Quickly generate reports from your agency or from multiple agencies to compare arbovirus activity.
 
-- **Agency**: Choose the agency(ies) you wish to generage a report for. Multiple agencies can be selected by using the _CTRL/CMD/SHIFT_ keys while selecting values.
+- **Agency**: Choose the agency(ies) you wish to generate a report for. Multiple agencies can be selected by using the _CTRL/CMD/SHIFT_ keys while selecting values.
 - **Disease Week**: Select the epi-week and year for the data if you are interested in a specific week. Choosing a date range here will autofill the **From/To** sections below.
 - **From/To**: Manually enter the start/end dates for the data. The date format is based on the settings under [Account Preferences]({{ site.baseurl }}/docs/settings/account-preferences). The subsequent boxes are a time field; if not provided, the hour is assumed to be 0 of 00:00.
 - **Report**: Use the checkboxes to select which type of report(s) will be generated. If there are results in the provided date range for the selected agencies, you can view and download the resulting tables.
