@@ -162,6 +162,7 @@ Note: Edits made using either style of input are not saved until the Save Collec
 - When you select a species a new unpopulated row will automatically appear. This is for convenience so the user does not have to manually create each new row. This will not create a new empty abundance.
 - After a species is selected, you can input counts for each sex/stage/condition column. ‘Σ F’ represents the total number of females for the row’s species across F-Mixed, F-Unfed, F-Bloodfed and F-Gravid. Each row must have at least one count. It is not necessary to mark 0 counts as that is assumed when left blank or absent from the form.
   - You can enter either F-Mixed OR any combination of F-Unfed, F-Bloodfed and F-Gravid. For example, if you input a count for F-Bloodfed, the F-Mixed input will become disabled. If you input a count for F-Mixed, F-Unfed, F-Bloodfed and F-Gravid will all be disabled.
+  - F-Mixed should also be used for collection records where one female mosquito of a given species is collected but where gonotrophic status or parity has not been determined.
 - The bottom row represents totals for each sex/stage/condition across species.
 - **Action Buttons:**
   ![Gray X icon](/assets/images/docs/action-button-remove.png) Remove the selected row.
