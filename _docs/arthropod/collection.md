@@ -24,7 +24,7 @@ Collections are the records of arthropod population data through the placement o
 - **Count of Species**: A listing of arthropods found in the trap. It is not necessary to mark 0 counts as that is assumed when left blank or absent from the form.
   - **Species**: Start typing in the species and the field will autocomplete.
   - **M**: Males.
-  - **F - Mixed**: Females of unknown status. Generally all females will be marked here. If females are marked as mixed, the following 3 columns are disabled.
+  - **F - Mixed**: Females of unknown status. Generally all females will be marked here. If females are marked as mixed, the following 3 columns are disabled. F-Mixed should also be used for collection records where one female mosquito of a given species is collected but where gonotrophic status or parity has not been determined.
   - **F - Unfed**: Females that were known to be unfed.
   - **F - Bloodfed**: Females known to be bloodfed.
   - **F - Gravid**: Females known to be gravid.
