@@ -57,3 +57,5 @@ After selecting the date filter and record types, relevant data will appear on t
 - **Popup Information**: Clicking on a map feature will cause a popup to appear with relevant details about the record. If there are multiple records at the location, a table of data will appear in the popup.
 
 ![Collection Cluster Popup](/assets/images/docs/application-popup-DV.png) ![Collection Cluster Popup](/assets/images/docs/collection-cluster-popup-DV.png)
+
+**Note**: When a pool is tested multiple times the system determines positive results using the process found [here]({{ site.baseurl }}/docs/arthropod/definitive-test-results) .

@@ -18,3 +18,5 @@ This table shows all test results by [Pool ID]({{ site.baseurl }}/docs/arthropod
 This table shows all test results by [Submission ID]({{ site.baseurl }}/docs/arthropod/submission) for the selected time frame. It gives information on how many pools were in the submission and how many of those pools tested positive for any pathogen. Clicking the **Submission #** gives a print-friendly version of that submission's form, similarly to the [submission management]({{ site.baseurl }}/docs/arthropod/submission-manage) table. Clicking the _View_ link under the **Actions** column takes to to the details for every pool's test results for that submission, which you can then _edit_ and _delete_ as before.
 
 There are summary boxes on the right-hand side of the screen describing the tests for the current month by species and by arbovirus results.
+
+**Note**: When a pool is tested multiple times the system determines the defintive result using the process found [here]({{ site.baseurl }}/docs/arthropod/definitive-test-results) .

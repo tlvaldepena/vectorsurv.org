@@ -57,3 +57,5 @@ open/close this aside menu by clicking the arrow tab on the far-right
 edge of the page
 
 ![Pool Manage Aside Menu](/assets/images/docs/aside-pool-manage.png)
+
+**Note**: When a pool is tested multiple times the system determines positive results using the process found [here]({{ site.baseurl }}/docs/arthropod/definitive-test-results) .
