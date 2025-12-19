@@ -58,4 +58,4 @@ After selecting the date filter and record types, relevant data will appear on t
 
 ![Collection Cluster Popup](/assets/images/docs/application-popup-DV.png) ![Collection Cluster Popup](/assets/images/docs/collection-cluster-popup-DV.png)
 
-**Note**: When a pool is tested multiple times the system determines positive results using the process found [here]({{ site.baseurl }}/docs/arthropod/definitive-test-results) .
+**Note**: When pool data is included in the Integrated Data View the test result is displayed for each pool. When a pool is tested multiple times the system determines positive results using the process found [here]({{ site.baseurl }}/docs/arthropod/definitive-test-results) .
