@@ -36,7 +36,7 @@ Under most circumstances, only **definitive results** are included in this resol
 - **Negative**
 - **Presumptive** (in certain states)
 
-Inconclusive result types are typically **not** considered, including:
+The following result types are considered inconclusive and are **not** considered when determining the definitive result:
 
 - Inconclusive
 - Other
