@@ -446,7 +446,7 @@
             How we work: 
         </h2>
          <p> 
-            VectorSurv works closely with state and local agencies and the <a href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">U.S. Centers for Disease Control and Prevention, Division of Vector-Borne Diseases</a> to facilitate real time analytics and sharing that informs decision makers at all levels from local to federal, including easy reporting to <a href="https://wwwn.cdc.gov/arbonet/maps/ADB_Diseases_Map/index.html" target="_blank">ArboNet</a>. 
+            VectorSurv works closely with state and local agencies and the <a href="https://www.cdc.gov/vector-borne-diseases" target="_blank">U.S. Centers for Disease Control and Prevention, Division of Vector-Borne Diseases</a> to facilitate real time analytics and sharing that informs decision makers at all levels from local to federal, including easy reporting to <a href="https://www.cdc.gov/mosquitoes/php/arbonet/index.html" target="_blank">ArboNet</a>. 
         </p>
         <!-- <p> All data in VectorSurv belongs to the agency. ...
         </p> -->
@@ -458,13 +458,13 @@
             Our funders: 
         </h2>
         <li>
-            <a class="linkclass" href="https://www.cdc.gov/ncezid/dvbd/index.html" target="_blank">U.S. Centers for Disease Control and Prevention</a>
+            <a class="linkclass" href="https://www.cdc.gov/vector-borne-diseases" target="_blank">U.S. Centers for Disease Control and Prevention</a>
         </li>
         <li>
             <a class="linkclass" href="https://www.ca.gov/" target="_blank">State of California</a>
         </li>
         <li>
-            <a class="linkclass" href="https://appliedsciences.nasa.gov/what-we-do/health-air-quality" target="_blank">NASA Applied Sciences, Health & Air Quality Program</a>
+            <a class="linkclass" href="https://science.nasa.gov/earth-science" target="_blank">NASA Applied Sciences, Health & Air Quality Program</a>
         </li>
         <li>
             <a class="linkclass" href="https://www.mvcac.org/" target="_blank">Mosquito and Vector Control Association of California</a>
