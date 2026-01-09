@@ -63,7 +63,7 @@ permalink: /docs/
 
 <div class="docs-p">
     <p>
-        For video tutorials on use of the VectorSurv Gateway, visit our <a href="https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-gtarget="> YouTube Channel</a>. Subscribe to the channel to receive notifications anytime future videos are posted. 
+        For video tutorials on use of the VectorSurv Gateway, visit our <a href="https://www.youtube.com/channel/UCCtI2QiZKE32AtlaiAVzl-g"> YouTube Channel</a>. Subscribe to the channel to receive notifications anytime future videos are posted.
     </p>
     <p>
         You can click anytime on the <i>Improve this page</i> link to provide wiki-style suggestions or edits for a specific page. You must have a GitHub account to be able to use this feature.

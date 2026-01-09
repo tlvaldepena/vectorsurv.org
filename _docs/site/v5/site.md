@@ -31,7 +31,7 @@ type in coordinates each time.
   field in the form.
 
 - **The "Zero Code" Site**: Each agency will be assigned a site with a
-  code of all 0s to be used for "one off" collections. The default
+  code of all 0s to be used for "one-off" collections. The default
   location will be the address of the agency as it is recorded in
   VectorSurv. If specimens are collected at a location the agency is
   not likely to visit again, the most common practice is to use the
