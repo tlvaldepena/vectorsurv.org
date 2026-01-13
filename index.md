@@ -87,7 +87,7 @@
         <figure>
           <img src="/assets/images/student.png" alt="icon of student">
         </figure>
-        <h2> 2100+ </h2>
+        <h2> 1300+ </h2>
         <h3> users </h3>
     </div> 
 </div>
