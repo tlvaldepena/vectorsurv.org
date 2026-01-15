@@ -57,7 +57,7 @@
 
 <div class="grid-container-full">
     <div class= "boxfull2">
-        <h3><u><a class="linkclass" href="https://vectorsurv.org/newsletter" target="_blank">Join our newsletter</a></u> to stay up to date with announcements, new features, tips, and more. 
+        <h3><u><a class="linkclass" href="https://vectorsurv.org/newsletter" target="_blank">Join our newsletter</a></u> to stay up to date with announcements, new features, tips, and more.
         </h3>
     </div>
 </div>
