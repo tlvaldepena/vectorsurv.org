@@ -13,8 +13,6 @@
   <div>
     <h1>VectorSurv Mobile Beta</h1>
     <p>Thank you for your interest in the VectorSurv Mobile beta. Sign up to participate by completing the following form. We will contact you when we have more information, questions, or development for you to try out. </p>
-    
-    <p>This is a no-commitment sign-up, so if you aren't available to test when we reach out, just let us know.  </p>
   </div>
   </div>
 </div>
