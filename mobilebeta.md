@@ -6,7 +6,7 @@
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 
-<div class="grid-container-full2">
+<div class="grid-container-full2" style="padding:0;">
 
 <div style="width:100%; display:flex; justify-content:center;">
   <div style="max-width:600px; padding:0 1em;">
