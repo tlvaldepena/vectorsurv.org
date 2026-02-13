@@ -1,0 +1,25 @@
+- name: RAPID simulator
+  description: <p>Rhipicephalus sanguineus Assessment, Prevention, Intervention, & Decision-support Simulator</p>
+  url: https://shiny.vectorsurv.org/jody/RAPID2/
+  image: rapid.png
+  contact_name: Tool1 Contact
+  contact_email: contact@tool1.com
+  developer: Developer Name
+  papers: 
+    [paper1, paper2, paper3]
+
+- name: Diagnostic performance of trapping effort
+  description: <p>Relate trapping effort to reliability of risk estimates or infection prevalence.</p>
+  url: https://shiny.vectorsurv.org/kholcomb/SensAccTraps/
+  image: holcomb.png
+  contact_name: Tool2 Contact
+  contact_email: contact@tool2.com
+  developer: Developer2 Name
+
+# - name: Example Tool
+#   description: >
+#     <p>This is the first paragraph</p>
+#     <p>This is the second paragraph</p>
+#   contact_name: Tool Contact
+#   contact_email: contact@tool.com
+#   developer: Developer Name
