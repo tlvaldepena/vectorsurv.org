@@ -1,5 +1,5 @@
 - name: RAPID simulator
-  description: Rhipicephalus sanguineus Assessment, Prevention, Intervention, & Decision-support Simulator
+  description: <p>Rhipicephalus sanguineus Assessment, Prevention, Intervention, & Decision-support Simulator</p>
   url: https://shiny.vectorsurv.org/jody/RAPID2/
   image: rapid.png
   contact_name: Tool1 Contact
@@ -7,21 +7,21 @@
   developer: Developer Name
 
 - name: Tool 2
-  description: This is the description for Tool 2
+  description: <p>This is the description for Tool 2</p>
   contact_name: Tool2 Contact
   contact_email: contact@tool2.com
   developer: Developer2 Name
 
 - name: Tool 3
   description: >
-    This is the description for Tool 3
-    This is the second line
+    <p>This is the description for Tool 3</p>
+    <p>This is the second line</p>
   contact_name: Tool3 Contact
   contact_email: contact@tool3.com
   developer: Developer3 Name
 
 - name: Tool 4
-  description: This is the description for Tool 4
+  description: <p>This is the description for Tool 4</p>
   contact_name: Tool4 Contact
   contact_email: contact@tool4.com
   developer: Developer4 Name
