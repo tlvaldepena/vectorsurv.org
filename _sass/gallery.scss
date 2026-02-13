@@ -1,5 +1,5 @@
 .gallery-item {
-  background-color: #fafafa;
+  background-color: #f8f8f8 !important; // important is needed here to override the background color change on hover
 }
 
 .gallery {
@@ -11,7 +11,7 @@
 }
 
 .gallery-item {
-  border: thin solid #f0f0f0;
+  border: thin solid #dddddd !important; // important is needed here to override the border-bottom color change on hover
   border-radius: 5px;
 }
 
