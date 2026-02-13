@@ -15,7 +15,8 @@
   border-radius: 5px;
 }
 
-.gallery-item p {
+.gallery-item p,
+.gallery-item ul {
   color: #003366;
 }
 
@@ -25,6 +26,8 @@
 
 .gallery-item-image > img{
   border-radius: 5px 5px 0 0;
+  aspect-ratio: 16/9;
+  width: 100%;
 }
 
 .gallery-item-body {

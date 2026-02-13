@@ -1,6 +1,6 @@
 ---
 title: Vector Control Tools
-permalink: /vector_control_tools/
+permalink: /usefultools/
 ---
 
 <div class="wrap-outer">
@@ -19,11 +19,27 @@ permalink: /vector_control_tools/
     {% endif %}
       <div class="gallery-item-body">
         <h2>{{ tool.name }}</h2>
-        <p>Developer: {{ tool.developer }} </p>
+        <p><em>Developed by {{ tool.developer }}</em></p>
         <div>{{ tool.description }}</div>
+        {% if tool.papers.size > 0 %}
+          <div>
+            <p style="margin-bottom:0;">Referenced in:</p>
+            <ul>
+              {% for paper in tool.papers %}
+                <li>paper</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
       </div>
   </a>
 {% endfor %}
+</div>
+
+<div style="margin-top:3em;">
+  <p>
+    Have something you'd like to see here? <a href="submit">Submit your tool</a>.
+  </p>
 </div>
 
 <div style="margin-top:3em;">
