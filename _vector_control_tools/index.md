@@ -14,7 +14,7 @@ permalink: /usefultools/
   <a class="gallery-item" href="{{ tool.url }}">
     {% if tool.image %}
       <div class="gallery-item-image">
-        <img src="{{ site.baseURL}}/assets/images/external_tools/{{ tool.image }}">
+        <img src="{{ site.baseURL}}/assets/images/external_tools/{{ tool.image }}" alt="Example image of tool: {{tool.name}}">
       </div>
     {% endif %}
       <div class="gallery-item-body">
