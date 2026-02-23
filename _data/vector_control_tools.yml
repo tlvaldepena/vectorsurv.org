@@ -2,17 +2,17 @@
   description: <p>Rhipicephalus sanguineus Assessment, Prevention, Intervention, & Decision-support Simulator</p>
   url: https://shiny.pacvec.us/RAPID/
   image: rapid.png
-  contact_name: Tool1 Contact
-  contact_email: contact@tool1.com
-  developer: Developer Name
+  contact_name: Francesca Rubino
+  contact_email: firubino@ucdavis.edu
+  developer: Francesca Rubino
 
 - name: Diagnostic performance of trapping effort
   description: <p>Relate trapping effort to reliability of risk estimates or infection prevalence.</p>
   url: https://shiny.pacvec.us/SensAccTraps/
   image: holcomb.png
-  contact_name: Tool2 Contact
-  contact_email: contact@tool2.com
-  developer: Karen Holcomb
+  contact_name: Chris Barker
+  contact_email: cmbarker@ucdavis.edu
+  developer: Karen Holcomb and Chris Barker
 
 # - name: Example Tool listing
 #   description: >
