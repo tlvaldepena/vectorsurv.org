@@ -20,7 +20,7 @@ walkthroughs of common tasks.
 
 <div id="new-site"></div>
 
-### **Create a new site.**
+### **Create a new site**
 
 **Scenario**: You are creating a new site in the VectorSurv system for your agency to use with the following characteristics...
 
@@ -43,7 +43,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Create a new site with a specific date interval.**
+### **Create a new site with a specific date interval**
 
 **Scenario**: You want to create a new site in the VectorSurv system for your agency to use with historical collection and/or pool records. You want the site to have the following characteristics...
 
@@ -66,7 +66,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Edit an existing site's optional values.**
+### **Edit an existing site's optional values**
 
 **Scenario**: Your agency has a site record in our system, and you wish to update the value of some optional fields (e.g., Address or Comments).
 
@@ -83,7 +83,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Edit an existing site's date values.**
+### **Edit an existing site's date values**
 
 **Scenario**: Your agency has a site record in our system, and you wish to change the "Active Date" and/or "Deactive Date" value(s).
 
@@ -103,7 +103,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Edit an existing site's coordinates.**
+### **Edit an existing site's coordinates**
 
 **Scenario**: The coordinates for one of your agency's sites were entered incorrectly. You want to edit the coordinates and have the new location apply to all associated records throughout the site revision's history.
 
@@ -120,7 +120,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Create a new site revision.**
+### **Create a new site revision**
 
 **Scenario**: Your agency will no longer be using a particular location as a trap site. You want to reuse that site code and have it associated with another location for all future collection dates.
 
@@ -145,7 +145,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Edit the date boundary between two date-adjacent sites.**
+### **Edit the date boundary between two date-adjacent sites**
 
 **Scenario**: Two site revisions have been created for your agency with the same site code. The "Active Date" of the more recent site is incorrect and needs to be edited. The resulting edit will cause this revision's date range to overlap the previous site revision's date range. **This is intentional**. You want the later revision to appropriate some of the time interval currently associated with the earlier revision.
 
@@ -166,7 +166,7 @@ walkthroughs of common tasks.
 
 ---
 
-### **Consolidate two date-adjacent sites.**
+### **Consolidate two date-adjacent sites**
 
 **Scenario**: Your agency mistakenly created two site revisions for a given date period. You want all records associated with the previous/earlier site revision to be associated with the later site revision and you want the previous site revision deleted.
 
