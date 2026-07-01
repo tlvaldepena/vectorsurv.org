@@ -15,15 +15,8 @@ type in coordinates each time.
 
 ## The Form
 
-- **Active Date:** The date that this site/revision was first put into
-  service. Leaving this field blank will effectively make the site
-  active for all dates prior to the deactive date.
-
-- **Deactive Date:** The date this site/revision was decommissioned.
-  Leave this field blank if the site is currently active.
-
 - **Site Code**: A numeric identifier for the site. Only one site may
-  use a given site code during the active/ deactive date interval.
+  use a given site code during the active/deactive date interval.
   Each agency can assign codes however they want. Codes that have not
   yet been assigned for sites in your current agency will be listed in
   the **Available Site Code #s** box on the right-hand side of the
@@ -67,7 +60,6 @@ type in coordinates each time.
 ![Site Map Card](/assets/images/docs/site-map.png)
 
 - **Controls**
-
   - The user can make the map **zoom** in and out using the "+/-"
     buttons in the upper left-hand corner, or by scrolling while
     hovering over the map.
@@ -85,7 +77,6 @@ type in coordinates each time.
     current site marker.
 
 - **Fields**
-
   - **Latitude:** The latitude value. Must be between -90 & 90
     degrees.
 
@@ -129,6 +120,19 @@ type in coordinates each time.
 
 ---
 
+## The Date Range Card
+
+If your agency reuses site codes at different locations you can designate a time interval when this particular site revision was utilized for trapping. If a trapping event happens outside of the site revision active date period the site revision will not show up as a choice in the pool or collection forms. Leaving the dates blank will leave the site available throughout history.
+
+- **Active Date:** The date that this site/revision was first put into
+  service. Leaving this field blank will effectively make the site
+  active for all dates prior to the deactive date.
+
+- **Deactive Date:** The date this site/revision was decommissioned.
+  Leave this field blank if the site is currently active.
+
+---
+
 ## The Revision Card
 
 When viewing a site that has other revisions, or when creating a new
@@ -143,7 +147,7 @@ The Revision Timeline Chart is a horizontal bar chart representing
 existing revisions and their respective time intervals. The accented
 blue bar represents the revision currently populating the form above.
 Clicking on a revision's bar will bring up the **Site Revision Record
-History** chart showing a timeline of associated records.
+History** chart showing a timeline of associated records. Clicking on the **Consolidate Revision Buttons** ![Consolidate Revision Button](/assets/images/docs/site-arrow_box.png) is a quick way to merge unwanted revisions into the currently viewed site revision. Checkout the [Walkthroughs]({{ site.baseurl }}/docs/site/v5/walkthroughs) for more information.
 
 ![Site Revision Record History](/assets/images/docs/site-revision-history.png)
 
