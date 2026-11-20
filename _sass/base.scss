@@ -227,3 +227,35 @@ pre {
 ul.innerNav {
   margin-left: 10px;
 }
+
+article section ol,
+article section ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+article section ol li,
+article section ul li {
+  margin-top: 0;
+}
+
+article section p {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+article section p:has(+ ul) {
+  margin-bottom: 0;
+}
+
+article section h2 {
+  color: #003366;
+}
+
+article section h3 {
+  color: #003366;
+}
+
+.subtle-blue {
+   color: #003366;
+}
